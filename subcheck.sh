@@ -17,7 +17,7 @@ IFS=":"
 for x in $(echo $@ | sed 's/\.txt /\.txt:/g')
 do
     case "$x" in
-        *.txt)grep -PH "^\[" "$x" >/dev/null || continue
+        *.txt)grep -H "^\[" "$x" >/dev/null || continue
               echo "Convertig subtitle $x"
               if [ "$FPS" == "" ];then
                   subconverter.py "$x"
