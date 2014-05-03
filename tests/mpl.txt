@@ -1,0 +1,957 @@
+[670][687]Proszê zaczekaæ.
+[712][727]Dok¹d pan zmierza?
+[742][757]Dok¹d siê wybierasz?
+[759][774]Wszystko w porz¹dku?
+[778][794]Dok¹d idziesz?
+[798][840]Idziesz wzd³u¿ drogi?|Sk¹d przyszed³eœ?
+[872][915]<<KinoMania SubGroup>>|www. kinomania. org
+[1009][1047]NEBRASKA
+[1949][1962]To on.
+[1976][1990]Dziêkujê.
+[2065][2083]O ciebie tyle krzyku?
+[2104][2131]- S³ucham?|- Do ciebie mnie wezwali?
+[2136][2153]No nie wiem.
+[2171][2210]Powiedzia³eœ szeryfowi,|¿e zmierzasz do Nebraski.
+[2216][2248]Zgadza siê.|Odebraæ milion dolarów.
+[2259][2276]Jaki milion?
+[2369][2401]"Zostaliœmy upowa¿nieni|do wyp³aty miliona dolarów
+[2402][2435]panu Woodrowowi T. Grantowi|z Billings, w stanie Montana".
+[2437][2452]Poka¿ to.
+[2461][2480]Twoja matka mnie nie zawiezie.
+[2483][2525]Mega Sweepstakes Marketing.|To totalny wkrêt.
+[2525][2549]Najstarszy chwyt reklamowy.
+[2550][2571]Myœla³em, ¿e ju¿ tego nie robi¹.
+[2573][2616]- Nie mog¹ tak oszukiwaæ.|- Próbuj¹ wcisn¹æ ci czasopisma.
+[2621][2639]Pisz¹, ¿e wygra³em.
+[2641][2704]- Za³atwimy to poczt¹.|- Nie powierzê jej miliona.
+[2952][2994]Ty g³upolu. Prawie pad³am|przez ciebie na zawa³.
+[2996][3013]Nie ekscytuj siê tak.
+[3017][3045]Uciek³ po raz drugi.
+[3051][3089]Nie wiedzia³am,|¿e chcia³ zostaæ milionerem.
+[3091][3126]Móg³ iœæ po rozum do g³owy|i go uczciwie zarobiæ.
+[3210][3234]Co byœ zrobi³ z tak¹ fors¹?
+[3239][3252]Kupi³bym pó³ciê¿arówkê.
+[3254][3288]- Zabrali ci prawko.|- Zdam je na nowo.
+[3290][3315]Tylko mnie uprzedŸ,|¿ebym mia³ oczy dooko³a g³owy.
+[3322][3364]- Potrzebujê te¿ kompresor.|{y:i}- A ty ci¹gle o tym samym?
+[3365][3401]{Y:i}- Ed Pegram mi go nie odda³.|- Bo to z³odziej.
+[3403][3430]{y:i}Po¿yczy³em mu go.
+[3431][3468]- Kto to taki?|- Zna³em go z Hawthorne.
+[3471][3501]- Kiedy go po¿yczy³?|- W '74.
+[3505][3534]Prawie 40 lat temu|i dziel¹ was dwa stany.
+[3535][3548]Ukrad³ ci go.
+[3559][3577]Dlatego potrzebujê nowy.
+[3584][3617]- Dok¹d teraz leziesz?|- Usi¹œæ.
+[3626][3671]{Y:i}Nawet sypia z tym durnym listem.|Wyku³ go na blachê.
+[3677][3707]{y:i}Myœla³am, ¿e ma kiepsk¹ pamiêæ.
+[3749][3765]{y:i}Co tu masz dobrego?
+[3768][3800]{y:i}To lazania. Jedz, póki œwie¿a.
+[3827][3876]{Y:i}Gdybym mia³a milion dolarów,|odda³abym ojca do domu starców.
+[4209][4233]...g³oœników o rozs¹dnej cenie,|które was zadowol¹,
+[4234][4271]jeœli macie obawy,|¿e ten sprzêt bêdzie zbyt s³aby.
+[4274][4307]Przy obecnych ofertach|nie mo¿na dokonaæ z³ego wyboru.
+[4336][4377]Zastanowimy siê i damy panu znaæ.
+[4402][4436]WeŸcie wizytówkê i dzwoñcie|w razie jakichkolwiek w¹tpliwoœci.
+[4439][4465]Znakomicie.|Do zobaczenia, Mark i Janice.
+[4467][4493]- Mówi siê przez dwa "i".|- Przepraszam.
+[4512][4530]{y:i}David, telefon.
+[4532][4555]{y:i}David Grant, telefon.
+[4675][4688]Gdzie go znaleŸli?
+[4690][4725]A¿ na King Avenue|przy supermarkecie.
+[4728][4748]D³u¿ej tego nie zniosê.
+[4749][4783]Ross próbuje|przemówiæ mu do rozs¹dku.
+[4832][4844]Czeœæ, David.
+[4861][4875]Co robisz, tato?
+[4877][4912]Zapytaj matkê i Rossa.|Oni wiedz¹ lepiej.
+[4916][4930]Pytam ciebie.
+[4940][4961]Nie mogê jej rozruszaæ.
+[4963][5003]- Bo le¿y tu od dekady.|- Uruchomiê j¹.
+[5005][5030]Ci¹gle chce jechaæ po swoj¹ kasê.
+[5052][5085]Zamiast maszerowaæ,|mog³eœ od razu naprawiæ wóz
+[5086][5102]albo pojechaæ autobusem.
+[5120][5161]Nie denerwuj go.|Biedaczek powoli traci œwiadomoœæ.
+[5169][5206]Przeci¹³em zwojnicê.|Trochê mu to zajmie.
+[5207][5235]Mama ma racjê.|Czas pomyœleæ o domu opieki.
+[5236][5281]- Nie daje sobie z nim rady.|- Nie potrzebuje domu opieki.
+[5282][5326]Potrzebuje powodu do ¿ycia.|Tylko to mu zosta³o.
+[5328][5349]To ¿a³osne.
+[5351][5388]Picie zawsze mu w ¿yciu wystarcza³o.
+[5392][5425]Ja i mama patrzymy trzeŸwo.|Ty te¿ zacznij.
+[5426][5447]Dom starców to|najlepsze rozwi¹zanie.
+[5448][5501]To i tak wiele.|On mia³ nas w dupie.
+[5550][5581]Widzia³em, jak prowadzi³eœ program.|Gratulacje.
+[5593][5609]Po raz pierwszy przed kamer¹.
+[5617][5647]Musia³em zast¹piæ Kelly Ann Castillo.
+[5649][5684]Nawet nieŸle sobie poradzi³em.
+[5688][5724]Nowy Tom Brokaw z Billings.
+[5726][5775]Jeszcze nie ten poziom,|ale dobrze siê zapowiada.
+[5777][5821]Zapracowa³em na to.|I Kelly Ann nieŸle siê rozchorowa³a.
+[5885][5913]{Y:i}Przeciwnicy pod wodz¹ radnego|Barry'ego Tildena,
+[5913][5982]{Y:i}uwa¿aj¹ ten projekt za|"czcze obietnice kosztuj¹ce krocie".
+[5984][6026]{Y:i}Debata nad projektem odbêdzie siê|na poniedzia³kowym posiedzeniu.
+[6032][6082]{Y:i}Za chwilê w sporcie|historia fana skuterów œnie¿nych,
+[6083][6118]{Y:i}który straci³ nogi,|lecz nie wolê walki.
+[6119][6145]{Y:i}Wracamy po krótkiej przerwie.
+[6267][6283]Wprowadzasz siê ponownie?
+[6285][6311]Tylko oddajê twoje tobo³y.
+[6313][6335]Œwietnie, dziêki.
+[6389][6407]Wejdziesz do œrodka?
+[6517][6552]Podlewaj kwiatki.
+[6715][6731]Chcia³bym, ¿ebyœ zmieni³a zdanie.
+[6737][6752]Co masz na myœli?
+[6786][6819]Przecie¿ wiesz.|Chcê, ¿ebyœ siê wprowadzi³a.
+[6826][6841]Dopiero siê wyprowadzi³am.
+[6850][6902]- Te dwa lata nic nie znacz¹?|- Czas poka¿e.
+[6942][6957]A seks wchodzi w grê?
+[6975][6987]Muszê iœæ.
+[6993][7010]Zaczekaj.
+[7012][7043]Nie mo¿emy byæ razem,|jeœli siê nie pobierzemy?
+[7046][7081]Pobierzemy, zerwiemy.|Nie wiem.
+[7087][7117]Zróbmy to i to.|Nie stójmy bezczynnie.
+[7141][7167]{y:i}Odbierz lub oddzwoñ natychmiast.
+[7171][7201]{Y:i}Nie mam do niego si³.|Umieszczê go...
+[7206][7220]Czeœæ, mamo.
+[7428][7436]Tato.
+[7451][7474]- Tato!|- Daj mi spokój!
+[7631][7646]Zabiorê ciê do domu.
+[7647][7669]Idê do Lincoln,|choæbym mia³ paœæ trupem.
+[7671][7709]- Myœlcie sobie, co chcecie.|- Niczego nie wygra³eœ.
+[7710][7737]To oszustwo.|Odpuœæ sobie.
+[7738][7769]- Nie mam czasu.|- Nawet nie masz walizki.
+[7770][7785]Wezmê kasê i wracam.
+[7798][7826]- Nie pozwolê ci.|- To nie twoja sprawa.
+[7827][7860]- Moja. Jestem twoim synem.|- To mnie tam zawieŸ.
+[7865][7893]Nie rzucê wszystkiego,|¿eby jechaæ do Lincoln.
+[7894][7925]A co masz lepszego do roboty?
+[7993][8017]Ty te¿ postrada³eœ rozum?
+[8026][8062]W tej chwili|wyci¹gnij go z samochodu!
+[8072][8091]Musisz mi pomóc!
+[8095][8118]To ja latam tu jak g³upia!
+[8121][8156]Twój ojciec tylko siedzi.|Jest do niczego.
+[8157][8205]- Matka go rozpieœci³a!|- Wrócimy za kilka dni.
+[8208][8246]Korzystaj z samotnoœci.|Ci¹gle na niego narzeka³aœ.
+[8248][8276]- A twoja praca?|- Wzi¹³em chorobowe.
+[8278][8292]Choryœ na g³owê.
+[8295][8326]Ross do ciebie zadzwoni.|On mnie wesprze.
+[8327][8343]Œwietnie. Pa, mamo.
+[8372][8417]Jesteœ jak twój ojciec!|Uparty jak osio³!
+[8638][8667]Ja poprowadzê, gdy siê zmêczysz.
+[8672][8684]Nie wolno ci.
+[8697][8723]Prowadzê o wiele lepiej|ni¿ tamten mato³.
+[8728][8739]Niech ci bêdzie.
+[8747][8773]O tym matole nie wspominaj¹c.
+[9459][9472]Niech to.
+[9738][9757]Co ty wyprawiasz?
+[9780][9795]Piæ mi siê chcia³o.
+[9801][9835]- Fajnie, ¿e rzuci³eœ picie.|- To tylko jedno piwko.
+[9868][9878]W drogê.
+[10400][10410]Tato.
+[10419][10438]Obejrzymy górê Rushmore?
+[10444][10492]- Nie ma na to czasu.|- To tylko pó³ godziny za autostrad¹.
+[10493][10512]To tylko kupa ska³.
+[10629][10642]Podoba ci siê?
+[10649][10665]Nie skoñczono ich.
+[10670][10681]Co masz na myœli?
+[10688][10711]Kogoœ wynudzi³a ta robota.
+[10727][10780]Tylko Washington ma na sobie ubranie|i do tego wymiêtolone.
+[10793][10812]Lincoln nawet nie ma ucha.
+[10833][10849]Naogl¹daliœmy siê.
+[11270][11279]Tato?
+[11359][11375]Chryste.
+[11496][11508]Nic mi nie jest.
+[11519][11534]Wracaj do ³ó¿ka.
+[11573][11602]Proszê le¿eæ spokojnie.
+[11670][11691]Proszê daæ znaæ, gdy zaboli.
+[11751][11774]Ju¿ koñczymy.
+[11868][11907]Zrobione.|Œwietnie pan wspó³pracowa³.
+[11960][11972]Zaraz wracam.
+[12036][12055]Gdzie moje zêby?
+[12070][12083]Zgubi³eœ zêby?
+[12128][12144]Zostawi³eœ w motelu?
+[12148][12171]- Nie.|- W knajpie?
+[12173][12198]Nie by³em w ¿adnej knajpie.
+[12201][12239]Zgubi³eœ je w lokalu,|którego nie nazywasz knajp¹?
+[12253][12280]Chyba zgubi³em je przy torach.
+[12302][12312]Panowie.
+[12319][12334]Dziêkuje za cierpliwoœæ.
+[12340][12389]Bior¹c pod uwagê wiek,|obra¿enia i historiê picia,
+[12390][12422]powinniœmy zatrzymaæ pana|na obserwacji.
+[12423][12437]Ja nie pijê.
+[12439][12474]S³ysza³eœ?|Nie wyruszamy do pi¹tku.
+[12483][12510]- Mamy czas do poniedzia³ku.|- Zabiorê ciê do domu.
+[12515][12547]- Nie wracam.|- Nie mogê czekaæ do poniedzia³ku.
+[12551][12575]Do pracy bym poszed³|dopiero w œrodê.
+[12578][12595]Sprzedawaæ gramofony.
+[12608][12628]Wygra³em milion dolarów.
+[12639][12669]Gratulacje.|Starczy na pobyt w szpitalu.
+[12784][12798]Tato!
+[12817][12842]Nie mog³em znaleŸæ twoich zêbów.
+[12849][12865]S¹ ko³o torów.
+[12876][12915]Wujek Ray i ciotka Martha|przenocuj¹ nas w weekend w Hawthorne.
+[12930][12950]Nie chcê tam jechaæ.
+[12952][12976]W weekend nie ma sensu|jechaæ do Lincoln.
+[12979][12997]Zabiorê ciê tam w poniedzia³ek.
+[12998][13041]Ciotka sprosi³a twoich braci|i szykuje spotkanie w niedzielê.
+[13043][13073]Mama przyjedzie autobusem,|mo¿e Ross i Marcie.
+[13074][13084]Mi³o bêdzie.
+[13096][13116]Nie chcê jechaæ do Hawthorne.
+[13331][13347]Znalaz³em!
+[13354][13365]Mam je!
+[13405][13426]To nie twoje.
+[13468][13487]¯artowa³em.
+[13539][13565]- To nie moje.|- Twoje.
+[13581][13612]- SprawdŸ, czy pasuj¹.|- To nie moje zêby.
+[13615][13642]- Musz¹ byæ twoje.|- Poznam swoje zêby.
+[13732][13774]Oczywiœcie, ¿e to moje.|Nie wydurniaj siê.
+[14993][15022]- Witajcie, ch³opcy.|- Czeœæ, ciociu.
+[15149][15192]Aleœ wyrós³. Ostatnio|nie mia³eœ wiêcej jak 15 lat.
+[15193][15214]To samo mówi³em tacie.|Szmat czasu.
+[15224][15247]Co masz do powiedzenia, Woody?
+[15251][15273]- Nic.|- Co ci siê sta³o?
+[15275][15284]Upad³em.
+[15293][15318]Bracia Grantowie, ludzie ma³omówni.
+[15322][15334]ChodŸcie.
+[15401][15445]Zobacz, kto nas odwiedzi³.|Twój brat, Woody.
+[15489][15519]- Co tam, Woody?|- Nic takiego.
+[15526][15538]A co u ciebie?
+[15559][15570]Pomalutku.
+[15577][15586]Czeœæ, wujku.
+[15603][15646]- Gdzie toaleta?|- Za rogiem w lewo.
+[15679][15701]Pamiêtacie kuzyna Davida?
+[15709][15732]Bart, Cole.
+[15740][15777]Min¹³ kawa³ czasu.|Co teraz porabiacie?
+[15786][15797]Niewiele.
+[15814][15861]Ekonomia zniszczy³a Hawthorne.|Ciê¿ko m³odym siê utrzymaæ.
+[15863][15914]Sam robiê w elektronice.|Ciê¿ka sprawa, nie ma co.
+[15966][15984]Cole trochê odsiedzia³.
+[15990][16007]Nie wspominaj o tym.
+[16017][16034]Dziwka perfidnie k³ama³a.
+[16036][16071]- Nie ¿yczê sobie takiego jêzyka!|- Przepraszam.
+[16072][16109]Na pewno padasz z g³odu.|Zrobi³am kanapki.
+[16210][16225]D³ugo tutaj jechaliœcie?
+[16235][16285]Nie wiem. Wpadliœmy do Rapid City.|Tata siê tam poturbowa³.
+[16287][16301]W sumie jak d³ugo?
+[16318][16346]- Kilka dni.|- Z Billings?
+[16356][16410]- Jak daleko jest?|- Oko³o 1200 kilometrów.
+[16416][16477]W dwa dni zrobiliœcie 1200 kilosów?|Jechaliœcie wywrotk¹?
+[16498][16539]- Starym Subaru.|- Raz jecha³em z Dallas.
+[16541][16575]1400 kilosów przejecha³em|w osiem godzin.
+[16590][16637]- Wychodzi 160 km/h.|- Bart nieŸle depn¹³.
+[16652][16681]- Wcinaj, Davy.|- Dziêkujê.
+[16696][16718]Dwa dni z Montany.
+[16719][16745]Skurczybyk musia³ jechaæ|na wstecznym.
+[16850][16882]Raya pobolewa stopa.
+[16892][16913]Po prostu boli.
+[16937][16952]S³yszysz, tato?
+[16989][17016]- Raya boli stopa.|- Wiem.
+[17038][17058]Poza tym w porz¹dku?
+[17065][17078]Wujku?
+[17087][17102]Niezbyt.
+[17127][17168]Kate mówi, ¿e Ross|nieŸle sobie radzi w telewizji.
+[17169][17186]Ca³kiem nieŸle.
+[17193][17230]To œwietnie.|Zawsze by³ ambitny.
+[17278][17304]Dwa dni z Billings.
+[18012][18030]To by³ mój warsztat.
+[18039][18068]Serio? A nie goœæ od kompresora?
+[18071][18095]- Ed Pegram.|- W³aœnie.
+[18096][18140]- Byliœmy wspólnikami.|- Co siê sta³o?
+[18148][18175]- Sprzeda³em mu go.|- Za ile?
+[18179][18192]Za osiem stów.
+[18284][18308]- Pomóc wam?|- Tak.
+[18309][18329]Tata by³ kiedyœ w³aœcicielem.
+[18388][18404]Co teraz majstrujecie?
+[18410][18432]Wymieniamy przewody ch³odz¹ce.
+[18453][18501]Znacie Eda Pegrama?|By³ wspó³w³aœcicielem.
+[18607][18622]Nie znamy go.
+[18636][18651]Kolego.
+[18672][18705]- U¿ywasz z³ego klucza.|- ChodŸmy ju¿.
+[18713][18724]Do zobaczenia.
+[18732][18752]{y:i}Pajac u¿ywa³ z³ego klucza.
+[18808][18827]Mo¿e tam spotkam kogoœ znajomego.
+[18969][18984]Wieje pustk¹.
+[19111][19130]Co wam podaæ, ch³opcy?
+[19140][19172]- Piwo.|- Jakie piwo sobie ¿yczysz?
+[19179][19222]- Obojêtnie. Mo¿e byæ Coors.|- Dla mnie Mountain Dew.
+[19225][19255]Coors bêdzie dopiero|w poniedzia³ek.
+[19266][19293]- Mo¿e byæ Bud.|- Ju¿ podajê.
+[19299][19318]Tom Varnik|nadal jest w³aœcicielem?
+[19321][19362]Nie kojarzê go.|Pewnie by³ tutaj przede mn¹.
+[19438][19467]Proszê bardzo.|Podaæ coœ jeszcze?
+[19469][19491]- Nie, dziêkujê.|- W razie czego, wo³ajcie.
+[19519][19539]Kiedyœ zna³em tutaj ka¿dego.
+[19545][19563]Tu pi³eœ po raz pierwszy?
+[19565][19596]Ojciec dawa³ mi podpijaæ piwo.
+[19608][19640]Podtrzyma³eœ z nami tê tradycjê.
+[19659][19690]- Smakowa³o ci.|- Mia³em szeœæ lat.
+[19702][19749]£yk piwa nie zabije szeœciolatka.|Myœla³em, ¿e pijesz.
+[19759][19806]Nie b¹dŸ taki,|napij siê ze staruszkiem.
+[19817][19833]Próbujê to rzuciæ.
+[19848][19858]Po co?
+[19877][19913]Zaczyna³em...|Picie mi nie pomaga³o.
+[19921][19936]A teraz jesteœ wporzo.
+[19981][19992]Przepraszam.
+[20000][20026]- Mogê prosiæ o piwo?|{y:i}- Ju¿ siê robi.
+[20028][20044]Napijê siê z tat¹.
+[20330][20352]Zerwa³em z Noël.
+[20371][20378]Z kim?
+[20384][20427]Z Noël. Mieszka³em z ni¹|przez dwa lata.
+[20443][20464]Wyprowadzi³a siê i zerwaliœmy.
+[20508][20529]Mog³em poprosiæ j¹ o rêkê.
+[20539][20581]Nigdy nie mia³em pewnoœci.
+[20631][20650]Sk¹d masz mieæ pewnoœæ?
+[20661][20672]Ty by³eœ pewien?
+[20700][20722]Jak to by³o z twoim œlubem?
+[20738][20763]- Chcia³a tego.|- Ty nie chcia³eœ?
+[20782][20796]Zaryzykowa³em.
+[20827][20861]- ¯a³owa³eœ tego kiedyœ?|- Nieustannie.
+[20875][20890]Mog³em gorzej skoñczyæ.
+[20899][20931]Kiedyœ musia³eœ j¹ kochaæ.
+[20936][20948]Nie zaiskrzy³o.
+[21017][21058]Rozmawialiœcie kiedykolwiek|o posiadaniu potomstwa?
+[21059][21074]Nie.
+[21086][21103]Dlaczego nas urodzi³a?
+[21106][21150]Lubi³em bzykanko,|a twoja matka to katoliczka.
+[21163][21198]Czyli nigdy|nie planowaliœcie dzieci?
+[21204][21240]Mia³em œwiadomoœæ,|¿e po bzykaniu mo¿ecie siê urodziæ.
+[21272][21288]Chcia³eœ j¹ kiedyœ zostawiæ?
+[21295][21329]Skoñczy³bym z jak¹œ inn¹|wieczn¹ zrzêd¹.
+[21334][21349]To prawda.
+[21368][21394]Tyle lat znosi³a twoje picie.
+[21399][21412]Nie pijê du¿o.
+[21420][21441]- Jesteœ alkoholikiem.|- Gówno prawda.
+[21442][21460]Jaka gówno prawda?
+[21467][21485]Wiedzia³em o tym|w wieku oœmiu lat.
+[21489][21512]Widzia³em jak|chowasz wódkê w gara¿u.
+[21514][21543]I j¹ ukrad³eœ.|Wiedzia³em, ¿e to ty.
+[21547][21566]Wykosztowa³em siê na tobie.
+[21569][21612]Wyla³em j¹.|Nie mog³em patrzeæ na twoje pijañstwo.
+[21617][21646]Twój brat siê tak nie zakrada³.
+[21655][21728]S³u¿y³em krajowi, p³acê podatki.|Mogê robiæ, co chcê, do cholery.
+[21730][21746]Czyli pijesz.
+[21754][21774]- Trochê.|- Sporo.
+[21778][21804]Dobra, pijê sporo!
+[21806][21849]I co z tego, do diab³a!|Ka¿dy robi, co chce.
+[21855][21878]Te¿ byœ pi³, gdybyœ|o¿eni³ siê z twoj¹ matk¹.
+[21910][21942]Nie mów mi|co mam robiæ, ma³y gnojku.
+[22078][22098]- Tato!|- Co?
+[22138][22155]ZawieŸæ ciê do wujostwa?
+[22171][22183]Nie wiem.
+[22645][22668]Chyba wisisz mi kilka dolców.
+[22690][22717]Jezusie w niebiosach,|Woody Grant.
+[22725][22755]Nie wierzê w³asnym oczom!|Jak siê masz, Woody?
+[22762][22787]Nie wiedzia³em,|¿e jeszcze ciê tu zobaczê.
+[22812][22839]To mój stary przyjaciel, Woody.
+[22850][22862]Czeœæ, Woody.
+[22879][22902]Przesuñ siê. Siadaj.
+[22905][22918]Nie do wiary.
+[22919][22955]Chryste, Woody. Co u ciebie?
+[22967][22998]- Ca³kiem nieŸle.|- U mnie te¿. Nie narzekam.
+[23004][23042]Kawa³ czasu, Woody.
+[23046][23066]Jestem David, syn Woody'ego.
+[23069][23094]- Ed Pegram.|- Ed Pegram?
+[23100][23124]Davey? Nie ¿artujcie sobie.
+[23131][23144]Co u ciebie?
+[23145][23170]Ostatnio widzia³em ciê|jako ma³ego smyka.
+[23171][23210]W warsztacie czêstowa³em ciê batonikami,|gdy by³eœ tego wzrostu.
+[23216][23252]Dziêki. A mój tata|po¿ycza³ panu kompresor.
+[23260][23281]- Co takiego?|- Niewa¿ne.
+[23292][23323]Idê do ³azienki.|Nie wspominaj o pieni¹dzach.
+[23339][23358]Nie wspominaj o pieni¹dzach.
+[23382][23405]- Nadal mieszkasz w Billings?|- Tak.
+[23411][23443]- Co ciê tu sprowadza?|- Jestem przejazdem.
+[23663][23697]Woody Grant milionerem!|Kto by pomyœla³?
+[23717][23740]Woody stawia tê kolejkê!
+[24145][24182]- Widzia³eœ ich miny?|- Widzia³em.
+[24217][24248]Widzia³eœ je?
+[24822][24852]Dzieñ dobry, ch³opcy.
+[24874][24904]- Pospaliœcie sobie.|- Dzieñ dobry.
+[24905][24932]Davey, przynieœ sobie krzes³o.
+[24934][24955]Siadaj tutaj, Woody.
+[25046][25087]- G³odni?|- Chêtnie napi³bym siê...
+[25107][25121]...kawy.
+[25135][25164]Rano dzwoni³ Lowell Meyerson.
+[25170][25212]I Mary Jurak.|Woody to temat plotek.
+[25223][25236]Doprawdy?
+[25240][25268]Dlaczego siê nie pochwali³eœ,|¿e jesteœ bogaty?
+[25272][25295]- David mi zabroni³.|- Nie jest bogaty.
+[25299][25331]Mog³eœ wyznaæ prawdziwy powód|twojej wizyty.
+[25332][25350]Cieszymy siê twoim szczêœciem.
+[25352][25361]Masz je przy sobie?
+[25364][25396]Chcielibyœmy zobaczyæ|tak¹ wielk¹ kwotê.
+[25402][25422]Musimy j¹ odebraæ w Lincoln.
+[25428][25452]Niech mnie.|Wygra³eœ kumulacjê!
+[25474][25513]- Poka¿ nam kupon, wujku.|- On nic nie wygra³.
+[25520][25546]- Nic nie wygra³em.|- Rozumiem ciê.
+[25548][25595]Te¿ bym tego nie rozg³asza³,|a¿ forsa by³aby w banku.
+[25601][25622]Uwa¿aj te¿ na sêpów.
+[25636][25654]Mo¿emy was zawieŸæ.
+[25661][25683]W godzinê zajedziemy do Lincoln.
+[25689][25709]To ponad 300 km.
+[25713][25745]W pó³torej godziny.|A ty jak d³ugo byœ jecha³?
+[25762][25791]Musi byæ fajnie|wygraæ tak¹ forsê.
+[25794][25810]Jesteœmy z ciebie dumni.
+[25819][25856]Rodzice te¿ napawaliby dum¹.
+[25885][25905]Musi byæ wyczepiœcie.
+[25920][25936]Jest fajnie?
+[25947][25970]- Co takiego?|- Wygraæ tyle pieniêdzy.
+[25987][26013]Ca³kiem fajnie.
+[26170][26193]Czeœæ, Woody. Pamiêtasz mnie?
+[26197][26221]Bernie Bowen. Co u ciebie?
+[26236][26265]- Ca³kiem nieŸle.|- Obi³o mi siê o uszy.
+[26268][26298]Wszyscy mówi¹,|¿e zosta³eœ milionerem.
+[26299][26331]Dawno nie dzia³o siê tutaj|nic równie ekscytuj¹cego.
+[26335][26376]- To nic takiego.|- Nic takiego?
+[26377][26419]Ktoœ tu p³awi siê w luksusie|z milionami w kieszeni.
+[26421][26450]Bêdziesz na pierwszych|stronach gazet.
+[26453][26483]- Umieszcz¹ tam moje zdjêcie?|- Z ca³¹ pewnoœci¹.
+[26484][26499]Autobus podje¿d¿a.
+[26514][26547]Mi³o by³o ciê spotkaæ.
+[26552][26607]Bardzo siê cieszymy, ¿e wróci³eœ|podzieliæ siê nowin¹.
+[26608][26622]Dziêki, Bernie.
+[26626][26642]Pilnuj portfela!
+[26869][26880]Dziêkujê.
+[26912][26929]Wygl¹dacie jak œmieræ zza krzaka.
+[26931][26957]- Nic mi nie jest.|- W³aœnie widzê.
+[26958][26992]Wygl¹dasz jak menel.|Ciesz siê, ¿e jeszcze ¿yjesz.
+[26997][27009]Nic nie pi³em.
+[27010][27037]To samo mówi³eœ|na naszej pierwszej randce.
+[27042][27070]Czyœ ty do reszty zdurnia³?
+[27072][27113]Prawie wykoñczy³eœ ojca|podczas tej kretyñskiej wyprawy.
+[27120][27135]ChodŸ.
+[27156][27183]Popuœæ mu trochê.
+[27186][27217]Wiemy, ¿e nie chodzi o pieni¹dze.
+[27233][27273]Ile czasu mu zosta³o|o zdrowych zmys³ach?
+[27279][27317]Pozwólmy mu zrobiæ swoje|przez te kilka dni.
+[27318][27347]Zawsze martwiliœcie siê o ojca.
+[27350][27361]A co ze mn¹?
+[27368][27400]Odwiedzi³abym siostrê|w Eau Claire.
+[27403][27442]Twój ojciec nawet nie ogarnia,|co siê wokó³ niego dzieje.
+[27445][27460]Prawda, Woody?
+[27472][27499]- ¯e co?|- Wiesz, co siê dzieje!
+[27515][27548]Lepiej uwa¿aj,|bo skoñczysz jak on.
+[27556][27594]ZawieŸ mnie na cmentarz.|Chcê zapaliæ znicze.
+[27598][27626]- Martha przygotowa³a posi³ek.|- Martha mo¿e zaczekaæ.
+[27677][27688]Tam jest samochód.
+[28011][28028]Matka Woody'ego, Sara.
+[28039][28052]Nienawidzi³a mnie.
+[28053][28078]Chcia³a mieæ synow¹,|która potrafi³a doiæ krowy.
+[28079][28115]Powiedzia³am, ¿e jestem miastowa|i nie bêdê macaæ wymion.
+[28137][28177]Bóg nie obdarzy³ jej urod¹.
+[28188][28215]Taki trochê baboch³op.
+[28240][28253]Jak umar³a?
+[28257][28277]Przejrza³a siê w lustrze.
+[28296][28324]¯artujê. Na raka.
+[28338][28387]Tu le¿y twój dziadek,|stary Swede Tolf. Porz¹dny cz³owiek.
+[28388][28426]Ma³omówny by³.|Gospodarstwo go zrujnowa³o.
+[28455][28477]Masz szczêœcie,|¿e ciê stamt¹d zabra³am.
+[28496][28535]Tam jest brat Woody'ego, David.|Daliœmy ci jego imiê.
+[28551][28590]Zmar³ na szkarlatynê,|gdy mia³ tylko dwa latka.
+[28605][28632]Woody spa³ razem z nim,|a nigdy siê nie zarazi³.
+[28677][28704]A tutaj siostra Woody'ego, Rose.
+[28713][28759]Zginê³a w wypadku|samochodowym, w wieku 19 lat.
+[28773][28785]Ale¿ to by³a dziwka.
+[28788][28821]Lubi³am j¹,|ale by³a straszn¹ latawic¹.
+[28822][28846]- Przestañ.|- Mówiê prawdê.
+[28855][28906]Pieprzy³a siê za mleczarni¹|w wieku piêtnastu lat.
+[28907][28927]Chryste Panie, mamo.
+[28951][28987]- Gdzie le¿y twoja rodzina?|- Na cmentarzu katolickim.
+[28990][29026]Nie pochowano by katolików|razem z band¹ luteranów.
+[29040][29070]Tu le¿y Delmer, kuzyn Woody'ego.
+[29076][29091]By³ pijakiem.
+[29094][29132]Raz podczas zapasów|w³o¿y³ mi rêkê pod koszulkê.
+[29134][29178]Z³apa³ kawa³ek cycka, a Woody|sta³ obok i nic nie zauwa¿y³.
+[29178][29188]Jezu.
+[29234][29251]A niech mnie.
+[29257][29282]Nie wiedzia³am,|¿e Keith White tutaj le¿y.
+[29291][29307]Kiedy zmar³?
+[29318][29374]Te¿ chcia³ mi siê dobraæ do majtek,|ale by³ okropnym nudziarzem.
+[29415][29459]To mog³o byæ twoje, gdybyœ stale|nie glêdzi³ o pszenicy.
+[29550][29570]Peggy Hudsucker zasz³a w ci¹¿ê.
+[29575][29609]Starucha znowu zaci¹¿y³a?
+[29616][29653]- Ma chyba 50 lat.|- Wygl¹da na tyle.
+[29654][29673]To przez hodowlê œwiñ.
+[29794][29807]Masz inne samochody?
+[29821][29837]Tylko ten.
+[29849][29890]- Jaki ma silnik?|- Czterocylindrowy.
+[29896][29932]- Ale jaki rozmiar?|- Nie wiem.
+[29952][29973]- Czym jeŸdzi twój brat?|- Ross?
+[29983][30006]Czym on jeŸdzi?
+[30010][30064]Ross jeŸdzi Ki¹ Carens,|a Marcie Nissanem Pathfinderem.
+[30067][30085]Czêsto wozi nim dzieciaki.
+[30100][30138]- Wszyscy macie japoñskie marki?|- Kia jest koreañska.
+[30291][30312]Jest tutaj pan Woody Grant?
+[30319][30335]A kto pyta?
+[30344][30378]Przys³ano mnie z Hawthorne Republican.|Mam zrobiæ zdjêcie.
+[30410][30452]- Jest w domu.|- Chc¹ te¿ przeprowadziæ wywiad.
+[30961][30988]- Pani Nagy?|- Tak.
+[30989][31011]Jestem David Grant,|syn Woody'ego.
+[31019][31044]Bardzo mi mi³o.
+[31050][31084]Twój ojciec|to teraz pobliska s³awa.
+[31086][31101]O tym chcê pomówiæ.
+[31104][31163]Tata niczego nie wygra³.|Pewien list zawróci³ mu w g³owie
+[31164][31182]i sprawy wymknê³y siê|spod kontroli.
+[31188][31216]- Czyli nie wygra³ miliona?|- Nie.
+[31224][31256]To dowodzi, ¿e pewne rzeczy|siê nie zmieniaj¹.
+[31258][31280]Zawsze by³ trochê zamotany.
+[31286][31303]Zna³a go pani.
+[31308][31341]To dawne dzieje|i teraz to bez znaczenia,
+[31341][31368]ale kiedyœ byliœmy par¹.
+[31374][31395]- By³a pani jego dziewczyn¹?|- Zgadza siê.
+[31401][31436]- Co siê sta³o?|- Twoja matka.
+[31439][31472]- Jak siê miewa?|- Dobrze. Te¿ przyjecha³a.
+[31476][31504]Pozdrów j¹ od Peg Bender.
+[31505][31529]Nie zdzieli mnie po twarzy?
+[31538][31557]To ona wygra³a.
+[31573][31589]To ju¿ historia.
+[31594][31625]Nie zrozum mnie Ÿle.|Poœlubi³am wspania³¹ osobê.
+[31629][31658]Do jego œmierci|prowadziliœmy gazetê wspólnie.
+[31660][31695]Doczekaliœmy trojga dzieci|i oœmiorga wnuków.
+[31698][31714]Czegó¿ chcieæ wiêcej?
+[31745][31763]Popija³ wtedy?
+[31771][31805]Oczywiœcie. Na³ogi poch³aniaj¹ m³odo.
+[31807][31827]Nie ma tu wiele atrakcji.
+[31836][31871]Obecnie alkohol to nie jedyny na³óg.
+[31876][31902]Woody zapad³ w to po wojnie.
+[31906][31923]To by³ dla niego trudny czas.
+[31932][31970]- Myœla³em, ¿e by³ mechanikiem.|- Naprawia³ samoloty wojskowe.
+[31972][31997]Zosta³ zestrzelony|podczas przeniesienia.
+[32007][32020]Nie wiedzia³eœ o tym?
+[32323][32332]Dziêkujê.
+[32508][32518]Tutaj s¹.
+[32526][32569]- Woody, Ray i Albert.|BRACIA GRANT WRACAJ¥ Z WOJNY
+[32588][32604]Wygl¹daj¹ jak dzieciaki.
+[32609][32672]Twój tato zawsze by³ cichy,|a po powrocie by³o tylko gorzej.
+[32676][32699]Ale zawsze by³ ¿yczliwy.
+[32704][32722]Ludzie to wykorzystywali.
+[32723][32747]Nie potrafi³ odmówiæ pomocy.
+[32763][32798]Teraz myœl¹, ¿e zosta³ milionerem|i sta³ siê lokalnym bohaterem.
+[32801][32853]Nie wydrukujê, ¿e nim zosta³|i nie wydrukujê, ¿e nim nie zosta³.
+[32856][32898]Napiszê artyku³|o jego odwiedzinach w mieœcie.
+[32905][32937]Ciê¿ko pomyœleæ,|¿e konkurowa³a pani z moj¹ mam¹.
+[32942][32965]Wiedzia³am, ¿e nie wygram.
+[32974][32993]By³am cnotliwa.
+[33301][33320]Co bierzesz, staruszku?
+[33324][33369]- Klopsy.|- Od dziesiêciu minut gapisz siê na menu.
+[33371][33395]Gdzie ty widzisz klopsy?
+[33400][33436]- Powinni je mieæ.|- Ale nie maj¹, wiêc wybierz coœ innego.
+[33448][33463]Gotowi, by zamówiæ?
+[33463][33487]- Wiedzia³am.|- Tato, zdecydowa³eœ siê?
+[33508][33558]- Macie klopsy?|- S¹ tylko w bufecie obiadowym.
+[33566][33606]- No to kurczak.|- Sma¿ony czy pieczona pierœ?
+[33615][33640]- Sma¿ony.|- WeŸmie pierœ.
+[33645][33657]A dla pani?
+[33659][33698]Myœla³am o pieczeni wo³owej,|ale nie jestem pewna.
+[33700][33726]Co jest wed³ug pani dobre?
+[33727][33757]Wszystko, ale mam s³aboœæ do tilapii.
+[33767][33788]Wezmê pieczeñ.
+[33800][33817]Ja poproszê tilapiê.
+[33819][33847]Proszê pamiêtaæ,|by poczêstowaæ siê sa³atk¹ i zup¹.
+[33981][34001]Ed Pegram œpiewa.
+[34185][34234]Zawsze mia³ ³adny g³os.|Jedyna mi³a rzecz w tym draniu.
+[34235][34255]- Jest w porz¹dku.|- Co?
+[34256][34293]Wiedzia³eœ, ¿e próbowa³|dobraæ mi siê do majtek?
+[34294][34324]Ca³e miasto chcia³o ciê uwieœæ?
+[34325][34368]Ci ch³opcy dorastali, gapi¹c siê|na ty³ki œwiñ i krów.
+[34370][34408]To normalne, ¿e na widok prawdziwej kobiety|swêdzia³o ich w kroku.
+[34409][34442]Nie mów takich rzeczy|przed jedzeniem.
+[34452][34506]Zawsze by³eœ wra¿liwym ch³opcem.|I piêknym.
+[34517][34575]Gdy by³eœ ma³y, ludzie mówili mi,|jaki z ciebie œliczny ch³opczyk.
+[34577][34597]Wielu mia³o ciê za dziewczynkê.
+[34603][34636]- Prawda, Woody?|- Nie wiem.
+[34638][34665]Panie i panowie,|chcia³bym coœ og³osiæ.
+[34666][34691]Dziœ jest wœród nas gwiazda.
+[34692][34726]Mój dobry przyjaciel i bogacz,|o którym ostatnio jest g³oœno,
+[34728][34744]pan Woody Grant.
+[34746][34761]Przywitaj siê, Woody.
+[34791][34803]Wstañ, tato.
+[34810][34834]Nie zachêcaj go.
+[34835][34880]- Wstañ, to oklaski dla ciebie.|- Zrób to i miejmy to z g³owy.
+[35157][35183]Wystarczy, aktorzyno.
+[35191][35235]Z tego stolika dostaniesz|spory napiwek, Roslyn.
+[35306][35329]- Ma³y Davey!|- Witam, panie Pegram.
+[35330][35350]Liczy³em, ¿e trafiê na ciebie.
+[35374][35385]W czym mogê pomóc?
+[35392][35429]Chcia³bym, ¿ebyœ wiedzia³,|i¿ bardzo ceniê Woody'ego.
+[35436][35450]Dobry cz³owiek.
+[35452][35470]- Dziêkujê.|- Z³ote serce.
+[35484][35512]Lecz ka¿dy wie, ¿e pi³.|I to sporo.
+[35513][35539]Gdy prowadziliœmy warsztat,|spartoli³ wiele zleceñ,
+[35540][35559]przez co straciliœmy sporo kasy.
+[35563][35590]Jestem m³odszy,|wiêc by³ jak starszy brat.
+[35596][35618]Weteran z Wietnamu.|S³u¿y³ od pocz¹tku do koñca.
+[35619][35667]Chcia³em okazaæ mu szacunek,|wiêc po¿yczy³em mu kupê szmalu.
+[35668][35682]Nigdy go nie odzyska³em.
+[35704][35763]W zwi¹zku z zastrzykiem gotówki,|który spad³ mu z nieba,
+[35769][35807]jedynym uczciwym rozwi¹zaniem|bêdzie uregulowanie d³ugu.
+[35816][35840]Chce pan swoje 800 dolarów?
+[35857][35875]Woody wisi mi o wiele wiêcej.
+[35887][35921]Przykro mi to mówiæ,|ale tata nie wygra³ ¿adnych pieniêdzy.
+[35922][35962]To wielkie nieporozumienie.|Zna pan go przecie¿.
+[35967][36013]Wiêc jedziecie do Lincoln,|by zwiedziæ muzeum wrotek?
+[36018][36053]Nie chcê anga¿owaæ w to adwokata.
+[36057][36110]Adwokata? Ile wynosi okres|przedawnienia na bzdury?
+[36147][36189]Rozró¿niam dobro od z³a.
+[36191][36238]Jeœli Woody siê dorobi,|a mnie oleje, bêdzie to z³e.
+[36250][36267]Sprawiê, by by³o dobrze.
+[36293][36319]Grozisz mojej rodzinie?
+[36324][36360]Nie. To by³oby z³e.
+[36372][36393]To ja jestem pokrzywdzony.
+[36417][36434]Dajê ci tylko do myœlenia.
+[36447][36478]A teraz wybacz.|Strasznie chcê mi siê laæ.
+[36485][36506]Browar trzeba zwróciæ.
+[36629][36660]Mi³o znowu ciê widzieæ.|Cieszymy siê z twojego szczêœcia.
+[36661][36692]Kup ³ódŸ i wybierz siê na ryby.|Ja tak robiê.
+[36694][36707]Mo¿e tak zrobiê.
+[36718][36758]David, pewnie nie pamiêtasz|Kathy i Dale'a.
+[36768][36785]- Dobry wieczór.|- Jak siê macie?
+[36787][36827]David Grant.|Nigdy bym ciê nie pozna³a.
+[36831][36852]By³eœ takim piêknym ch³opcem.
+[36854][36881]Powtarzam mu to.|A nie mówi³am?
+[36883][36906]Jak ma³y ksi¹¿ê z porcelany.
+[36914][36958]- Dziêkujê.|- Trzymajcie siê i mi³ego wydawania.
+[37019][37053]Odby³em w³aœnie ciekaw¹ rozmowê|z Edem Pegramem.
+[37054][37074]- Czego chcia³?|- Kasy od taty.
+[37081][37105]Po¿yczê mu kilka dolców,|jeœli jest sp³ukany.
+[37115][37135]Mowy nie ma.
+[37450][37467]{y:i}Pobudka.
+[37487][37503]Wstawaj.
+[37515][37552]- Co siê sta³o?|- Jedziemy dziœ do Lincoln?
+[37553][37581]- Jutro.|- Czemu nie dziœ?
+[37585][37609]W niedzielê maj¹ zamkniête.
+[37613][37636]A dziœ przyje¿d¿aj¹ twoi bracia.
+[37642][37655]Niektórzy nie ¿yj¹.
+[37663][37683]Martwi nie przyjad¹.
+[37718][37760]Jeœli nie przyjadê po pieni¹dze,|dadz¹ je komuœ innemu.
+[37819][37853]Pamiêtasz Peg Bender?|Spotyka³eœ siê z ni¹.
+[37855][37876]- Kogo?|- Peg Bender.
+[37889][37901]Nie wiem.|Kiedy to by³o?
+[37905][37944]W zesz³ym tygodniu. Jak to kiedy?|Lata przed œlubem.
+[37970][37987]To by³o dawno temu.
+[38001][38019]Po co to przypominasz?
+[38280][38323]Nie widzia³am twoich synów, Martho.|Gdzie s¹ Cole i Bart?
+[38335][38385]Zg³osili siê do zbierania œmieci|z autostrady.
+[38389][38419]- Wróc¹ na kolacjê.|- To mi³e.
+[38421][38457]Cole dosta³ prace spo³eczne|za gwa³t.
+[38459][38483]Napaœæ na tle seksualnym,|a nie gwa³t.
+[38485][38509]- Co za ró¿nica?|- Wielka.
+[38513][38534]Cole wyt³umaczy to lepiej ni¿ ja.
+[38536][38569]Bart nie musi tego robiæ.|Zg³osi³ siê na ochotnika.
+[38574][38590]To mi³o.
+[38659][38684]Verne, jeŸdzisz jeszcze Chevroletem?
+[38686][38701]Czym?
+[38713][38745]Twoj¹ Impal¹.
+[38751][38770]Nie mia³em nigdy Impali.
+[38793][38819]Wiêc nie wiem,|co to by³o.
+[38885][38901]Mia³em Buicka.
+[38911][38927]O niego mi chodzi³o.
+[38933][38972]- Wci¹¿ nim jeŸdzisz?|- Nie mam go od lat.
+[38974][39000]Myœla³em, ¿e nadal go masz.
+[39044][39081]- To by³ 78 rocznik, prawda?|- 79.
+[39092][39121]To by³y dobre samochody.
+[39135][39150]Nie by³ z³y.
+[39156][39214]Teraz ju¿ takich nie robi¹.|Tamte by³y bezawaryjne.
+[39238][39274]- Co siê z nim sta³o?|- Przesta³ dzia³aæ.
+[39298][39313]Tak ju¿ maj¹.
+[39343][39355]Otwarte!
+[39395][39410]Czeœæ wszystkim.
+[39428][39445]Gdzie Marcie i dzieci?
+[39453][39467]Na wystêpie tanecznym.
+[39498][39527]- Kto gra?|- Chicago z Detroit.
+[39542][39561]Ile zajê³a ci podró¿?
+[39691][39721]Rozmawia³ ju¿ wujek z gazet¹?
+[39731][39771]Jeszcze nie, ale dzieciak od nich|zrobi³ mi zdjêcie.
+[39778][39805]By³em w ich biurze|i poda³em podstawowe informacje.
+[39836][39865]Jak to jest byæ milionerem?
+[39885][39898]W porz¹dku.
+[39904][39941]Milion dolarów.|Ktoœ to przebije?
+[39947][39976]Wypijmy za zdrowie Kate i Woody'ego.
+[40031][40074]Nie chcê psuæ zabawy,|ale wiecie, ¿e to bzdura?
+[40076][40092]Tata niczego nie wygra³.
+[40102][40131]- Niez³a próba, Ross.|- Nie nabierzesz nas.
+[40132][40156]Ross ma racjê.
+[40157][40202]Trzymacie to w tajemnicy, by ludzie|nie przychodzili po ja³mu¿nê.
+[40203][40216]Sprytnie.
+[40218][40263]To prawda.|Woody jeszcze nie jest milionerem.
+[40265][40288]Jutro to co innego.
+[40299][40352]Co sobie najpierw kupisz?
+[40364][40392]Pó³ciê¿arówkê i kompresor.
+[40406][40446]- Po cholerê ci kompresor?|- Potrzebny mi do malowania.
+[40451][40472]Wci¹¿ pracujesz, Woody?
+[40497][40528]Chce zast¹piæ kompresor,|który ukrad³ mu Ed Pegram.
+[40530][40562]Czemu go po prostu nie weŸmiesz,|skoro jesteœ w mieœcie?
+[40584][40596]PojedŸmy po niego.
+[40597][40651]Nic z tego. Chcecie, by ktoœ was postrzeli³|za jakiœ stary grat?
+[40653][40683]Czy tylko ja jestem normalna|w tej rodzinie?
+[40685][40698]No dobrze, mamo.
+[40706][40751]Ross, mo¿e wybralibyœmy siê|obejrzeæ dom taty?
+[40753][40779]- Dawny dom Grantów.|- Nadal tam jest?
+[40785][40831]Dan Conway uprawia tam rolê,|ale domu nie zburzy³.
+[40832][40883]Po co marnowaæ na to czas?|Pewnie roi siê tam od szczurów.
+[40887][40917]Tato, chcesz obejrzeæ|swoje stare domostwo?
+[40927][40937]Co?
+[40941][40965]Chcemy zobaczyæ,|gdzie siê wychowywa³eœ.
+[40971][40990]Po co?
+[41190][41207]Co robi wujek Albert?
+[41224][41244]Ogl¹da przeje¿d¿aj¹ce auta.
+[41252][41290]Pamiêtasz, jak przyjechali kiedyœ|do nas w odwiedziny,
+[41291][41309]a on co wieczór|ogl¹da³ drogê?
+[41330][41354]Czeœæ, ch³opcy.
+[41363][41391]Dobrze znów was widzieæ.
+[41393][41423]Nastêpnego razu mo¿emy nie do¿yæ.
+[41437][41462]Dziêkujemy, ciociu Betty.|Was te¿ mi³o widzieæ.
+[41468][41503]Jest pewna kwestia,|o której nie³atwo jest mówiæ.
+[41508][41542]- Ale warto o niej wspomnieæ.|- O co chodzi?
+[41575][41615]Mo¿e tego nie wiecie,|ale Woody zawsze mia³ problemy finansowe.
+[41617][41644]Rodzina od czasu do czasu|mu pomaga³a.
+[41652][41724]W zwi¹zku z jego wygran¹,|liczymy na rekompensatê.
+[41732][41752]Ostatnio czêsto to s³yszê.
+[41754][41798]Nasi rodzice nic by nie powiedzieli,|gdyby chodzi³o tylko o nich,
+[41800][41818]ale reszcie te¿ siê nale¿y.
+[41824][41901]- Chcecie od nas kasy?|- Pomogliœmy mu w trudnych chwilach.
+[41907][41948]Verne i ja trochê mu po¿yczyliœmy,|a sami nie byliœmy bogaci.
+[41950][41990]By³ moim szwagrem. Nie mogliœmy|patrzeæ, jak cierpicie.
+[41994][42013]Pos³uchajcie...
+[42018][42039]Serio...
+[42045][42078]Woody niczego nie wygra³.|To kompletna œciema.
+[42084][42116]- Pieprzony k³amca!|- Nie wciskaj nam kitów.
+[42128][42151]Chcesz siê biæ?
+[42153][42177]Dawaj.
+[42207][42250]Tylko nie w twarz.|Pracujê w telewizji.
+[42312][42350]Co siê dzieje?|Pog³upieliœcie?
+[42356][42391]Ciocia Betty i jej poplecznicy|domagaj¹ siê wynagrodzenia.
+[42393][42402]Za co?
+[42404][42442]Chc¹ siê dobraæ do "wygranej" taty.|Twierdz¹, ¿e jest im d³u¿ny.
+[42444][42503]- Jednak jest wygrana.|- O czym ty gadasz, Betty?
+[42507][42552]Pomagaliœmy wam,|gdy przepija³ ca³¹ wyp³atê.
+[42554][42613]Wiesz, ¿e by³o na odwrót.|Naprawia³ wam za darmo auta
+[42615][42629]i dawa³ benzynê.
+[42631][42660]Ciociu Kate, prosimy jedynie|o symboliczn¹ kwotê.
+[42661][42694]Zapisywa³am wszystko.|Pieni¹dze, które mu daliœcie,
+[42695][42718]s¹ niczym w porównaniu|do waszego d³ugu.
+[42720][42753]Nie potrafi³ odmówiæ|i to go zrujnowa³o.
+[42757][42806]Chyba doskwiera ci skleroza.|Myœlisz, ¿e sk¹d wziê³y siê pieni¹dze,
+[42807][42846]gdy mia³aœ bzika na punkcie|otwarcia salonu w Billings?
+[42848][42911]Po moich rodzicach, gdy wykitowali!|Ale macie tupet.
+[42914][42954]Na ogó³ cz³owiek najpierw umiera,|a póŸniej zaczynaj¹ kr¹¿yæ sêpy!
+[42956][43002]Spokojnie, ciociu.|Z grzecznoœci rozmawiamy najpierw z wami,
+[43003][43024]zanim udamy siê|bezpoœrednio do Woody'ego.
+[43025][43064]Nie wa¿cie siê pytaæ tego biedaka|o pieni¹dze.
+[43066][43082]Nie jest biedakiem, tylko bogaczem.
+[43083][43132]Nawet jeœli, to nie da³by wam ani grosza!|Nie pozwoli³abym na to!
+[43134][43164]- Mo¿e to nie twoja decyzja, ciociu.|- Ani s³owa wiêcej.
+[43172][43192]Pos³uchajcie uwa¿nie...
+[43198][43238]Mo¿ecie wszyscy siê pierdoliæ!
+[43248][43272]Ch³opcy, idŸcie po tatê.
+[44225][44259]- Co s¹dzisz, staruszku?|- Prawie siê nie zmieni³.
+[44261][44301]To prawda.|W takim stanie utrzymywa³a go twoja matka.
+[44348][44368]Mój tato go zbudowa³.
+[44375][44390]Naprawdê?
+[44396][44416]Ale chyba nie sam?
+[44420][44476]Tak. Przed moimi narodzinami.|Bracia mu pomogli.
+[44836][44851]Poradzê sobie.
+[44939][44954]To by³ mój pokój.
+[44968][45000]Zmar³ w nim brat Woody'ego, David.
+[45022][45039]Pamiêtasz to, tato?
+[45059][45076]By³em przy tym.
+[45426][45446]To pokój moich rodziców.
+[45474][45500]Dostawa³em pasem,|gdy mnie tu przy³apali.
+[45540][45566]Teraz tego nikt nie zrobi.
+[45684][45704]Stodo³a wci¹¿ tu jest.
+[45976][45990]Naogl¹da³eœ siê?
+[46002][46014]Tak.
+[46030][46055]To tylko stare drewno i chwasty.
+[46132][46155]Chcia³eœ iœæ w œlady ojca|i prowadziæ gospodarstwo?
+[46195][46208]Nie pamiêtam.
+[46229][46243]To bez znaczenia.
+[46438][46462]To farma O'Hare'ów.
+[46470][46510]Ona nie ¿yje, on jest|w domu starców w Valentine,
+[46511][46538]a jeden z ich bachorów|nadal tam mieszka.
+[46587][46624]Po prawej jest dom Eda Pegrama.
+[46673][46686]Co robisz?
+[46694][46719]- Zróbmy to.|- Jesteœmy na miejscu.
+[46729][46749]Co wy kombinujecie?
+[46754][46781]Tato, chcesz wiedzieæ,|czy nadal ma twój kompresor?
+[47294][47324]Skoñczcie te wyg³upy!
+[47890][47911]W koñcu odzyska³eœ kompresor.
+[47937][47956]Ten nie jest mój.
+[47962][47976]Pewnie, ¿e tak.
+[47986][48005]Nawet nie jest podobny.
+[48007][48054]To na pewno twój.|ZnaleŸliœmy go w stodole Pegrama.
+[48064][48102]- To nie by³a jego stodo³a.|- Co ty gadasz?
+[48112][48174]- To dom Westendorfów.|- No tak.
+[48178][48229]Pegramowie mieszkaj¹ bli¿ej centrum.|Pomiesza³o mi siê.
+[48234][48270]Jego ¿ona, Dorothy,|by³a straszn¹ œwini¹.
+[48276][48301]O Westendorfach te¿ chcesz|coœ powiedzieæ?
+[48305][48327]Nie. To dobrze ludzie.
+[48333][48389]Prze¿yli trudne chwile.|Stracili dziecko, prawie zbankrutowali,
+[48390][48415]ale ciê¿ko pracowali|i uratowali gospodarstwo.
+[48416][48439]Porz¹dna rodzina.
+[48441][48472]Nie zas³u¿yli sobie na to,|co im zrobiliœcie.
+[48476][48501]Tato, czemu nie powiedzia³eœ,|¿e to nie jest dom Eda?
+[48505][48526]Nie mia³em pojêcia,|co wyprawiacie.
+[48532][48555]A widzia³eœ kiedyœ,|¿ebyœmy kradli maszyny?
+[48560][48583]Nigdy nie wiem,|co kombinujecie.
+[48585][48615]Dlaczego nie powiedzia³eœ,|¿e to nie twój?
+[48617][48661]- Myœla³em, ¿e go chcecie.|- Po co nam stary kompresor?
+[48665][48690]Tego w³aœnie nie mog³em zrozumieæ.
+[49414][49476]Czeœæ. Pamiêtacie nas?|Kate i Woody Grant.
+[49480][49509]- Pewnie. Co u was?|- Dobrze.
+[49511][49545]Przeje¿d¿aliœmy obok,|wiêc chcieliœmy siê przywitaæ.
+[49549][49576]Od dawna nie byliœmy w Hawthorne.
+[49578][49602]Czemu siedzicie z ty³u?
+[49637][49675]Wypoczywaliœmy do waszego powrotu.
+[49681][49699]Chcecie wejœæ?
+[49703][49744]Wybaczcie, ale nie mamy czasu.|Musimy ruszaæ dalej.
+[49760][49786]Czeœæ, Woody.|Co s³ychaæ?
+[49790][49814]W porz¹dku, George.|A u ciebie?
+[49818][49858]Jakoœ leci.|Nadal mieszkacie w Montanie?
+[49866][49882]W Billings, prawda?
+[49886][49906]Zgadza siê.
+[49908][49947]- Wci¹¿ jesteœ fryzjerk¹?|- Ju¿ nie.
+[49955][49970]Naprawdê?
+[50057][50075]Mi³o by³o was widzieæ.
+[50079][50112]Si¹dê za kó³kiem|i wracamy do miasta.
+[50135][50156]- Mi³o by³o was widzieæ.|- Wzajemnie.
+[50157][50192]- Zadzwoñcie do nas.|- Dobrze. Pa.
+[50672][50708]Mia³aœ racjê.|To naprawdê mili ludzie.
+[50710][50740]Mówi³am.|Co chcecie teraz zrobiæ?
+[50742][50773]W³amaæ siê do silosu|i nakraœæ kukurydzy?
+[50783][50807]- Ja poprowadzê.|- Nie, nie trzeba.
+[51035][51088]- O której wyje¿d¿amy?|- O 8:00?
+[51108][51138]- Chcesz nastêpne?|- Tak.
+[51146][51172]Hej, Davey, zrób miejsce.
+[51178][51214]- Jak tam, kowboju?|- By³o dobrze.
+[51267][51297]Doœæ pogaduszek.|Pora przejœæ do interesów.
+[51303][51365]Mówi³em twojemu synowi,|¿e podzieli³byœ siê ³upem,
+[51369][51402]by odp³aciæ siê staremu kumplowi.
+[51406][51441]Ile potrzebujesz?|Mam 20 dolców.
+[51450][51517]Myœla³em raczej o dziesiêciu tysi¹cach.
+[51519][51557]- Daj mu tyle.|- Jeszcze ich nie mam.
+[51572][51593]Zawsze myœla³em,|¿e jesteœmy przyjació³mi.
+[51599][51628]To ja przekona³em ciê,|byœ nie zostawia³ Kate.
+[51634][51666]To prawda. Chcia³ siê rozwieœæ,
+[51667][51708]bo posuwa³ jakiegoœ mieszañca|z rezerwatu. Myœla³, ¿e j¹ kocha.
+[51712][51730]Czy¿ nie mam racji, Woody?
+[51804][51823]Kiedy to by³o?
+[51827][51852]Miêdzy narodzinami Rossa a twoimi.
+[51856][51884]Gdyby nie ja,|mog³o by ciê nie byæ.
+[51886][51925]Wtedy rozwód by³ grzechem.|Teraz to chyba nic wielkiego.
+[51927][51948]Bóg musia³ zmieniæ zdanie.
+[51970][52028]Choæ nigdy ciê nie wini³em.|Kate zawsze by³a suk¹.
+[52036][52063]- Zje¿d¿aj st¹d.|- Chcê tej kasy.
+[52067][52078]Ruchy!
+[52083][52125]W porz¹dku, Davey.|Niech bêdzie po twojemu.
+[52127][52184]Ale po raz ostatni|by³em dla was uprzejmy.
+[52534][52549]Mam!
+[52571][52602]- Wszystko w porz¹dku?|- Zabrali mi list.
+[52877][52897]- Gdzie on jest?|- Co jest?
+[52902][52918]Oddajcie go.
+[52920][52943]Nie wiem, o czym mówisz.
+[52947][52977]- Cole, a ty?|- Nie.
+[53001][53017]Gdzie on jest?!
+[53042][53071]- Nie mamy go.|- Zamknij ryj, do chuja!
+[53079][53113]Wyrzuciliœmy go, gdy zobaczyliœmy,|co to za gówno.
+[53117][53155]Milioner? Niez³y ¿art.|Jesteœcie ¿a³oœni.
+[53431][53470]Nie powiem o tym mamie ani Rossowi.
+[53477][53523]Powiemy, ¿e oprzytomnia³eœ|i wracamy do domu. Mo¿e byæ?
+[53545][53581]Nic siê nie sta³o.|Wycieczka nam siê przyda³a.
+[53583][53625]Cieszê siê spêdzonym wspólnie czasem.|A ty?
+[53703][53732]Mo¿e go upuœcili.|Idziemy poszukaæ?
+[53929][53951]£atwiej by³o znaleŸæ zêby.
+[54080][54095]Odpocznijmy.
+[54264][54312]"WyobraŸ sobie, co mo¿esz zrobiæ|za milion dolarów, Woodrow".
+[54316][54350]Wiemy, co sukinsyn by zrobi³.|Kupi³by pó³ciê¿arówkê.
+[54376][54420]"By odebraæ wygran¹,|odeœlij ten list do naszego biura,
+[54421][54443]³¹cznie z twoim zwyciêskim numerem
+[54445][54491]i list¹ czasopism,|które chcia³byœ otrzymywaæ".
+[54505][54534]Woody, w³aœnie ciê szuka³em!
+[54538][54593]Ktoœ znalaz³ twój zwyciêski kupon.|Musisz go lepiej pilnowaæ.
+[54594][54615]Obyœ znów go nie zgubi³.
+[55550][55580]- Co jest?|- Krêci mi siê w g³owie.
+[55584][55627]- Jedziemy do lekarza.|- Wracajmy do domu.
+[55631][55661]- Jedziemy rano do Lincoln.|- Nie jedziemy.
+[55662][55680]W³aœnie, ¿e tak!
+[55696][55716]Muszê usi¹œæ na chwilê.
+[55824][55867]To koniec, tato.
+[55881][55921]Masz rozbity ³eb|i ledwo stoisz na nogach.
+[55928][55952]- Obieca³eœ.|- Nic nie wygra³eœ!
+[55954][56020]Nie mo¿esz tego zrozumieæ?|Nie jedziemy tam przez mrzonkê.
+[56029][56056]Sam jestem sobie winien,|¿e zabra³em ciê tak daleko.
+[56116][56151]Wi¹¿esz koniec z koñcem.|Nie mo¿esz prowadziæ.
+[56157][56201]- Po co ci to?|- Chcê now¹ pó³ciê¿arówkê.
+[56205][56225]Dlaczego tak bardzo jej chcesz?
+[56229][56276]Tak po prostu.|Zawsze chcia³em mieæ now¹.
+[56287][56328]A co z reszt¹?|Nie potrzebujesz na ni¹ miliona.
+[56380][56396]Dla was.
+[56405][56424]Chcia³em wam coœ zostawiæ.
+[56490][56523]Nie trzeba.|Nie potrzebujemy ich.
+[56553][56580]Chcia³em coœ po sobie zostawiæ.
+[56672][56715]Zabra³bym ciê, gdyby by³|chocia¿ cieñ szansy na wygran¹.
+[56719][56733]Wiesz o tym, prawda?
+[56742][56754]Nie ok³ama³bym ciê.
+[56764][56777]Wiem.
+[56797][56836]Zgodzi³em siê tylko dlatego,|¿eby wyrwaæ siê na trochê z Billings.
+[56847][56862]Pobyæ z tob¹ trochê.
+[56871][56890]No i ¿ebyœ siê zamkn¹³.
+[56903][56929]- Dobra.|- Co "dobra"?
+[56938][56956]Zamknê siê.
+[56977][56994]A co z Lincoln?
+[57013][57033]Nie musimy jechaæ.
+[57487][57530]Mo¿e tu byæ do jutrzejszego popo³udnia.
+[57534][57564]Potem bêdziemy siê zbieraæ do domu.
+[57566][57585]Zobaczymy siê pewnie|we wtorek wieczorem.
+[57598][57644]Dziêki. My wyruszymy z rana.|Muszê wracaæ.
+[57646][57704]A ja do koñca jego ¿ycia|bêdê wys³uchiwaæ, jak to straci³ maj¹tek.
+[57706][57721]Albo mojego.
+[57728][57752]Jak tak dalej pójdzie,|to on pochowa mnie.
+[57908][57926]Ty matole.
+[58058][58088]- Zamkn¹æ drzwi?|- Tak.
+[58334][58344]Tato?
+[59662][59687]Poczekaj.|Nie mo¿esz pójœæ tak ubrany.
+[59691][59710]Zdejmê ci szlafrok.
+[59889][59902]Witam.|Mogê w czymœ pomóc?
+[59907][59943]Mój tata chcia³by odebraæ|swój milion dolarów.
+[59956][59972]Daj list.
+[60173][60204]Przykro mi.|Pañski numer nie by³ wœród zwyciêskich.
+[60221][60236]Nie wygra³eœ.
+[60240][60255]Jest napisane, ¿e wygra³em.
+[60256][60288]Wygra³by pan, gdyby pañski numer|by³ wœród zwyciêskich.
+[60323][60338]Przykro mi.
+[60342][60363]Mam nadziejê, ¿e podró¿|nie by³a zbyt d³uga.
+[60365][60376]Z Montany.
+[60411][60441]To chyba koniec.
+[60458][60497]Mogê daæ darmowy upominek.|Czapkê lub poduszkê do siedzenia.
+[60506][60520]Co wolisz?
+[60547][60571]Czapkê czy poduszkê?
+[60588][60620]- Czapkê.|- WeŸmiemy czapkê.
+[60872][60935]- Czêsto siê to zdarza?|- Czasami. Na ogó³ z ludŸmi jak pañski ojciec.
+[60945][60962]Cierpi na Alzheimera?
+[60968][60989]Wierzy w ludzk¹ szczeroœæ.
+[61001][61015]Niedobrze.
+[61044][61056]Dziêkujê.
+[61246][61258]Nie œpiê.
+[61274][61303]Wracamy do Billings, dobrze?
+[61392][61419]Mo¿e zatrzymamy siê|w kilku miejscach.
+[61427][61443]Jak chcesz.
+[61698][61729]Co jest z twoim samochodem?
+[61739][61775]Dosta³em za niego spor¹ sumkê.
+[61803][61822]Ledwo mo¿na go nazwaæ samochodem.
+[61827][61853]Ta pó³ciê¿arówka to co innego.
+[61859][61886]Piêcioletnia.|Prawie nówka.
+[61933][61955]Obyœ nie mia³ nic przeciwko,
+[61965][61991]bo kupi³em j¹ na ciebie.
+[62041][62081]- Jest kupiona na mnie?|- Tak, ale ja bêdê prowadziæ.
+[62109][62134]Dogada³eœ siê z ludŸmi od nagrody?
+[62150][62203]Tak. Zgodzili siê na samochód.|Wsiadaj.
+[63188][63216]Wsiadaj za kó³ko.
+[63242][63260]Mówi³eœ, ¿e nie mogê.
+[63272][63312]PrzejedŸ przez Locust Street.|To kilka przecznic. Nie ma ruchu.
+[63340][63376]No dalej, to twój samochód.
+[64289][64310]Dobrze wygl¹dasz, Woody.
+[64314][64324]Schyl siê.
+[64325][64348]- Co?|- Schyl siê, do cholery!
+[64366][64382]Dobrze wygl¹dasz!
+[65222][65239]Do widzenia, Albercie.
+[65247][65265]Do widzenia, Woody.
+[65424][65474]{Y:b}T³umaczenie: jacob93 & twib|Korekta: timeless
+[65476][65526]{Y:b}<<KinoMania SubGroup>>|www. kinomania. org

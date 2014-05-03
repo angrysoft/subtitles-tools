@@ -27,74 +27,9 @@ import getopt
 import sys
 import re
 
-class DefaultSubsCls:
-    """docstring for DefaultSubClass"""
-    
-    def __init__(self, subs,fps=23.98):
-    
-        self.subtitle = []
-        self.subsInMs =[]
-        self.inSubs = []
-        self.fps = fps
-        
-    def setSubsInMs(self,subs):
-        """docstring for subsInMs"""
-        self.subsInMs = subs[:]
-        
-    def getSubsInMS(self):
-        """docstring for getSubsInMS"""
-        return self.subsInMs
-    
-    def fwdSubs(self,ms):
-        """docstring for fwdSubs"""
-        pass
-        
-    def rwdSubs(self,ms):
-        """docstring for rwdSubs"""
-        pass
 
-# MicroDvd
 
-class MicroDvd(DefaultSubsCls):
-    """MicroDVD subtile format"""
-
-    #outfile.writelines('{{{0}}}{{{1}}}{2}'.format(l))
-
-    
-    def parseSubtitle(self,subs):
-        """docstring for parseSubtitle"""
-        del self.subtitle[:]
-
-        for l in subs:
-            if l.startswith('{'):
-                start,stop,text = l.split('}',2)
-                start = start.lstrip('{')
-                stop = stop.lstrip('{')
-                self.subtitle.append([int(start),int(stop),text])
-
-# Mpl2    
-
-class Mpl2(DefaultSubsCls):
-    """Mpl2 subtile format"""
-        
-    def _timeToMs(self,inTime):
-        """docstring for __caclTime"""
-        pass
-    
-    def _timeFromMs(self,inTime):
-        """docstring for __timeFromMs"""
-        pass
-    
-    def parseSubtitle(self,subs):
-        del self.subtitle[:]
-        
-        for l in subs:
-            if l.startswith('['):
-                start,stop,text = l.split(']',2)
-                start = start.lstrip('[')
-                stop = stop.lstrip('[')
-                self.subtitle.append([int(start), int(stop), text])        
-                
+             
 # TMP   
 # SubRip
 # Fab
@@ -106,8 +41,10 @@ class Subtitles:
     
     def __init__(self,fps=23.98):
         self.inSub = []
+        self.subtitle = []
         self.sub = None
         self.subType = ''
+        self.fps = fps
     
     def writeToFile(self, out_file_name):
         with open(out_file_name, 'w') as outfile:
@@ -115,18 +52,78 @@ class Subtitles:
                 for l in self.subtitle:
                     outfile.write('\n'.join(self.subtitle))
     
+    def frameToMs(self,frame):
+        return int(frame / self.fps * 100)
+    
+    def msToFrame(self,ms):
+        return int(ms * self.fps / 100)
+    
+    def parseMicroDvd(self):
+        
+        del self.subtitle[:]
+        
+        for l in self.inSub:
+            if l.startswith('{'):
+                start,stop,text = l.split('}',2)
+                start = start.lstrip('{')
+                stop = stop.lstrip('{')
+                self.subtitle.append([self.frameToMs(int(start)),self.frameToMs(int(stop)),text])
+    
+    def parseMpl2(self):
+        del self.subtitle[:]
+        
+        for l in self.inSub:
+            if l.startswith('['):
+                start,stop,text = l.split(']',2)
+                start = start.lstrip('[')
+                stop = stop.lstrip('[')
+                self.subtitle.append([int(start) * 100, int(stop) * 100, text]) 
+    
+    def hhmmssToMs(self,h,m,s):
+        return(int(h) * 3600 + int(m) * 60 + int(s))* 1000
+    
+    def msToHhmmss(self,ms):
+        sec = ms/1000
+        h = sec/3600
+        m = (sec - h * 3600)/60
+        s = (sec - h * 3600 - m * 60)
+        return h,m,s 
+       
+    def parseTmp(self):
+        del self.subtitle[:]
+        for l in self.inSub:
+            h,m,s,text = l.split(':',3)
+            self.subtitle.append([self.hhmmssToMs(h,m,s), self.hhmmssToMs(h, m, int(s)+2),text])
+            #sys.stdout.write("{0}:{1}:{2}={3}".format(h,m,s,text))
+    def subRipFormatToMs(self,inTime):
+        h,m,s = inTime.split(':')
+        s,ms = s.split(',')
+        return self.hhmmssToMs(h, m, s) + int(ms)
+        
+    def parseSubRip(self):
+        inText = False
+        del self.subtitle[:]
+        for l in self.inSub:
+            if re.search('\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d',l):
+                start,stop = re.split(' --> ',l)
+                start = start.strip()
+                stop = stop.strip()
+                print(self.subRipFormatToMs(start),self.subRipFormatToMs(stop))   
     
     def setSubsType(self,subType):
         """docstring for setSubs"""
         if subType == 'MicroDVD':
             self.subType = subType
-            self.sub = MicroDvd(self.inSub).parseSubtitle()
+            self.parseMicroDvd()
         elif subType == 'Mpl2':
             self.subType = subType
+            self.parseMpl2()
         elif subType == 'TMP':
             self.subType = subType
+            self.parseTmp()
         elif subType == 'SubRip':
             self.subType = subType
+            self.parseSubRip()
         elif subType == 'Fab':
             self.subType = subType
         elif subType == 'SubViewer':
@@ -175,25 +172,37 @@ class Subtitles:
         else : self.setSubsType('unknown')
     
     def loadFromFile(self,inFileName):
-        self.inSub = []
+        if sys.version_info[0] == 2:
+            self.loadFromFileP2(inFileName)
+        elif sys.version_info[0] == 3:
+            self.loadFromFileP3(inFileName)
+    
+    def loadFromFileP2(self,inFileName):
+        del self.inSub[:]
         with open(inFileName,'r') as inFile:
             for l in inFile:
                 self.inSub.append(l)
         self._detectSubtitleFormat()
     
-    
+    def loadFromFileP3(self,inFileName):
+        del self.inSub[:]
+        with open(inFileName,'r', errors='ignore') as inFile:
+            for l in inFile:
+                self.inSub.append(l)
+        self._detectSubtitleFormat()
+        
     def loadFromBuffer(self,buffer):
         """docstring for loadFromBuffer"""
-        self.inSub = []
+        del self.inSub[:]
         if type(buffer) == type([]):
             self.inSub = buffer[:]
         self._detectSubtitleFormat()
         
     
     def printSub(self ):
-        for l in self.inSub:
-            print(l)
-            
+        for l in self.subtitle:
+            #sys.stdout.write(l)
+            print(l)            
 
 
 
@@ -222,32 +231,5 @@ class Subconverter:
     
 
         
-def usage():
-    print('{0} version : {1}'.format(os.path.basename(sys.argv[0]),__version__))
-    print('usage : {0} /path/to/subtitle.txt [-f FPS]'.format(os.path.basename(sys.argv[0])))
-    
-if __name__ == '__main__':
-    try:
-        opts, args = getopt.gnu_getopt(sys.argv[1:], "f:", ["fps="])
-    except getopt.GetoptError as error:
-        print(str(error))
-        usage()
-        sys.exit(1)
-    fps = 23.98
-    for o,a in opts:
-        if o in ("-f","--fps") :
-            fps = float(a)
-    for f in args:
-        if not os.path.exists(f):
-            print("File {0} : not exists".format(f))
-            continue
-        c = Subconverter(f,fps)
-        c.convert()
-        del(c)
-        
-        #s = Mpl2()
-        #s.load_from_file(f)
-        #s.write_to_file('test.txt')
-        #s.print_sub()
-        
+
         

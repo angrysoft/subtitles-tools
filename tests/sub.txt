@@ -1,0 +1,1088 @@
+{24}{122}Napisy by Jacoj|T³umaczenie oparte na t³umaczeniu NoPE
+{2628}{2658}Dok¹d biegniecie?
+{2684}{2716}Pomó¿ mi!
+{2724}{2758}Tutaj!
+{3540}{3570}Uciekaj!
+{3580}{3604}Uciekaj!
+{3620}{3705}To by³ bombowiec B-29, bub. |Nie wyprzedzisz tego co nadci¹ga.
+{3721}{3754}Yashida!
+{3900}{3936}Lepiej tutaj zejdŸ.
+{4002}{4046}Na twoim miejscu bym siê pospieszy³.
+{5610}{5634}Uciekaj! Ju¿!
+{5907}{5945}Nie podnoœ siê!
+{7063}{7116}Nie, czekaj!|Nie, nie, nie, czekaj!
+{7186}{7249}Nie. |Jest niebezpiecznie.
+{7292}{7389}ObudŸ siê, obudŸ siê, obudŸ siê.
+{7418}{7464}Gdzie by³eœ?
+{7530}{7561}Nagasaki.
+{7588}{7641}Daleko to?
+{7829}{7856}Jesteœ tutaj.
+{7860}{7886}Oczywiœcie.
+{7890}{7933}Mo¿esz zostaæ?
+{7963}{7999}Wiesz, ¿e nie.
+{8023}{8075}Och, Jean. Bardzo przepraszam.
+{8085}{8109}Wiem.
+{8112}{8200}Ju¿ nigdy Ciê nie zraniê ani nikogo innego.
+{8204}{8236}Da³em s³owo.
+{8254}{8297}Œwiête s³owo?
+{8305}{8353}¯artujesz sobie ze mnie.
+{8399}{8451}Ju¿ za póŸno.
+{8574}{8646}Nie! Nie, Jean!
+{8650}{8684}Nie, nie, nie! Proszê!
+{8687}{8714}Nie ukryjesz siê.
+{8718}{8742}Nie, nie, nie! Proszê!
+{8746}{8774}Nie ukryjesz siê.
+{8778}{8815}Nie, Jean! Nie!
+{8832}{8856}Nie.
+{11660}{11738}Walnij wszystko na krechê.|Dziêki, skarbie..
+{11826}{11858}- Masz strza³y?|- Pewnie.
+{11896}{11923}Pamiêtasz o tych strza³ach?
+{11927}{11994}Tak, tak, Eddie, mamy je!
+{12125}{12151}Yeah!
+{12214}{12241}Hey!
+{12252}{12291}Co ty robisz?
+{12295}{12333}Cz³owieku, prawie odstrzeli³eœ mu stopê!
+{12341}{12382}Nie jesteœ myœliwym, co nie?
+{12409}{12446}Ju¿ nie.
+{13846}{13893}Co jest do cholery?
+{14322}{14360}Nie ka¿ mi tego robiæ.
+{15370}{15436}Mia³ z 3 metry wysokoœci.
+{15440}{15523}
+{15532}{15565}Wtedy nagle siê pojawi³.
+{15588}{15689}Dorwa³ Rileya, wypatroszy³ go.|I Eddiego.
+{15710}{15800}Przedar³ siê przez namiot,|przewróci³ ratrak jak zabawkê.
+{15821}{15870}To ciebie zaatakowa³ niedŸwiedŸ?
+{15933}{15986}Jestem jedynym ocala³ym.
+{16157}{16221}Chcia³bym postawiæ temu panu drinka.
+{16286}{16312}Jak siê pan nazywa, proszê pana
+{16555}{16595}Logan.
+{16614}{16721}A to jest zatruta strza³a, która|o ile mi wiadomo, jest zakazana.
+{16995}{17063}Œmia³o, spytaj gdzie j¹ znalaz³em.
+{17282}{17324}Spytaj.
+{17337}{17366}Gdzie j¹ znalaz³eœ?
+{17370}{17418}Zabawne, ¿e pytasz.
+{17422}{17474}Wyci¹gn¹³em j¹ z grzbietu niedŸwiedzia.
+{17490}{17564}Ktokolwiek do niego strzeli³...|...nie potrafi³ albo nie mia³ jaj
+{17564}{17599}aby go wytropiæ
+{17602}{17630}i go dobiæ.
+{17700}{17778}Niestety, wstrzykniêta,|œmiertelna trucizna,
+{17782}{17876}powoli uœmierca³a niedŸwiedzia,|powoduj¹c, ¿e rozwœcieczony zabi³ 5 ludzi
+{17880}{17920}Nie wiem o czym mówisz.
+{17924}{17965}Bo nigdy nie macza³em moich strza³ w truciŸnie.
+{17986}{18043}W takim razie nie masz siê czego obawiaæ.
+{18188}{18212}Cholera.
+{18381}{18421}To boli.
+{18466}{18490}Przepraszam, Jean.
+{18543}{18597}Nie przejmowa³a bym siê nimi.
+{18601}{18676}Wiêkszoœæ z nich i tak wkrótce zginie|z twoj¹ pomoc¹ czy bez.
+{18691}{18773}Trzech z nich, w ci¹gu tygodnia.|W jednej ciê¿arówce.
+{19218}{19268}Ten miecz ma setki lat.
+{19272}{19353}I nazywa siê "Danzan" po pierwszym|samuraju, który go u¿ywa³.
+{19357}{19425}'Danzan' znaczy "oddzielacz"|po japoñsku.
+{19459}{19575}Idealna broñ do oddzielania g³owy|albo koñczyny od cia³a.
+{19799}{19830}Whoa!
+{19843}{19881}W³aœnie tak.
+{19933}{19986}Zaparkowa³am z ty³u.
+{20194}{20229}Wsiadaj.
+{20511}{20565}Wybacz, jest wypo¿yczony.
+{20627}{20659}Kim jesteœ?
+{20663}{20727}Ja?|Jestem Yukio.
+{20731}{20765}I?
+{20778}{20831}I próbowa³am ciê odnaleŸæ od ponad roku.
+{20843}{20871}Po co?
+{20875}{20923}¯eby daæ ci to.
+{20939}{20982}Mój pracodawca chcia³, ¿ebyœ to mia³.
+{21022}{21054}Kto jest twoim pracodawc¹?
+{21069}{21107}Mistrz Yashida.
+{21450}{21565}Powiedzia³, ¿e to nale¿y do ciebie|i sp³aci stary d³ug.
+{21581}{21629}Mistrz Yashida umiera.
+{21639}{21725}Chce ci podziêkowaæ za uratowanie mu ¿ycia|kilkadziesi¹t lat temu.
+{21746}{21788}Wie, ¿e jesteœ...
+{21814}{21841}zajêtym cz³owiekiem.
+{21845}{21930}Ale bardzo chce siê po¿egnaæ osobiœcie.
+{21939}{21979}Dobra, gdzie on jest?
+{21983}{22013}W Tokio.
+{22017}{22067}Co?|Nie jadê do Japonii.
+{22071}{22131}By³oby hañb¹ dla ciebie|gdybyœ odmówi³ jego proœbie.
+{22135}{22234}Có¿, przepraszam Pana Yashida|ale nie jadê do Tokio, dobra?
+{22237}{22274}Mam pewne sprawy do za³atwienia.
+{22282}{22311}Nie przepraszaj.
+{22315}{22376}To zaszczyt spotkaæ Wolverine'a.
+{22449}{22507}Ju¿ nim nie jestem, rozumiesz?
+{22553}{22579}Ciekawe.
+{22614}{22674}Wiêc po co poszed³eœ do baru,|jeœli nie szukaæ sprawiedliwoœci?
+{22678}{22702}- Nie wiem.|- Nie wiesz?
+{22705}{22735}- Nie.|- S¹dzê, ¿e wiesz.
+{22739}{22787}- Zatrzymaj siê.|- Jesteœ ¿o³nierzem.
+{22791}{22821}- Nie jestem. Zatrzymaj siê.
+{22825}{22852}- Jesteœ ¿o³nie...
+{22852}{22893}- W tej chwili siê zatrzymaj!
+{22899}{22929}- Natychmiast.
+{23035}{23131}Jesteœ ¿o³nierzem.|I szukasz tego, czego wszyscy ¿o³nierze.
+{23138}{23163}I co to niby jest?
+{23179}{23227}Honorowa œmieræ.
+{23231}{23260}I zakoñczenie twojego bólu.
+{23296}{23339}A kto mówi, ¿e cierpiê?
+{23368}{23467}Cz³owiek, który ma koszmary|ka¿dej nocy swojego ¿ycia, cierpi.
+{23891}{23920}Jeden dzieñ.
+{23940}{24020}Po¿egnam siê z panem Yashid¹|i wracam z powrotem.
+{24048}{24087}Okay.
+{24227}{24302}15 godzin.|Zale¿nie od wiatru.
+{24320}{24356}15 godzin?
+{24386}{24416}Nie lubisz lataæ?
+{24430}{24466}Uwielbiam.
+{25105}{25134}{y:i}Kuzuri.
+{25159}{25188}{y:i}Kuzuri.
+{25210}{25234}{y:i}Kuzuri.
+{25332}{25380}{y:i}Kuzuri.|Co to znaczy?
+{25380}{25413}Potwór.
+{25466}{25519}Nie czujesz bólu?
+{25541}{25609}Nie odczuwasz bólu?|Och tak, odczuwam.
+{25629}{25666}Du¿o bólu.
+{25770}{25812}Kiedy sie urodzi³eœ?
+{25835}{25879}To by³o tak dawno.
+{25912}{25944}Wiele wojen.
+{25965}{25997}Rozumiesz?
+{26107}{26152}Zbyt wiele pieprzonych wojen.
+{26408}{26445}Prawie dotarliœmy.
+{26478}{26515}Wiêc przewidujesz przysz³oœæ?
+{26541}{26589}Umiem czytaæ mapê.
+{26605}{26678}Powiedzia³aœ, ¿e znasz|przysz³oœæ tych dupków w barze.
+{26694}{26746}Wiem, ¿e zgin¹.
+{26768}{26818}Wszyscy umrzemy.
+{26825}{26906}Powiedzia³aœ, ¿e zgin¹ w|jednej ciê¿arówce w ci¹gu tygodnia.
+{26920}{26970}Jeœli masz racjê, to masz niez³y talent.
+{27053}{27098}Nie wszyscy mamy szpony.
+{27180}{27242}To co, umrê w tym samolocie?
+{27278}{27306}Nie.
+{27334}{27366}Nie w tym.
+{27985}{28026}Niech te œwiat³a ciê nie zmyl¹.
+{28037}{28079}Nasta³y czarne dni w Japonii
+{28098}{28162}Niektórzy wierz¹, ¿e kiedy|Mistrz Yashida zachorowa³,
+{28162}{28190}to cieñ na nas pad³.
+{28202}{28242}Uwa¿asz, ¿e jest bogiem?
+{28281}{28325}Nie. Cz³owiekiem.
+{28335}{28368}Ale wspania³ym.
+{28377}{28446}Po wojnie, pomóg³ odbudowaæ naród.
+{28454}{28512}A jego rodzinny interes sta³ siê |najwiêkszym w Japonii.
+{28517}{28591}Wow. Nauczy³aœ sie tego na pamiêæ?
+{28638}{28686}Zawdziêczam Mistrzowi Yashidzie swoje ¿ycie.
+{28699}{28736}Nie b¹dŸ takim kutasem.
+{29104}{29135}Du¿o broni.
+{29135}{29171}By³y ataki.
+{29174}{29240}Usi³owanie porwania.|Próby zabójstw.
+{29244}{29276}Przez kogo?
+{29279}{29340}Japoñsk¹ mafiê - Yakuzê
+{29345}{29411}Roœli w si³ê, kiedy rz¹d stawa³ siê s³aby.
+{29498}{29535}Sztuczny staw biodrowy.
+{29763}{29797}Zbyt ma³e.
+{29835}{29869}Zbyt ma³e.
+{30511}{30538}Hey.
+{30570}{30596}Têdy.
+{30620}{30654}Kto to?
+{30743}{30800}Shingen, syn Mistrza Yashidy.
+{30887}{30911}Dobry jest.
+{30967}{30995}Jest w porz¹du.
+{31113}{31179}Wiêc co siê sta³o temu |twardzielowi w sanda³ach?
+{31183}{31235}Mistrz Yashida jest tradycjonalist¹.
+{31239}{31310}Patrzy w przesz³oœæ i przysz³oœæ zarazem.
+{31663}{31742}To Mariko.|Jego wnuczka.
+{32201}{32232}Mariko!
+{32268}{32306}Co sie dzieje?
+{32527}{32584}Nie odpowiada³aœ na moje listy.
+{32602}{32638}Teraz nie mogê ci powiedzieæ
+{32666}{32704}Mo¿esz.
+{32814}{32860}Co to za jaskiniowiec?
+{32875}{32938}To cz³owiek, którego|twój dziadek kaza³ mi odnaleŸæ.
+{32966}{33019}Nie mo¿esz go przyprowadziæ w takim stanie.
+{33250}{33321}Shizu i Saki odka¿¹ ciê.
+{33367}{33391}Ogolisz siê.
+{33394}{33431}Akurat.
+{33443}{33479}WejdŸ do wanny.
+{33493}{33518}Coo...
+{33522}{33572}W³aŸ do wanny!
+{33593}{33622}Serio?
+{33711}{33742}Dobrze.
+{33838}{33896}Okay. Okay.
+{33900}{33958}Dobra. Dobra.|Poradzê sobie z t¹ czêœci¹.
+{34219}{34248}Co?
+{34298}{34327}No co?
+{34344}{34379}£adnie wygl¹dasz.
+{34395}{34442}Czujê siê zgwa³cony.
+{34465}{34533}Przygotujcie kolejne dwa supresory|dla Mistrza Yashidy
+{34541}{34583}I sprawdŸcie jego ciœnienie.
+{34981}{35021}Mistrzu Yashida.
+{35164}{35191}Oh...
+{35225}{35250}{y:i}Kuzuri.
+{35262}{35308}Wygl¹dasz jak dawniej.
+{35328}{35369}Ale nie dziwi mnie to.
+{35445}{35484}Pani doktor Green,
+{35500}{35548}proszê nas zostawiæ.
+{35565}{35608}Piêæ minut, nie d³u¿ej.
+{35694}{35728}Mój onkolog.
+{35746}{35772}Œwietnie.
+{35862}{35958}Oh, zostaw to. Ju¿ nie potrzebujê |tych œrodków ostro¿noœci.
+{36099}{36212}Od wielu lat chcia³em ci podziêkowaæ |za uratowanie mi ¿ycia.
+{36244}{36272}Tak...
+{36305}{36341}By³eœ dla mnie dobry
+{36365}{36410}I by³eœ dobry dla wielu ludzi.
+{36426}{36472}Nawet ja to zauwa¿y³em.
+{36946}{37027}Ten obraz pochodzi z wioski,|w której siê urodzi³em.
+{37041}{37142}Przedstawia walecznoœæ i|kunszt "Czarnego klanu".
+{37145}{37205}Wojowników Ninja.
+{37209}{37282}Jest w mojej rodzinie od 7 wieków.
+{37323}{37410}Nie pos³a³em po ciebie tylko,|aby ci podziêkowaæ, Logan.
+{37453}{37497}Chcia³em ci siê odp³aciæ.
+{37565}{37634}Zaoferowaæ ci coœ, czego nikt inny nie mo¿e.
+{37657}{37737}Prezent równy ¿yciu, które mi ocali³eœ.
+{37747}{37783}Niczego nie potrzebujê.
+{37786}{37821}To nie jest rzecz.
+{37838}{37902}Wiecznoœæ mo¿e byæ przekleñstwem.
+{37929}{37995}Nie by³o Ci ³atwo tak ¿yæ bez koñca.
+{38017}{38065}Straty, które musia³eœ przeboleæ.
+{38077}{38147}Cz³owiek nie mo¿e uciec od rzeczy,|dla których ¿yje.
+{38166}{38206}Traci swój cel,
+{38209}{38251}staje siê "Roninem".
+{38285}{38358}Samurajem bez mistrza.
+{38471}{38530}Mogê zakoñczyæ twoj¹ wiecznoœæ.
+{38549}{38579}Sprawiæ ciê œmiertelnym.
+{38646}{38770}To co mi zrobili... czym jestem...|Nie mo¿na odwróciæ.
+{38774}{38845}Technologia firmy Yashida|mo¿e wszystko.
+{38861}{38969}Mamy powody s¹dziæ, ¿e twoja zdolnoœæ|do regeneracji mo¿e byæ przekazana.
+{38973}{38998}Przekazana?
+{39001}{39038}Z ciebie na kogoœ innego.
+{39122}{39197}Walczy³eœ wystarczaj¹co d³ugo, Logan.
+{39233}{39259}Jestem zaskoczony.
+{39263}{39350}Przyszed³em tu, ¿eby po¿egnaæ siê kimœ,|kogo dobrze zna³em.
+{39354}{39396}Jestem tym samym cz³owiekiem.
+{39399}{39459}Ale wtedy nie by³em gotowy na œmieræ.
+{39463}{39523}I nie jestem gotów teraz.
+{39542}{39571}Ale ty jesteœ,
+{39601}{39643}czy¿ nie?
+{39693}{39745}- Oferujesz mi œmieræ?|- Nie.
+{39750}{39794}Nie, nie natychmiastow¹.
+{39811}{39886}Bêdziesz ¿y³ d³ugim zwyk³ym ¿yciem.
+{39901}{39963}Zakochasz siê,|za³o¿ysz rodzinê,
+{39967}{40013}zestarzejesz siê.
+{40038}{40141}I pewnego dnia umrzesz naturaln¹ œmierci¹.
+{40245}{40281}To da siê zrobiæ.
+{40314}{40414}Taa, s³uchaj. Mi³o ciê znów zobaczyæ.|Przykro mi, ¿e jesteœ chory.
+{40418}{40491}Proszê, Logan-San.|Znów Ciê potrzebujê.
+{40495}{40553}Bojê siê o swoj¹ rodzinê.
+{40557}{40617}Bojê siê o wszystko co stworzy³em.
+{40621}{40673}- Wystarczy. Powinieneœ odejœæ.|- Proszê, proszê, Logan-San.
+{40677}{40711}Oni chc¹ j¹ zabiæ.
+{40715}{40731}Kogo?
+{40739}{40790}Mariko, moj¹ wnuczkê.
+{40799}{40886}Ona jest moim skarbem.|Musi byæ chroniona.
+{40966}{41031}Nie chcesz tego, co mam.
+{41073}{41101}{y:i}Kuzuri.
+{41110}{41139}{y:i}Kuzuri!
+{41212}{41309}Lord Shingen, twój ojciec|wzywa ciê.
+{41359}{41405}Ju¿ czas.
+{41635}{41710}Muszê porozmawiaæ z moim ojcem...
+{41719}{41794}zanim on spotka siê z dziadkiem.
+{41802}{41846}On pomówi z tob¹ póŸniej, Mariko.
+{41849}{41886}Ojcze! Natychmiast muszê z tob¹ porozmawiaæ!
+{41891}{41933}Nie teraz, Mariko!
+{43129}{43181}Ostro¿nie, ostro¿nie.|Jest œlisko.
+{43210}{43237}Puœæ mnie!
+{43293}{43331}Skoñczy³aœ?
+{43362}{43413}Zostaw mnie.
+{43890}{43955}Chcia³ siê tylko po¿egnaæ, co?
+{44141}{44174}Dorasta³yœcie razem?
+{44189}{44217}Tak.
+{44230}{44273}Ale nie jesteœ jej siostr¹?
+{44306}{44333}Nie.
+{44402}{44465}Mistrz Yashida znalaz³|mnie w drodze na po³udnie.
+{44486}{44558}Przyprowadzi³ Mariko,|¿eby zobaczy³a fabrykê, któr¹ budowa³.
+{44635}{44715}Ja grzeba³am w œmieciach, |w poszukiwaniu jedzenia.
+{44762}{44802}I po prostu zabrali ciê ze sob¹ do domu?
+{44835}{44915}Mariko zawsze by³o trudno zawieraæ przyjaŸnie.
+{45142}{45198}Zobaczê czy samolot bêdzie gotowy na rano.
+{45211}{45255}Œpij tutaj.
+{45706}{45776}Nie b¹dŸ taki smutny, Shingen.
+{45801}{45846}Nadal jestem œmiertelnie chory.
+{45856}{45919}Bêdê w biurze, gdybyœ mnie potrzebowa³.
+{46075}{46158}Nie jest ³atwo to powiedzieæ
+{46195}{46297}I nigdy nie by³o to ³atwe dla nas, prawda
+{46327}{46376}Próbowa³em, ojcze
+{46384}{46438}Zrobi³eœ co mog³eœ.
+{46662}{46750}Zawsze uwa¿a³em ciê za swojego nastepcê.
+{46774}{46832}Wiêc, przez ostatnie kilka lat, na próbê,
+{46832}{46879}pozwoli³em ci na wiêksz¹ w³adzê
+{46906}{46942}To by³ dla mnie zaszczyt.
+{46942}{47019}A teraz, uzmys³owi³em sobie, |¿e to by³ b³¹d.
+{47047}{47131}Doprowadzi³eœ firmê prawie do ruiny.
+{47198}{47298}Kiedy umrê, ktoœ inny zajmie moje miejsce.
+{47378}{47478}Ojcze, przepraszam, ¿e ciê rozczarowa³em.
+{47478}{47526}Nie obra¿ajmy siê nawzajem.
+{47555}{47633}Nie jesteœ cz³owiekiem, |który pokieruje koncernem Yashida.
+{47704}{47772}Nie mo¿esz wprowadziæ kogoœ z zewn¹trz.
+{47799}{47851}Tak, masz racjê.
+{48367}{48432}I tak siê nigdy nie stanie.
+{48741}{48812}{y:i}Wiecznoœæ mo¿e byæ przekleñstwem...
+{48834}{48864}{y:i}Kuzuri.
+{48868}{48949}{y:i}Nie czujesz bólu, Kuzuri?
+{48954}{48978}Ile masz lat?
+{48994}{49029}Ciekawa propozycja.
+{49122}{49186}Co ty wyprawiasz,|chcesz zawieœæ starego cz³owieka?
+{49202}{49262}Myœla³am, ¿e chcesz byæ ze mn¹.
+{49274}{49297}ChodŸ tu.
+{50515}{50539}Nie ¿yje.
+{50616}{50668}Nie przewidzia³am tego.
+{52968}{53028}Kto stoi przy Mariko?
+{53032}{53068}Nazywa siê Noburo Mori.
+{53072}{53134}Minister Sprawiedliwoœci. Wschodz¹ca gwiazda.
+{53138}{53200}To narzeczony Mariko.
+{53204}{53252}Musisz siê k³aniaæ.
+{53404}{53432}Uk³on.
+{53543}{53588}Panie Shingen, to jest pan Logan.
+{53592}{53636}Wiem kim jest.
+{53650}{53693}Pañski ojciec by³ dobrym cz³owiekiem.
+{53726}{53783}Czêsto mówi³ tak o panu.
+{53816}{53900}Zawsze fascynowa³ go pañski gatunek.
+{53943}{54050}Jak s¹dzisz, dlaczego wys³a³|nasz¹ ma³¹ Yukio, by cie odnalaz³a?
+{54098}{54132}¯eby siê po¿egnaæ.
+{54172}{54224}No i uda³o ci siê.
+{54242}{54302}Czas ¿ebyœ wróci³ do swojej jaskini.
+{54680}{54736}Ktoœ jeszcze chce siê ze mn¹ spotkaæ?
+{55204}{55248}Przyrzekam.
+{55262}{55298}Mistrzu Yashida,
+{55328}{55374}¿e bêdê czujny
+{55381}{55425}i poœwiêcê swoje ¿ycie
+{55429}{55478}by chroniæ Mariko.
+{55620}{55674}Tamta zbroja nale¿a³a do samuraja "Shiruba".
+{55678}{55733}Srebrnego Samuraja.
+{55737}{55819}Bêdzie strzeg³ zmar³ego na wieki.
+{56223}{56259}Logan?
+{56396}{56442}Ej, coœ tu nie gra.
+{56484}{56521}Puœæ.
+{57170}{57195}Logan!
+{57256}{57298}Logan!
+{57934}{57958}Logan!
+{60367}{60395}{y:i}Kuzuri.
+{60445}{60481}ChodŸmy!|No dalej, chodŸmy!
+{60803}{60852}Yukio!|Mariko!
+{62037}{62074}Mariko!
+{63316}{63353}ChodŸmy!|No dalej, chodŸmy!
+{64309}{64348}Tutaj! Tutaj! Têdy!
+{64689}{64717}Ruchy!
+{64737}{64788}WchodŸ! Szybko!
+{65170}{65202}Nie zatrzymuj siê.
+{65218}{65257}Dalej!
+{65473}{65513}Krwawisz i potrzebujesz lekarza
+{65517}{65553}Nie zatrzymuj siê
+{65773}{65817}Dziêkujê za to co zrobi³eœ.
+{65821}{65859}- To by³a Yakuza.|- Nic mi nie jest.
+{65863}{65903}- Dlaczego cie œcigaj¹?
+{65907}{65968}Nic mi nie jest. St¹d ju¿ pójdê sama.
+{65972}{66059}IdŸ ju¿.|PójdŸ do lekarza.
+{67243}{67274}Whoa!
+{67301}{67325}Ale przyjemnie.
+{67385}{67434}To jeden z tych szybkich poci¹gów, nie?
+{67438}{67482}Mówi³am ci, nie potrzebujê twojej pomocy.
+{67514}{67587}Ile one cisn¹, jakieœ 400 km na godzinê?
+{67807}{67850}Ten tchórzliwy atak by³
+{67858}{67901}sprawk¹ zbirów Yakuzy.
+{67909}{68005}Agresywna odpowiedŸ na moje dzia³ania
+{68008}{68085}zwi¹zane z walk¹ z przestêpczoœci¹ zorganizowan¹.
+{68140}{68205}Uciekli pó³nocn¹ bram¹.
+{68211}{68278}By³a z tym obcym.
+{68442}{68497}Gdzie jest twój przyjaciel gaijin?
+{68509}{68561}Ostatnie co widzia³am,|to chroni³ twoj¹ córkê.
+{68617}{68659}Jesteœ laleczk¹.
+{68662}{68738}Towarzyszem dla dziecka,|które ju¿ z tego wyros³o.
+{68742}{68795}Pamiêtaj o tym.
+{69085}{69143}Wiêc dok¹d zmierzamy Mariko?
+{69253}{69279}Gdzie jedziemy?
+{69317}{69376}Jadê do koñca trasy.
+{69376}{69432}Moja rodzina ma dom na po³udniu
+{69445}{69475}To g³upie.
+{69493}{69561}Bez urazy, ale bêd¹ ciê tam szukaæ.
+{69569}{69613}Tam nie bêd¹.
+{69637}{69669}- S³uchaj, chcesz ¿ebym ciê zostawi³.|- Tak.
+{69673}{69701}- Rozumiem.|- Czy¿by?
+{69701}{69737}O, taak. Uwierz.
+{69741}{69767}Problem w tym, ¿e jeœli to zrobiê,
+{69771}{69826}nie s¹dzê, ¿e do¿yjesz do koñca dnia.
+{69907}{69997}Nie udawaj, ¿e nic siê nie dzieje, ksiê¿niczko.
+{70001}{70091}Chyba, ¿e chcesz zgin¹æ.|W takim razie dobrze ci idzie.
+{70669}{70709}O nie, co jest?
+{70928}{70955}Oh...
+{71211}{71249}Co siê do cholery dzieje?
+{75288}{75312}Co ci siê sta³o?
+{75316}{75355}Wysiadamy tu. Idziemy!
+{75371}{75424}S³uchaj, musimy znaleŸæ jakieœ bezpieczne miejsce.
+{75428}{75495}Nie rozumiem. Sk¹d wiedzia³eœ, |¿e to by³a Yakuza?
+{75499}{75536}To byli ci sami goœcie co w œwi¹tyni.
+{75544}{75569}Sk¹d wiesz, ¿e œcigaj¹ akurat mnie?
+{75574}{75602}Musimy znaleŸæ jakieœ bezpieczne miejsce.
+{75602}{75627}Musimy znikn¹æ z ulic.
+{75631}{75676}- Nic nie rozumiem.|- Zamknij siê! S³uchaj.
+{75680}{75738}Znasz to miejsce?|Gdzie jest centrum?
+{75742}{75779}Prosto, przed nami.
+{76007}{76055}Gdzie jest jakaœ spokojna czêœæ miasta?
+{76059}{76090}Kolejne osiem przecznic dalej.
+{76094}{76143}Dobra. Zostajemy tutaj.
+{76152}{76191}Idziemy.
+{76308}{76359}To jest hotel mi³oœci.
+{76363}{76395}¯e co?
+{76399}{76436}Hotel mi³oœci.
+{76466}{76532}Hotel mi³oœci. Rozumiesz?
+{76550}{76591}A, tak.
+{76610}{76639}Hej.
+{76643}{76744}Dwa pokoje, przylegaj¹ce do siebie,|na jednym piêtrze
+{76748}{76803}Obok siebie. Bardzo blisko.
+{76819}{76864}Jedno piêtro.|Jedno piêtro.
+{77322}{77349}Co powiedzia³a?
+{77371}{77447}Mówi, ¿e nie ma pokoi obok siebie.
+{77451}{77568}Pyta czy wolimy... "Loch", "Pokój pielêgniarek"...
+{77587}{77651}czy "Misjê na Marsa".
+{78036}{78071}To mo¿e byæ.
+{78168}{78220}{y:i}Start!|Startujemy!
+{78224}{78276}Wygl¹da na ca³kiem przyjemne.
+{78452}{78492}Gdzie bêdziesz spa³?
+{78559}{78577}Nie bêdê.
+{79426}{79462}To du¿o krwi.
+{79526}{79596}Myœla³am, ¿e skoñczy³eœ z graniem bohatera.
+{79611}{79683}Ale te zbiry próbowa³y j¹ zabiæ.
+{79749}{79798}Odpuœæ sobie
+{79833}{79873}£atwo zgin¹æ.
+{79940}{79984}ChodŸ do mnie.
+{80371}{80395}Eh!
+{80406}{80431}Oh.
+{80614}{80638}Logan...
+{80685}{80711}Ty œpisz.
+{81246}{81270}Logan...
+{81430}{81460}Zabij go w koñcu!
+{81466}{81535}Chcesz coœ powiedzieæ zanim zginiesz, {y:i}gaijin?
+{83628}{83738}To jest Mieko, z hotelu.|I jej wnuk, Hitoshi.
+{83741}{83780}Jest lekarzem?
+{83792}{83848}W pewnym sensie tak.
+{83857}{83909}Jest weterynarzem...
+{83933}{83976}studentem
+{83990}{84029}od du¿ych zwierz¹t.
+{84139}{84190}Dziêki.
+{84190}{84231}Whoa.
+{84258}{84357}Skaleczy³eœ go raz czy dwa,|kiedy ciê zszywa³.
+{84361}{84433}Okay, okay, okay.
+{84644}{84672}Hej.
+{84724}{84765}Dziêkujê.
+{84888}{84942}Nigdy wczeœniej tego nie potrzebowa³em.
+{84946}{85002}Czego? Pomocy?
+{85122}{85213}Ta blondyna, lekarka co pomaga³a|twojemu dziadkowi,
+{85216}{85242}kim ona jest?
+{85245}{85330}Spotka³ j¹ kiedy przebywa³ na leczeniu w Ameryce.
+{85349}{85426}Twój dziadek powiedzia³,|¿e moj¹ zdolnoœæ do regeneracji mo¿na mi odebraæ.
+{85426}{85460}i przekazaæ komuœ innemu.
+{85496}{85555}Rany nie goj¹ siê ju¿ jak wczeœniej.
+{85590}{85630}Ona mi to zrobi³a.
+{85901}{85927}Blondyna!
+{85955}{85979}Blondyna!
+{86093}{86166}Ile? Ile? Ile?
+{86651}{86731}Kaza³aœ mi czekaæ 2 godziny.|Nie masz szacunku.
+{86731}{86770}I co, nie znalaz³eœ ich?
+{86861}{86919}Nie pogrywaj ze mn¹, suko.|Móg³bym ciê zabiæ.
+{86923}{87015}Jeœli sprawisz, ¿e cokolwiek|poczujê, Harada, by³oby cudownie.
+{87018}{87063}Mogê poder¿n¹æ ci t¹ gadatliw¹ buŸkê,
+{87063}{87113}zanim zd¹¿ysz powiedzieæ kolejne g³upie...
+{87153}{87184}Ah...
+{87217}{87286}Poprosi³am ciê o jedn¹ rzecz, ch³opczyku...
+{87295}{87333}PrzyprowadŸ mi tego mutanta.
+{87337}{87408}Nie pracujê dla ciebie.|Pracujê dla domu Yas...
+{87461}{87527}Pracujesz dla Yashidy. Rozumiem.
+{87570}{87645}I nie potrafisz wype³niæ jego ostatniej zachcianki.
+{87661}{87742}Mój Bo¿e, czy ty masz w ogóle pojêcie|ile razy go zawiod³eœ.
+{87745}{87825}Gdzie jest Logan?|Jeszcze z nim nie skoñczy³am.
+{87965}{88013}Ten mutant ma zdolnoœci.
+{88046}{88137}Teraz jest tylko cz³owiekiem.|Teraz jego cia³o jest s³abe.
+{88149}{88182}Dziêki mnie.
+{88186}{88249}Ja os³abi³am jego zdolnoœci,|¿eby móc je odebraæ.
+{88255}{88331}Widzisz?|To mnie powinieneœ okazywaæ szacunek.
+{88413}{88500}ZnajdŸ go, zanim Yakuza to zrobi.
+{89163}{89212}Tutaj wysiadamy.
+{89670}{89714}Gdzie jesteœmy?
+{89735}{89779}Poza Nagasaki.
+{89998}{90032}Têdy.
+{90467}{90524}To jest ten goœæ z pogrzebu. |Ten ³ucznik.
+{90559}{90603}To twój ch³opak?
+{90607}{90657}To Harada.
+{90689}{90733}Tego lata byliœmy mistrzami wioski.
+{90759}{90855}On w ³uku, a ja w no¿ach.
+{90992}{91052}Harada i ja planowaliœmy siê pobraæ.
+{91056}{91094}Co was zatrzyma³o?
+{91098}{91129}Dziadek.
+{91133}{91197}Powiedzia³, ¿e musimy poczekaæ|dopóki nie ukoñczymy 15 lat.
+{91377}{91449}To jest z gór.|A to z morza.
+{91737}{91805}Pa³eczki wbite pionowo Ÿle wró¿¹.
+{91828}{91877}Przypominaj¹ kadzid³a z pogrzebu.
+{91962}{92021}Wszystko ma znaczenie.
+{92056}{92097}Drugiej nocy w domu...
+{92097}{92154}kiedy wybieg³aœ w deszczu.
+{92158}{92210}O co chodzi³o?
+{92249}{92300}Mój dziadek umiera³.
+{92321}{92365}Wiedzia³aœ, ¿e wkrótce umrze.
+{92365}{92396}Chorowa³ od dawna.
+{92396}{92456}To nie jego œmierci siê ba³am.
+{92470}{92514}Wiêc czego?
+{92568}{92614}Co ci powiedzia³ tamtej nocy?
+{92698}{92755}Mariko, dlaczego twój ojciec cie uderzy³?
+{92781}{92818}Próbowa³am go ostrzec.
+{92822}{92861}Przed czym?
+{92896}{92953}Co powiedzia³ ci dziadek?
+{93004}{93081}Powiedzia³...|¿e...
+{93121}{93238}za trzy dni,|kiedy odczytaj¹ jego testament,
+{93293}{93397}stanê siê najpotê¿niejsz¹ osob¹ w Japonii.
+{93466}{93508}Wszystko przepisa³ mnie.
+{93548}{93575}Firmê?
+{93677}{93725}Nie chcia³am jej.
+{93776}{93825}Wiedzia³ o tym.
+{93854}{93920}Nie rozumiem dlaczego mi j¹ da³.
+{93932}{93986}By³a wszystkim o czym marzy³ mój ojciec.
+{94013}{94058}I w³aœnie dlatego.
+{94160}{94217}A co z twoim narzeczonym, Nostromo?
+{94240}{94269}Noburo.
+{94273}{94313}Wie o tym?
+{94317}{94349}Nie.
+{94382}{94425}Czemu chcesz wyjœæ za niego?
+{94434}{94484}Wydaje siê byæ dupkiem.
+{94529}{94585}Mój ojciec nas zeswata³ w zesz³ym roku.
+{94597}{94621}Co?
+{94625}{94702}Dawa³o mu to ³atwiejszy|dostêp do sceny politycznej.
+{94785}{94864}Moje niepos³uszeñstwo,|by³oby dla niego hañb¹.
+{94980}{95039}Nie oczekujê, ¿e zrozumiesz.
+{95104}{95160}Nie jesteœ Japoñczykiem.
+{95313}{95405}Nasza wyspa jest d³uga i w¹ska.
+{95417}{95469}Poci¹gi je¿d¿¹ tylko w dwóch kierunkach.
+{95483}{95517}Gwarantujê ci, Lordzie Shingen...
+{95521}{95566}...moi ¿o³nierze dokonaj¹ wszelkich starañ.
+{95570}{95616}W takim razie, to idioci.
+{95619}{95666}Ju¿ doœæ zmarnowa³eœ mojego czasu.
+{95686}{95737}Muszê zaj¹æ siê sprawami ojca.
+{95801}{95834}Wynoœcie siê i znajdŸcie mi j¹!
+{95973}{96049}Powiedz mi, ¿e masz bardziej|obiecuj¹ce wiadomoœci od swoich ludzi.
+{96068}{96115}Otworz¹ testament w ci¹gu 3 dni.
+{96126}{96169}Mamy co raz mniej czasu.
+{96201}{96253}Wkrótce, mam nadziejê.
+{96267}{96309}Wysy³am cz³owieka na po³udnie.
+{96313}{96361}Tam gdzie znaleŸliœmy cia³a.
+{96625}{96669}Jeœli Yakuza dotarli na pogrzeb...
+{96675}{96707}to znaczy, ¿e maj¹ kogoœ w œrodku.
+{96715}{96771}Tutaj mnie nigdy nie znajd¹.
+{96806}{96839}Nie jesteœ bezpieczna.
+{96873}{96909}Jadê tam.
+{96921}{96948}Bêd¹ ciê œledziæ.
+{96955}{96985}Proszê.
+{96989}{97049}Poczekaj kilka dni.
+{97057}{97086}Proszê, wszystko jest w porz¹dku.
+{97097}{97131}Logan jest ze mn¹.
+{97137}{97185}Jest ranny, Mariko.
+{97227}{97256}Ktoœ przyszed³.
+{97256}{97274}Mariko?
+{97274}{97294}Muszê koñczyæ.
+{97300}{97328}Mariko?
+{97407}{97472}Drzewo zwali³o siê na drogê.
+{97481}{97549}Ten mê¿czyzna móg³by pomóc je przesun¹æ.
+{98323}{98362}W porz¹dku?
+{98455}{98476}Zmêczony.
+{98490}{98530}Potrzebujesz czegoœ?
+{98583}{98607}Nie.
+{98825}{98852}To ci pomo¿e.
+{100090}{100130}Ju¿ czas.
+{100199}{100223}Co?
+{100247}{100313}Proszê... WeŸ go.
+{100349}{100386}Dziêkujê.
+{100826}{100858}Nie.
+{100897}{100934}Dwoma rêkoma.
+{100946}{101037}Japoñski miecz wymaga dwóch r¹k.
+{101152}{101204}- Tak?|- Dok³adnie tak.
+{101267}{101314}Jest piêkny, Yashida.
+{101384}{101413}Ale nie mogê go przyj¹æ.
+{101425}{101456}Proszê.
+{101482}{101513}Dziêkujê.
+{101667}{101695}Przechowaj go.
+{101765}{101810}Przechowaj go dla mnie.
+{101872}{101934}Kiedyœ po niego przyjdê.
+{102118}{102162}Ju¿ czas.
+{103282}{103369}By³em tutaj, kiedy to siê wydarzy³o.
+{103429}{103486}W ten sposób pozna³em twojego dziadka.
+{103495}{103545}Ukryliœmy siê tutaj.
+{103583}{103618}S³ysza³am tê historiê.
+{103730}{103769}Mój dziadek powiedzia³by:
+{103773}{103849}"To co siê tu zdarzy³o dowodzi, ¿e|wszystko na œwiecie odnajduje spokój"
+{103962}{104010}Prêdzej czy póŸniej.
+{104114}{104173}Ten cz³owiek potrafi³ przetrwaæ wszystko.
+{104271}{104331}Mo¿e ty te¿...
+{104473}{104525}Nie sypiasz zbyt dobrze.
+{104529}{104577}W nocy zawsze kogoœ wo³asz.
+{104735}{104766}Kim jest Jean?
+{105126}{105192}Powinniœmy wracaæ.|Zanosi siê na deszcz.
+{105689}{105726}Zaparzê herbatê.
+{105921}{105953}Dla ciebie.
+{106815}{106851}Nie tak.
+{107178}{107256}Trzeba to zwi¹zaæ|jak u prawdziwego samuraja.
+{107352}{107404}Twój dziadek nazwa³ mnie "Roninem".
+{107438}{107494}Samurajem bez mistrza.
+{107539}{107615}Powiedzia³, ¿e dano mi ¿ycie wieczne.
+{107642}{107700}ale bez celu do ¿ycia.
+{107819}{107856}Mia³ racjê?
+{107886}{107918}Tak.
+{108042}{108083}A teraz?
+{109262}{109286}Hej.
+{109310}{109348}Co ty wyprawiasz?
+{109458}{109518}To siê nie skoñczy dobrze.
+{109623}{109671}Ka¿dy kogo kochasz, umiera.
+{110167}{110215}{y:i}Kuzuri.
+{110266}{110306}Wiesz co to znaczy?
+{110418}{110462}Oznacza zwierzê.
+{110466}{110592}Dzikie stworzenie|z d³ugimi pazurami i ostrymi k³ami.
+{110642}{110691}Nie boi siê niczego.
+{110734}{110831}Kiedy by³am dziewczynk¹, |miewa³am koszmary.
+{110847}{110904}Budzi³am siê i bieg³am do rodziców.
+{110927}{110992}Ojciec siê z³oœci³.
+{111098}{111172}Mówi³: "Wracaj do ³ó¿ka |i staw czo³o swoim lêkom."
+{111206}{111267}Mój dziadek by³ inny...
+{111290}{111380}Opowiada³ mi historyjki o Kuzuri,|jego przyjacielu.
+{111402}{111475}Którego spotka³ na dnie studni.
+{111526}{111634}Mówi³, ¿e Kuzuri by³ magiczny|i uratowa³ mu ¿ycie.
+{111690}{111819}Powiedzia³, ¿e Kuzuri bêdzie chroni³ |i mnie, kiedy bêdê spaæ
+{112039}{112077}Kim jest Jean?
+{112259}{112296}Jest taka jak ty?
+{112362}{112410}Co siê jej sta³o?
+{112442}{112487}Umar³a.
+{112648}{112690}Zabi³em j¹...
+{112850}{112896}razem z Kuzuri.
+{113890}{113920}Logan.
+{114264}{114310}Mariko?
+{114367}{114390}Logan!
+{114411}{114443}Logan!
+{114480}{114506}Mariko?
+{114522}{114551}Mariko!
+{114570}{114616}Nie! Logan!
+{114754}{114782}Nie!
+{114808}{114828}Logan!
+{114843}{114868}No!
+{115158}{115176}Mariko!
+{115267}{115291}Logan!
+{115330}{115358}Nie!
+{115414}{115438}Logan!
+{115464}{115506}Mariko! Mariko!
+{115510}{115546}Logan!
+{116036}{116066}Gdzie oni j¹ zabrali?
+{116071}{116111}Gdzie oni j¹ zabrali?!
+{116115}{116151}Gdzie? Zasrañcu!
+{116196}{116258}Nie powiem, gaijin.
+{116274}{116319}Nigdy nie powiem.
+{116473}{116526}Kto ciê przys³a³?
+{116790}{116835}Uh-oh.
+{117082}{117122}ZawieŸ mnie do Noburo.
+{117142}{117186}- Logan...|- ZawieŸ mnie do niego.
+{117208}{117238}Muszê ci coœ powiedzieæ.
+{117242}{117288}Wiêc mów. Szybko!
+{117750}{117796}Poczekaj w aucie.
+{117808}{117856}- Logan.|- Co?
+{117876}{117922}Widzia³am jak umierasz.
+{117925}{117962}Co?
+{117973}{118016}Widzia³am twoj¹ œmieræ.
+{118026}{118074}Kiedy? Teraz?
+{118085}{118126}Przed chwil¹.
+{118130}{118199}To niepe³ny obraz.
+{118203}{118257}Bardziej jak patrzenie |przez dziurkê od klucza.
+{118295}{118348}Ale nigdy siê nie mylê.
+{118370}{118450}Wiedzê tylko jedn¹ czêœæ ¿ycia ludzi.
+{118464}{118502}Ich œmieræ.
+{118519}{118573}I widzia³am twoj¹.
+{118649}{118695}Wiêc, co zobaczy³aœ?
+{118706}{118810}Jak le¿ysz na plecach w ka³u¿y krwi...
+{118858}{118931}Trzymasz w rêkach w³asne serce.
+{118980}{119030}Nie bije.
+{119049}{119078}Nie mam czasu na takie bzdury.
+{119087}{119179}Kiedy mia³am 5 lat,|wiedzia³am jak zgin¹ moi rodzice.
+{119235}{119319}Jakbym obserwowa³a z perspektywy 3-ciej osoby.
+{119390}{119418}Spójrz na mnie.
+{119493}{119558}Wielu ludzi próbowa³o mnie zabiæ,|a mimo to wci¹¿ ¿yjê.
+{119569}{119609}Tak...
+{119612}{119673}ale tym razem jesteœ inny, czy¿ nie?
+{119691}{119737}Mog¹ ciê zraniæ.
+{119741}{119789}Mog¹ ciê zabiæ.
+{119793}{119841}Po prostu poczekaj w aucie.
+{120101}{120149}- Powiedzia³em, ¿e mia³aœ czekaæ w aucie.|- Potrzebujesz wsparcia.
+{120153}{120198}Nie jesteœ bezpieczny w takim stanie.
+{120246}{120302}WyobraŸ sobie,|¿e jestem twoim ochroniarzem.
+{120518}{120561}
+{120730}{120777}- Hej.|- Ju¿ idê.
+{120980}{121053}Okay, czwarta runda.|Jedziemy.
+{121367}{121402}Drink dla ciebie, moja pani.
+{121594}{121620}Wypad.
+{121754}{121796}Nie ty.
+{121842}{121870}Mo¿e i jestem staroœwiecki,
+{121874}{121913}ale myœla³em, ¿e jesteœ zarêczony,
+{121913}{121942}a to oznacza koniec z takimi wybrykami.
+{121946}{121981}Jestem ministrem sprawiedliwoœci.
+{121981}{122012}Masz pojêcie co ci mogê zrobiæ?
+{122016}{122063}Serio, wygl¹dasz na twardziela,
+{122063}{122106}szczególnie w tych czerwonych majtkach.
+{122117}{122144}Dajê ci 10 s³ów.
+{122150}{122205}10 s³ów,
+{122208}{122313}¿ebyœ mi wyt³umaczy³, czemu ty,|minister sprawiedliwoœci
+{122317}{122385}chcesz aby twoja narzeczona zosta³a |zamordowana przez Yakuzê?
+{122388}{122427}Jeœli nie spodoba mi siê to co powiesz,
+{122427}{122490}to wylecisz przez to pierdolone okno.
+{122511}{122562}Nie masz bladego pojêcia|co siê w ogóle dzieje.
+{122628}{122675}- Ile to by³o s³ów?|- Dziewiêæ.
+{122678}{122742}Dziewiêæ.|Zosta³o ci jeszcze jedno.
+{122814}{122830}Naprawdê?
+{122837}{122872}Naprawdê?
+{122880}{122916}Shingen. Shingen!
+{122964}{122992}No dalej.
+{123044}{123076}Odk¹d starzec Yashida zachorowa³,
+{123080}{123164}wydawa³ miliardy na lekarzy, uzdrawiaczy.
+{123168}{123234}Gromadzi³ adamantium|w swoim laboratorium na pó³nocy.
+{123238}{123295}Potajemnie próbuj¹c przed³u¿yæ swoje ¿ycie.
+{123299}{123374}Doprowadzi³ firmê na skraj bankructwa.
+{123378}{123429}Mia³ bzika na twoim punkcie.
+{123492}{123523}Mów zrozumiale!
+{123536}{123608}Shingen i ja chroniliœmy starca.
+{123612}{123689}Ukrywaliœmy d³ugi przed|udzia³owcami i gie³d¹.
+{123692}{123750}Próbowa³ byæ dobrym synem|i myœla³, ¿e zostanie nagrodzony.
+{123776}{123831}Jednak starzec wszystko|przepisa³ swojej wnuczce.
+{123831}{123892}Jeœli Mariko mia³aby tak¹ w³adzê|mog³aby zrzuciæ go ze sto³ka.
+{123896}{123919}To prawda.
+{123923}{123996}Mariko, nigdy nie mia³a do¿yæ do œlubu
+{124000}{124059}ani do chwili odczytania testamentu
+{124079}{124106}Ona nigdy mnie nie lubi³a.
+{124116}{124184}O, serio?|Goœcia takiej klasy jak ty?
+{124200}{124264}Shingen obieca³ mi fortunê za pomoc.
+{124292}{124378}Wiêc postawi³eœ kreskê |na jego córce, czy tak?
+{124404}{124452}Kariera polityczne nie trwa wiecznie.
+{124471}{124492}To prawda.
+{124500}{124544}Czekaj! Nie!
+{124548}{124614}Chcia³eœ znaæ prawdê!|Powiedzia³em ci ca³¹ prawdê!
+{124636}{124679}Nie spodoba³a mi siê.
+{124695}{124727}Wow.
+{124772}{124806}Sk¹d wiedzia³eœ, ¿e na dole jest basen?
+{124809}{124843}Nie wiedzia³em.
+{125234}{125339}Wiedzia³aœ, ¿e studiowa³em biologiê?
+{125384}{125419}Genetykê.
+{125515}{125574}Istniej¹ geny, które przeskakuj¹ pokolenia.
+{125586}{125629}Geny recesywne.
+{125697}{125715}Oczy.
+{125715}{125742}Oczy. W³osy.
+{125775}{125806}Zdolnoœci.
+{125839}{125875}Temperament.
+{125925}{126004}Nie ka¿de dziecko otrzymuje takie same.
+{126022}{126074}Mój ojciec dostrzega³|tylko trochê siebie we mnie.
+{126101}{126138}Za to w tobie...
+{126147}{126204}widzia³ siê jak w lustrze.
+{126672}{126710}Jak przekona³aœ mojego ojca...
+{126713}{126749}¿eby da³ ci kontrolê...
+{126752}{126788}nad najwiêksz¹ azjatyck¹ korporacj¹?
+{126798}{126834}Oszala³eœ.
+{126869}{126913}Nie, przejrza³em na oczy.
+{126955}{126992}Jeœli mnie zabijesz,
+{126998}{127043}stracisz resztkê honoru.
+{127133}{127161}Nie bój siê, Mariko.
+{127168}{127224}Nie chcê ciê skrzywdziæ.
+{127233}{127260}Chcê ci pomóc.
+{127266}{127305}Pomóc zakoñczyæ twoje cierpienie...
+{127311}{127340}od czego powstrzyma³ ciê
+{127345}{127376}ten mutant w zesz³ym tygodniu.
+{127381}{127434}Nigdy nie chcia³am umrzeæ, ojcze.
+{127854}{127887}W porz¹dku, Mariko
+{128010}{128028}ChodŸ ze mn¹.
+{128031}{128052}Co siê dzieje?!
+{128059}{128112}Wiêcej ni¿ mo¿esz sobie wyobraziæ.
+{128308}{128350}Ty.
+{128360}{128396}Ja.
+{128399}{128488}Przepraszam, ¿e przeszkadzam|ale potrzebujê twoj¹ córkê ¿yw¹.
+{128492}{128524}Czym ty jesteœ?
+{128544}{128602}Chemikiem, nihilistk¹...
+{128612}{128695}kapitalistk¹, mutacj¹.
+{128781}{128817}¯mij¹.
+{129542}{129586}Gdzie jest ochrona?
+{130066}{130090}Yakuza.
+{130153}{130177}Shingen?
+{130671}{130702}Logan.
+{130791}{130822}[PrzyjdŸ i weŸ j¹]
+{130957}{130995}To, to tutaj.
+{130998}{131037}Gdzie to jest?
+{131115}{131162}To miejsce narodzin Mistrza Yashidy.
+{131187}{131254}Firma wybudowa³a laboratorium w górach.
+{131343}{131374}Jak daleko?
+{131389}{131452}500 km st¹d.
+{133056}{133112}Muszê wyci¹gn¹æ to coœ ze mnie.
+{133124}{133146}Jak?
+{133156}{133184}Przestañ, Logan! 
+{133188}{133260}Widzia³am jak umierasz.|Nigdy siê nie mylê.
+{133263}{133313}- Nigdy siê nie mylê.|- Nie zawsze masz racjê.
+{133316}{133345}Nie wiedzia³aœ, ¿e staruszek bêdzie gryz³ ziemiê.
+{133349}{133395}Widzia³am jak umierasz|w pokoju takim jak ten, z sercem w d³oniach,
+{133399}{133444}Nie mogê jej zostawiæ z tymi œwirami i mordercami.
+{133450}{133529}Jestem jedyn¹ szans¹ jak¹ ma|ale nie z tym czymœ we mnie.
+{133533}{133561}Umrzesz, Logan.
+{133561}{133597}Mo¿e tak bêdzie lepiej.
+{133608}{133652}Nie, pos³uchaj mnie, Logan!
+{133656}{133704}Nie, przestañ! Logan!
+{133730}{133764}Na pewno nie bêdziesz chcia³a tego zobaczyæ.
+{133768}{133828}Nie! Proszê, pos³uchaj.|Proszê nie!
+{133844}{133905}Nie, przestañ.|Pos³uchaj mnie.
+{133935}{133960}Logan!
+{134171}{134196}Odsuñ siê!
+{134199}{134238}Odsuñ sie od niego.
+{134268}{134312}Zabi³ twojego mistrza.
+{134328}{134393}Dotyka³ twojej siostry
+{134400}{134446}A teraz wolisz jego?
+{134510}{134554}Nic nie widzê.
+{134576}{134622}Zawsze bêdziesz ¿ebrakiem.
+{134626}{134648}Jesteœ szalony
+{134848}{134873}O, nie.
+{135621}{135652}Yukio.
+{136119}{136145}Logan!
+{136316}{136368}Logan! Logan!
+{136389}{136416}Logan!
+{137430}{137480}Nie bij moich przyjació³.
+{137553}{137579}Gdzie jest Mariko?
+{137583}{137651}Zniknê³a.|Ta suka j¹ zabra³a.
+{137655}{137710}To by³o obsesj¹ mojego ojca...
+{137728}{137795}mutacja, te pomy³ki boga...
+{137831}{137931}Jak ty i ona, co zrujnowa³o ten dom.
+{139681}{139721}Próbowa³eœ zabiæ swoj¹ córkê.
+{139785}{139820}¯yj z tym.
+{140184}{140251}Co za potwór z ciebie?
+{140272}{140310}Wolverine.
+{140629}{140702}Hej, wstañ. Tak, w³aœnie.
+{140718}{140742}Myli³am siê.
+{140757}{140791}Mówi³em ci.
+{140795}{140837}Czekaj chwilê, poka¿.
+{140858}{140893}To nic.
+{140896}{140961}Dziêkujê.
+{141254}{141309}Logan to pu³apka.
+{141780}{141820}Po co mnie tu przyprowadziliœcie?
+{141832}{141865}Co ukrywacie?
+{141873}{141910}Wkrótce siê dowiesz Mariko
+{141961}{142012}Witam, Mariko.
+{142040}{142117}W porz¹dku, Mariko.|Ona równie¿ s³u¿y domowi Yashidy.
+{142120}{142154}S³u¿y tylko sobie.
+{142158}{142212}Zainfekowa³a Logana.
+{142220}{142248}Hmm...
+{142253}{142281}A co z dziadkiem?
+{142304}{142344}Czym jego zainfekowa³aœ?
+{142412}{142468}Spe³ni³am jego ostatnie ¿yczenie.
+{142484}{142534}Pomog³am mu odpocz¹æ.
+{142584}{142640}Teraz twoja kolej.
+{143451}{143518}Pos³uchaj mnie mutancie.|Nie wolno jej skrzywdziæ.
+{143553}{143591}Nic jej nie bêdzie.
+{143618}{143670}Tak d³ugo, jak bedziesz pos³uszny.
+{143693}{143762}Logan zaraz tu bêdzie,|powinieneœ siê przygotowaæ.
+{143774}{143829}£atwo by³o go tu zwabiæ.
+{143838}{143875}Ale inn¹ spraw¹ jest jego schwytanie.
+{143875}{143949}Jesteœmy gotowi. |On nigdy nie mia³ do czynienia z Czarnym Klanem
+{144014}{144043}Wiêc, dobrze...
+{144091}{144143}Zanurz swoje strza³y w tym.
+{144160}{144201}To go nie zabije
+{144217}{144265}ale za to go spowolni.
+{144265}{144292}Zabierz t¹ swoj¹ truciznê.
+{144300}{144358}On nie stanowi dla nas ¿adnego zagro¿enia.|Teraz jest s³aby.
+{144379}{144405}Dobrze.
+{144484}{144526}Ale jak ci siê nie uda
+{144561}{144595}to bedziesz mia³ to.
+{145015}{145062}Dobrze wypoczê³aœ?
+{145235}{145267}Nie wiem co powiedzia³aœ albo zrobi³aœ,
+{145267}{145303}¿eby oszukaæ Haradê i mojego dziadka...
+{145303}{145337}Spokojnie.
+{145341}{145389}To twój dziadek mnie odszuka³.
+{145399}{145441}Teraz to ja jestem g³ow¹ rodziny.
+{145544}{145606}I jak s¹dzisz, dlaczego tak jest?
+{145648}{145720}Dlaczego stary cz³owiek wybra³ w³aœnie ciebie?
+{145799}{145840}Bo jesteœ silna?
+{145863}{145913}Albo s³aba?
+{147236}{147276}Widzê, ¿e przyszed³eœ walczyæ.
+{147280}{147308}To bezcelowe.
+{147311}{147368}Jesteœ s³aby. I tylko jeden.
+{147372}{147468}Czarny Klan chroni³ dom Yashidy przez 700 lat.
+{147503}{147542}To wszyscy ludzie jakich masz?
+{147622}{147660}Idê po ni¹.
+{147675}{147723}Jesteœmy wdziêczni za ochronê Mariko.
+{147727}{147802}Ale jeszcze jedno musisz poœwiêciæ|dla jej rodziny.
+{147832}{147884}Pierdol siê, piêknisiu.
+{152248}{152272}Yukio, uciekaj!
+{154002}{154033}Logan.
+{156248}{156282}{y:i}Logan.
+{156285}{156310}{y:i}Kayla.
+{156313}{156341}{y:i}I love you.|Kayla!
+{156344}{156376}{y:i}Logan.
+{156495}{156530}{y:i}- Logan!|{y:i}- Mariko!
+{156577}{156601}Jean.
+{156626}{156659}{y:i}Ratuj mnie.
+{157408}{157455}Odsuñ siê. Nie ma potrzeby.
+{157461}{157506}Gdzie ona jest?|Gdzie jest Mariko?
+{157509}{157533}Gdzie ona jest!?
+{157555}{157607}Gdzie jest Mariko?
+{157611}{157665}Ci¹gle usychasz z têsknoty?
+{157669}{157713}Jakie to urocze.
+{157740}{157786}Imponuj¹ce, co nie?
+{157792}{157878}Wykonany z adamantium,|Tak jak ty.
+{158134}{158223}Ech, Logan, wiesz co? Rozumiem.|Jesteœ sfrustrowany.
+{158227}{158277}Wiem, ¿e tu jest.|Chcê j¹ zobaczyæ!
+{158302}{158333}Chcesz odpowiedzi?
+{158358}{158387}Tak, chcê odpowiedzi!
+{158391}{158435}Wybacz, chcia³abym móc powiedzieæ wiêcej
+{158437}{158483}ale zatrudniono mnie|za umiejêtnoœæ zachowania dyskrecji
+{158486}{158507}Nie w¹tpiê.
+{158535}{158563}Za to
+{158567}{158681}i za talent w ³¹czeniu biochemii z metafizyk¹
+{158694}{158764}Wysokogatunkowe toksyny s¹ moj¹ specjalnoœci¹.
+{158775}{158829}Pomaga mi genetyczna odpornoœæ
+{158829}{158887}na ka¿d¹ truciznê znan¹ ludziom, |jak¹ i ja jestem
+{158911}{159006}I odpornoœæ na truciznê, |któr¹ jest sam cz³owiek...
+{159034}{159066}którym rownie¿ jestem.
+{159078}{159134}Powiem ci coœ,|ty pokrêcona mutancka suko...
+{159155}{159195}dlaczego nie rozepniesz tych bransoletek
+{159195}{159241}i nie zobaczymy kto jest z czego zrobiony?
+{159351}{159415}O, pazurki.|Teraz mo¿emy zaczynaæ.
+{159478}{159533}Wiem, ¿e siê o niego martwisz.
+{159544}{159580}Musisz siê tego wyzbyæ.
+{159587}{159636}Jesteœ z rodu Yashida.
+{159641}{159688}Ona zdradzi³a mojego dziadka...
+{159698}{159730}i ty te¿.
+{159745}{159764}Nie, Mariko.
+{159773}{159817}Dorastaliœmy razem.
+{159824}{159858}Musisz mi zaufaæ.
+{159884}{159929}Pozwól mi iœæ do niego!
+{159932}{159992}Ocali³ mi ¿ycie!
+{159997}{160053}Zapomnij o nim, Mariko!
+{160062}{160090}To nie³atwe dla mnie ale...
+{160095}{160166}wykonujê wolê twojego dziadka
+{160166}{160250}Ten obezw³adniaj¹cy robak, którego znalaz³eœ |w swoim ciele, by³ ode mnie.
+{160258}{160320}I sam go wyci¹gn¹³eœ...
+{160344}{160392}Nie spodziewa³am siê tego.
+{160400}{160436}Ta ¿mija jest z³a...
+{160440}{160483}oboje to wiemy...
+{160487}{160554}ale jest potrzebna do koñca...
+{160563}{160586}Gdzie jest?
+{160588}{160631}Koñca, jakiego chcia³ twój dziadek.
+{160631}{160658}Jesteœ silny.
+{160667}{160707}Odwa¿ny.
+{160724}{160758}Naprawdê odwa¿ny.
+{160843}{160911}Ale to ci nie pomo¿e teraz.
+{161231}{161258}Co do...?
+{161279}{161317}Musisz mi zaufaæ.
+{161332}{161364}Czy tak trudno?
+{161380}{161443}Mieliœmy byæ razem.
+{161454}{161503}Ci¹gle mo¿emy.
+{161527}{161560}Byæ mo¿e.
+{162253}{162272}Nie!
+{162423}{162451}To jakieœ szaleñstwo!
+{162587}{162613}ChodŸmy
+{162683}{162707}Szybciej!
+{162733}{162759}Biegnij!
+{163079}{163115}ChodŸ.
+{163490}{163524}Mariko!|Uciekaj st¹d!
+{163987}{164021}Mariko, wyjdŸ!
+{165725}{165758}Ahhh!
+{168071}{168098}Dawaj.
+{168118}{168147}Nie w taki sposób.
+{168470}{168507}Dwie rêce.
+{168614}{168641}Mistrzu...
+{168839}{168890}Hej! Bub!
+{169363}{169382}Harada.
+{169542}{169579}Przykro mi.
+{170787}{170812}Teraz umrzesz.
+{170831}{170864}Ale nie dzisiaj.
+{171950}{171982}Hej!
+{172154}{172194}Logan-{y:i}san.
+{172198}{172247}Nie b¹dŸ taki zdziwiony.
+{172304}{172396}Z tob¹ u boku przetrwa³em Nagasaki,
+{172400}{172463}wiec bez w¹tpienia przetrwam i to.
+{172503}{172571}Nie obawiaj siê.|To nie potrwa d³ugo
+{172584}{172656}Dr Green i ja czekaliœmy.
+{172663}{172748}Tylko ta zbroja utrzymywa³a mnie przy ¿yciu.
+{172752}{172870}Zbudowaliœmy j¹, ¿eby uczyni³a mnie silnym|i móg³ odebraæ to, czego nie chcesz daæ.
+{172874}{172951}I przenieœæ twoj¹ zdolnoœæ do |regeneracji, której nie chcesz...
+{172971}{173024}...do mojego cia³a.
+{173079}{173158}Moje dziedzictwo musi przetrwaæ.
+{173174}{173260}Myli³eœ siê wierz¹c, ¿e ¿ycie wieczne...
+{173264}{173295}nie ma sensu.
+{173367}{173434}Ale to w³aœnie samo ¿ycie ma sens.
+{173466}{173503}Jeszcze trochê.
+{173507}{173551}Ju¿ prawie skoñczyliœmy.
+{173555}{173651}Spokój którego pragn¹³eœ...
+{173662}{173714}Twoja nagroda.
+{173730}{173806}Dajê ci czyst¹ œmieræ...
+{173819}{173871}twoj¹ upragnion¹.
+{174178}{174203}Có¿ za uczucie...
+{174231}{174291}byæ niezwyciê¿onym...
+{174353}{174395}Jak ty.
+{174702}{174755}Jesteœ potworem.
+{174765}{174793}Mariko.
+{174811}{174870}To ja, twój dziadek.
+{174915}{174953}Pochowa³am swojego dziadka.
+{176467}{176531}Poprosi³eœ mnie |abym przyszed³ siê po¿egnaæ.
+{176546}{176587}Sayonara.
+{177123}{177167}W porz¹dku?
+{177391}{177415}Logan.
+{177657}{177703}Logan.
+{177774}{177803}Logan.
+{178095}{178129}Tu jesteœ.
+{178183}{178223}Oczywiœcie.
+{178263}{178310}Mo¿esz zostaæ?
+{178362}{178410}Nie mogê.
+{178467}{178507}Ale¿ mo¿esz.
+{178550}{178603}Przecie¿ tego chcia³eœ.
+{178654}{178687}Ju¿ nie.
+{178804}{178867}Jestem tu sama.
+{178968}{179019}Ty mnie tu umieœci³eœ.
+{179064}{179123}Krzywdzi³aœ ludzi, Jean.
+{179153}{179188}Musia³em.
+{179392}{179444}Kocham ciê, Jean.
+{179576}{179621}I nie przestanê.
+{180500}{180569}Jesteœ moj¹ jedyn¹ rodzin¹.
+{180606}{180663}Trzymaj siê, siostro.
+{180985}{181062}Czy nie mylê siê,|¿e wkrótce mnie odwiedzisz?
+{181339}{181370}Zostañ.
+{181410}{181446}Nie mogê, ksiê¿niczko.
+{181468}{181504}Jestem ¿o³nierzem
+{181504}{181546}i za d³ugo siê ukrywa³em.
+{181875}{181939}{y:i}Dziœ wieczorem w naszym Pulsie Biznesu:|Mariko Yashida
+{181942}{182010}{y:i}Dwa pokolenia odesz³y z rodziny Yashida...
+{182014}{182081}{y:i}Mariko Yashida przejmuje |stery po swoim dziadku,
+{182081}{182109}{y:i}który zbudowa³ przemys³owego giganta,
+{182113}{182165}Wiem, ¿e zawsze celem
+{182165}{182215}korporacji bêdzie zysk
+{182219}{182321}ale koncern Yashida wierzy, ¿e tak¿e mo¿e |dzia³aæ na rzecz spo³eczeñstwa
+{182473}{182526}To co, zdecydowa³eœ siê?
+{182591}{182609}Na co?
+{182619}{182674}Mariko powiedzia³a, ¿e mam|ciê zabraæ dok¹dkolwiek zechcesz.
+{182678}{182719}Powiedz tylko gdzie.
+{182749}{182781}A ty co tu robisz?
+{182831}{182875}Jestem twoim ochroniarzem.
+{182985}{183024}Wiêc gdzie chcesz polecieæ?
+{183078}{183103}Uh...
+{183116}{183162}Mo¿e najpierw wystartujmy.
+{183166}{183206}A potem?
+{183302}{183343}Zobaczy siê.
+{183400}{183431}Ciekawe.
+{186105}{186156}{y:i}Z prze³omow¹ technologi¹,
+{186159}{186206}{y:i}i ze œwiatowej klasy naukowcami
+{186210}{186248}{y:i}jesteœmy na froncie...
+{186252}{186329}{y:i}walki o twoje zdrowie i bezpieczeñstwo
+{186340}{186389}{y:i}Trask Industries.
+{186394}{186449}{y:i}Rozwi¹zuje problemy jutra ju¿ dziœ.
+{186471}{186504}Wybieram kontrolê osobist¹.
+{186507}{186531}Wy³¹cz.
+{186842}{186872}Mo¿e pan przejœæ.
+{186872}{186899}Poczekam.
+{187105}{187141}Czego chcesz?
+{187183}{187243}Istniej¹ ciemne si³y,|Wolverinie.
+{187283}{187333}Ludzie buduj¹ broñ...
+{187337}{187419}która mo¿e zakoñczyæ |istnienie naszego gatunku.
+{187487}{187562}Czego chcê?|Chcê twojej pomocy.
+{187573}{187611}Dlaczego mam ci zaufaæ?
+{187639}{187671}Nie musisz.
+{188262}{188294}Czeœæ, Logan.
+{188398}{188443}Jak to jest mo¿liwe?
+{188447}{188513}Tak jak ci mówi³em,|dawno temu...
+{188542}{188607}nie jesteœ jedynym mutantem.
+{188619}{188693}
+

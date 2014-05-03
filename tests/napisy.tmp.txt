@@ -1,0 +1,659 @@
+00:00:01:Poprzednio w "Stargate Atlantis"
+00:00:03:Pu³kownik Ellis, doskona³y czas przelotu|jak na pierwszy raz
+00:00:06:Replikatorzy znaj¹ po³o¿enie Ziemi|a z tymi nowymi statkami mog¹ tam dotrzeæ
+00:00:12:Wiêc zamierzasz zniszczyæ ich statki
+00:00:15:Oberoth, zaatakowaliœmy bo nie by³o innego wyjœcia
+00:00:17:Budujecie statki wojenne|musia³y zostaæ zneutralizowane
+00:00:20:Wiêc teraz wy tak¿e
+00:00:21:Nie ma znaczenia, gdzie siê schowamy
+00:00:24:satelita replikatorów jest w stanie nas wytropiæ
+00:00:27:Zanurzymy miasto
+00:00:28:Woda os³abi energiê promienia z satelity,|da nam to trochê wiêcej czasu
+00:00:32:Woda nie daje ¿adnego efektu?
+00:00:33:Daje, ale zupe³nie inny ni¿ chcia³em
+00:00:35:Chcecie skierowaæ asteroidê|w nasz¹ stronê?
+00:00:37:Czy to rozs¹dne?
+00:00:38:Atlantis opuszcza tê planetê
+00:00:41:Nie wznieœliœmy siê wystarczaj¹co
+00:00:43:Bo nie mamy doœæ mocy
+00:00:45:Opuœciæ os³ony
+00:00:50:Silniki nadprzestrzenne|po prostu siê wy³¹czy³y
+00:00:52:Zgubiliœmy siê, wyszliœmy |z nadprzestrzeni o wiele za wczeœnie
+00:00:55:Nie mam pojêcia, gdzie jesteœmy
+00:01:04:Jest nieprzytomna|Ÿrenice prawie nie reaguj¹
+00:01:06:Przygotujcie salê operacyjn¹ i skaner|maj¹ byæ gotowe jak dotrzemy
+00:01:09:Ju¿ siê tym zajmujemy|Ustawiæ skaner
+00:01:13:Ma zapaœæ
+00:01:15:Szybko, nie chcê tego robiæ w hallu
+00:01:21:Zaczynamy|Zaczynamy
+00:01:25:Mo¿esz przywróciæ dzia³anie czujników?
+00:01:26:Mam nadzieje, ¿e tak|ale wolno idzie
+00:01:29:Kontakt z Apollo?
+00:01:30:Jeszcze nie
+00:01:31:Dlaczego?|£¹cznoœæ podprzestrzenna nie dzia³a
+00:01:33:Spokojnie, Chuck siê tym zajmuje
+00:01:38:Mo¿e ty powinieneœ?
+00:01:40:Mam wiêksze zmartwienie
+00:01:41:Co mo¿e byæ wa¿niejsze|ni¿ kontakt z Apollo?
+00:01:45:Niemo¿liwe...|Co sie sta³o?
+00:01:48:Energia, tracimy potê¿ne iloœci energii
+00:01:51:Wyci¹gnij!|Nie mogê tego zrobiæ
+00:01:53:Dlaczego?|Musimy zaczekaæ a¿ zrobimy przeœwietlenie
+00:01:56:Upewnimy siê, ¿e nie narobimy szkód przy wyci¹ganiu
+00:01:59:Wyci¹gnij to!
+00:02:01:Ta, jesteœ twardziel
+00:02:04:Chcesz to wyci¹gn¹æ?|proszê bardzo ale ja nie...
+00:02:06:Zwariowa³eœ!?
+00:02:20:Na trzy, gotowi?|raz, dwa, trzy
+00:02:30:Odsun¹æ siê
+00:02:34:£aduj!
+00:02:36:Myœlê, ¿e problem nie le¿y w sterowni
+00:02:37:Nie obchodzi mnie gdzie jest problem,|chce wiedzieæ co jest problemem
+00:02:41:Sieæ linii transmisji energii
+00:02:44:Wygl¹da na to, ¿e...
+00:02:46:...kilka g³ównych linii ucierpia³o|przy trafieniu promieniem
+00:02:48:To znaczy, ¿e musimy...
+00:02:50:Tak, tak, musisz...
+00:02:52:Tak zrobiê, jak tylko wy³¹czê wszystkie...|Tak, zrobiê to samo
+00:02:55:Zaraz, zaraz, co siê dzieje?
+00:02:57:Z ka¿d¹ sekund¹ marnujemy energiê
+00:02:59:Po prostu mi zaufajcie|robimy co trzeba
+00:03:01:Bez zmian
+00:03:04:Zróbmy masa¿ serca|200 cm3 kroplówka
+00:03:07:Powiedz mi, co siê dzieje Rodney
+00:03:08:D³uga historia w krótko:
+00:03:09:Jest du¿o w³¹czonych systemów,|których akurat nie potrzebujemy
+00:03:12:bior¹c pod uwagê aktualn¹ sytuacjê,|wysysaja eneriê z miasta
+00:03:15:Nie mo¿emy ich wy³¹czyæ?
+00:03:17:To jest... czekaj aa... mo¿e
+00:03:24:No dalej
+00:03:29:Czas?|Od 2 minut p³aski odczyt
+00:03:33:Potrzebujemy ciê| Elizabeth
+00:03:36:Wraca!|Spróbujemy defiblyrowaæ
+00:03:41:Odsun¹æ siê
+00:03:48:Dalej|Dalej
+00:03:49:SprawdŸmy odczyty
+00:03:57:Dr Keller?
+00:04:01:Nie jest dobrze
+00:04:02:Mózg jest powa¿nie opuchniêty
+00:04:04:To wyjaœnia s³ab¹ reakcje Ÿrenic
+00:04:05:I inne rzeczy
+00:04:07:Daj jej 30mg monophine co 4 godziny|i zwróæ uwagê na ciœnienie
+00:04:13:Nic
+00:04:15:Nie mogê st¹d wy³¹czyæ systemów|uk³ady sterowania nie dzia³aj¹
+00:04:17:Wykrwawiamy siê
+00:04:18:Mo¿emy wy³¹czyæ systemy rêcznie
+00:04:20:To zajmie sporo czasu!|Wola³byœ nie próbowaæ?
+00:04:23:Masz racjê|masz racjê
+00:04:25:Zelenka, musimy rozes³aæ kilka zespo³ów
+00:04:30:Nie reaguje
+00:04:34:Tracimy j¹
+00:04:40:Wysy³am z wami kilku moich ludzi|w razie jakbyœcie potrzebowali pomocy
+00:04:43:ETA 5 min
+00:04:45:Myœlê ¿e da nam to wystarczaj¹co du¿o czasu|Nie wiem
+00:04:46:I tak du¿o nie mieliœmy a teraz|energia prawie na wyczerpaniu
+00:04:48:Bêdziemy mieæ szczêœcie jak przetrwamy noc
+00:04:56:{C:$aaccff}.:: Grupa Hatak - Hatak.pl ::.|/przedstawia
+00:04:59:{C:$aaccff}Stargate Atlantis  Adrift|"DRYFUJ¥C"
+00:05:13:{C:$aaccff}T³umaczenie: Ujemny|Napisy: Ujemny
+00:05:28:{C:$aaccff}Korekta: Tanith
+00:05:43:{C:$aaccff}.:: Grupa Hatak - Hatak.pl ::.
+00:06:08:S³uchaj
+00:06:09:No co?|Podj¹³eœ wiele decyzji bez konsultacji ze mn¹
+00:06:13:Przepraszam, ale byliœmy pod ostrza³em|Wszystko dzia³o siê szybko
+00:06:15:To zrozumia³e, ale gdy Elizabeth...
+00:06:19:jest... niedysponowana
+00:06:20:trudno mi to powiedzieæ...|ale...
+00:06:22:Ty dowodzisz, przepraszam
+00:06:24:Po prostu informuj mnie o wszystkim
+00:06:27:Bêdê ci wysy³a³ okólniki|Co to?
+00:06:29:ehm...  streszczenia|Czemu od razu tak nie powiedzia³eœ?
+00:06:32:Niewa¿ne
+00:06:34:Jak opuszczaliœmy planetê, byliœmy|ostrzeliwani przez przez satelitê replikatorów
+00:06:38:Stwierdziliœmy, ¿e kiedy promieñ trafi³ w wie¿ê,|uszkodzi³ sieæ linii energetycznych
+00:06:42:To obejdŸmy te przewody
+00:06:44:Taa ... to nie takie ³atwe
+00:06:46:Pomieszczenie ZPM jest u podnó¿a wie¿y,|czyli zosta³y trafione g³ówne linie
+00:06:51:Nie mo¿na ich obejœæ
+00:06:54:Wiêc czêœæ miasta nie ma energii
+00:06:56:Nie, nie, linie nie zosta³y przeciête,|tylko uszkodzone
+00:06:59:To skomplikowane,|ale wyobraŸ je sobie jako przeciekaj¹c¹ rurê
+00:07:04:Gdy pompujesz do niej wodê,|to ona wycieka, prawda?
+00:07:05:PrzejdŸ do sedna, albo ciê strzelê
+00:07:08:Przepraszam
+00:07:09:Miasto zdaje sobie sprawê, ¿e z jakiegoœ |powodu energia nie dociera do dalszych czêœci
+00:07:13:Zamiast reperowaæ przeciek,|czego nie mo¿e robiæ,
+00:07:15:zwiêksza moc wyjœciow¹ ZPM,|wiêc mimo ¿e rura cieknie
+00:07:19:i traci przez to energiê,
+00:07:20:wystarczaj¹co du¿o energii|dociera na koniec linii
+00:07:23:I to Ÿle?|Nie, to dobrze
+00:07:25:Gdyby tak nie by³o stracilibyœmy os³onê,|atmosferê, i bylibyœmy ju¿ martwi
+00:07:29:Jest du¿o systemów, które|nie musz¹ byæ teraz w³¹czone
+00:07:33:Bêdziemy traciæ energiê|nie wa¿ne co zrobimy
+00:07:36:ale jeœli wy³¹czymy niepotrzebne systemy,|ZPM nie bêdzie musia³
+00:07:40:tyle pompowaæ do ciekn¹cej rury|i odsuniemy œmieræ o nastêpn¹ godzinê lub wiêcej
+00:07:46:Wiêc gdzie w tym jesteœmy?
+00:07:48:Zespo³y robi¹ postêpy
+00:07:51:Mamy ju¿ wy³¹czone prawie|60% drugorzêdnych systemów
+00:07:55:Co?|Co siê dzieje?
+00:07:57:Obrze¿a miasta siê dekompresuj¹|i trac¹ sztuczn¹ grawitacjê
+00:08:01:Dlaczego miasto to robi?
+00:08:06:Zmniejsza os³onê,|by oszczêdzaæ energiê
+00:08:08:Mamy tam ludzi
+00:08:10:Mathius wracaj natychmiast do wie¿y
+00:08:13:Nie skoñczyliœmy, sir|Os³ony siê za³amuj¹, ruszaæ siê!
+00:08:16:S³yszeliœcie, jazda!
+00:08:23:Nie zd¹¿¹
+00:08:25:Zatrzymaj, zatrzymaj je
+00:08:27:Miasto zmniejszaj¹c os³ony,|zmniejsza siê
+00:08:29:Jeœli to opóŸnimy,|to mo¿e siê zapaœæ ca³kowicie
+00:08:31:Mam to gdzieœ, obejdŸ to!
+00:08:33:Nie pozwala mi
+00:08:54:Ju¿ prawie jesteœmy
+00:08:58:Stracimy ich, McKay!|Myœlisz, ¿e nie wiem?
+00:09:03:Grawitacja w³aœnie siê wy³¹czy³a
+00:09:13:Brak oznak ¿ycia
+00:09:23:Powiedz innym zespo³om, by siê spieszy³y|Nie chcê ich tam d³u¿ej ni¿ musz¹ byæ
+00:10:25:Hej, czy ty te¿ masz niepójnoœæ danych|przy odczycie z napêdów flash?
+00:10:36:Przepraszam|O rany
+00:10:40:Ta cholerna niewa¿noœæ
+00:10:41:Mo¿e powinieneœ wróciæ na Ziemiê|Mo¿e ktoœ inny pomo¿e mi uruchomiæ stacjê
+00:10:45:Nie, poczujê siê lepiej, jak tylko wymyœlê,|jak przywróciæ grawitacjê
+00:10:51:Co mówi³aœ o napêdach flash?
+00:10:53:Za ka¿dym razem, jak|uaktualniam oprogramowanie napêdy...
+00:10:58:Wrota z Pegasusa siê w³¹czy³y
+00:11:00:Tutaj pu³kownik Ellis, dowódca Apollo
+00:11:03:Stacja MidWay, odbiór
+00:11:05:Pu³kowniku Ellis,|tutaj pu³kownik Samantha Carter
+00:11:07:Jestem na stacji MidWay|Jak posz³a misja?
+00:11:11:Na tyle na ile wiemy,|Atlantis uniknê³a promienia Replikatorów
+00:11:15:i by³a w stanie wejœæ w nadprzestrzeñ
+00:11:17:"Na tyle na ile wiecie"?
+00:11:19:Nie zameldowali siê w punkcie wyjœcia
+00:11:22:Naprawdê?|Powinni tam byæ przed wami
+00:11:25:W³aœciwie, hej, to jak nas wybraliœcie?|M12578 nie ma wrót, jest poza zasiêgiem
+00:11:30:Skoczy³em do najbli¿szych wrót,|by sprawdziæ czy meldowali siê u was
+00:11:33:Przykro mi to mówiæ,|ale nie
+00:11:35:prawdopodobnie sta³o siê coœ niedobrego
+00:11:37:Chyba tak
+00:11:40:Po³¹czê siê za godzinê|lub wczeœniej, jeœli skontaktujê siê z nimi
+00:11:43:Brzmi nieŸle|Bez odbioru
+00:11:55:Hej, powinieneœ byæ w ³ó¿ku
+00:12:03:Jak ona siê ma?|Jej mózg... puchnie
+00:12:07:Drastycznie|Wiêcej ni¿ g³owa mo¿e pomieœciæ
+00:12:11:Jeœli nie przestanie,|bêd¹ musieli wykonaæ trepanacjê czaszki
+00:12:16:Wycinaj¹ kawa³ek jej czaszki|i mózg ma mo¿liwoœæ siê...
+00:12:23:rozszerzyæ poza jej g³owê
+00:12:33:Co z ni¹?|Ci¹gle na sali operacyjnej
+00:12:35:W stanie spi¹czki
+00:12:36:Myœlê, ¿e powinniœmy ograniczyæ os³ony|tylko do wie¿y
+00:12:39:Bêdziemy kompletnie|ods³oniêci na kosmos
+00:12:41:Tak, bêdziemy, ale mamy tak ma³o mocy
+00:12:44:Nie mam dodatkowej energii,|by rozwi¹zaæ
+00:12:47:setki innych problemów
+00:12:50:Pogadaj z Zelenk¹ i upewnij siê,|¿e wszystkie zespo³y siê odliczy³y
+00:12:53:Ju¿ to zrobi³em
+00:12:55:Dobra, rób co potrzeba
+00:12:59:Zaczynamy
+00:13:11:Kana³owe blokery wapniowe nie daj¹ zbyt du¿ych efektów
+00:13:15:Jakie jest ciœnienie wewn¹trzczaszkowe?|35
+00:13:19:Nie mo¿na dopuœciæ aby dosz³o do 40
+00:13:26:Zacznijmy przygotowania|do trepanacji czaszki
+00:14:12:Ciœnienie zesz³o do 29
+00:14:13:Mam nadziejê, ¿e bêdzie 25
+00:14:23:Mam dwie dobre wiadomoœci
+00:14:25:Uda³o mi siê obliczyæ|nasz¹ dok³adn¹ pozycjê
+00:14:27:Czy to oznacza, ¿e mo¿na u¿yæ wrót?
+00:14:29:Niestety nie, by aktywowaæ wrota musimy pozostawaæ|w niewielkim obszarze kosmosu
+00:14:34:Poruszamy siê zbyt szybko
+00:14:35:Mo¿emy u¿yæ silników podœwietlnych, by zwolniæ?
+00:14:37:By³oby mi³o, gdyby dzia³a³y,|ale nawigacja jest zepsuta
+00:14:40:I podci¹gn¹³eœ to pod dobre wieœci?
+00:14:43:Przynajmniej ju¿ nie jesteœmy zagubieni, nieprawda¿?
+00:14:45:Numer dwa:|Z napêdem nadprzestrzennym wszystko w porz¹dku
+00:14:48:Wiêc dlaczego wyszliœmy z|nadprzestrzeni przedwczeœnie?
+00:14:50:Uszkodzenia linii energetycznych
+00:14:52:Mieliœmy pe³no paliwa w zbiornikach,
+00:14:54:ale nie móg³ dotrzeæ|do silników, dlatego siê zatrzyma³y
+00:14:56:Jeœli to naprawimy,|to skoczymy w nadprzestrzeñ?
+00:14:58:Taki jest pomys³
+00:14:59:Nie naprawimy go kompletnie,|bez l¹dowania i takich tam
+00:15:03:Ale na pewno mo¿emy go za³ataæ
+00:15:05:Zelenka i jego zespó³ pracuj¹|tak szybko jak tylko mog¹
+00:15:07:Problemem jest to,|¿e ci¹gle przeciekamy
+00:15:10:Nawet po tych ograniczeniach?
+00:15:11:Obawiam siê, ¿e tak
+00:15:13:Spójrzcie
+00:15:14:To jest minimum, jakiego potrzebuje miasto,|by wejœæ w nadprzestrzeñ
+00:15:19:Jeœli nie naprawimy linii przesy³owych w ci¹gu |godziny, spadniemy poni¿ej tego poziomu
+00:15:23:Potem po prostu utkniemy
+00:15:24:Bêdziemy mieæ mo¿e 30 godzin, a¿ os³ony opadn¹|i umrzemy z braku atmosfery
+00:15:39:Dobrze siê czujesz?|Tak, dobrze
+00:15:41:Wyci¹gneli szk³o
+00:15:43:To dobrze|Potrzebujesz mnie gdzieœ?
+00:15:45:W³aœnie tutaj ¿ebyœ wydobrza³
+00:15:46:Jestem gotowy do akcji
+00:15:49:Pu³kowniku
+00:15:58:Jak z ni¹?
+00:15:59:¯yje
+00:16:01:Jest w z³ym stanie
+00:16:04:Ma 6 z³amanych ¿eber
+00:16:05:Jedno przebi³o jej p³uco
+00:16:09:To zaskakuj¹ce, ¿e nie ma|uszkodzonego krêgos³upa
+00:16:12:ale nieŸle oberwa³a w g³owê
+00:16:16:Ma obrzêk mózgu, co mo¿e|spowodowaæ powa¿ne uszkodzenie mózgu
+00:16:23:Co to wszystko znaczy?
+00:16:25:Jest jeszcze za wczeœnie|¿eby mieæ pewnoœæ ale...
+00:16:29:Jeœli przetrwa,|podkreœlam "jeœli"...
+00:16:35:to nie bêdzie nigdy wiêcej|t¹ sam¹ Elizabeth
+00:16:42:Przykro mi
+00:16:46:Mam parê spraw do zrobienia|i zaraz wracam
+00:16:48:Brak nam personelu|Czêœæ jest na Apollo
+00:17:02:Jak idzie w centrum?|W³aœciwie ca³kiem dobrze
+00:17:05:Serio?|Tak, tak, tak
+00:17:06:U¿yliœmy czêœci z drugorzêdnych linii
+00:17:09:Naprawa interfejsu g³ównych|idzie doœæ g³adko
+00:17:13:Jeœli utrzymamy obecne tempo,|zd¹¿ymy przed osi¹gniêciem minimum energii,
+00:17:19:by skoczyæ w nadprzestrzeñ|i spotkaæ siê z Apollo
+00:17:21:To fantastycznie
+00:17:22:Tak, przypuszcza³em, ¿e bêdziesz zadowolony
+00:17:25:Zadowolony?|Nie przypuszcza³em, ¿e sobie poradzisz
+00:17:28:Zamierzam zrobiæ...
+00:17:29:Pu³kownik Sheppard, Dr McKay,|proszê zg³osiæ siê do sterowni
+00:17:34:Który jestem na liscie?|Drugi?
+00:17:40:Spójrzcie na to
+00:17:44:Co to jest?|Pas asteroidów?
+00:17:47:Podœwietlne nadal nie dzia³aj¹?|Tak
+00:17:50:Bêdziemy musieli rozszerzyæ os³onê
+00:17:51:Nie mamy wystarczaj¹co energii
+00:17:53:Kiedy tam dotrzemy|i ile przez to bêdziemy lecieæ?
+00:17:55:10 minut, by dotrzeæ|i 2 minuty, by przelecieæ
+00:17:59:2 minuty, by przelecieæ|przez pas asteroidów?
+00:18:00:Nie przechodzimy przez ca³y pas|Zahaczamy o krawêdŸ
+00:18:04:Nie mo¿esz nawet na 2 minuty|w³¹czyæ os³on
+00:18:06:Nie bierz tego do siebie|Chcê tego samego, co ty,
+00:18:08:ale nie mo¿emy straciæ energii
+00:18:09:Zelenka potrzebuje 45 minut,|by naprawiæ g³ówne linie
+00:18:13:Jeœli podniesiemy przes³ony na minutê,|to póŸniej nam siê nie uda
+00:18:19:Jak du¿e one s¹?
+00:18:20:Jesteœmy w doœæ du¿ym uk³adzie s³onecznym|pas asteroidów powsta³ prawdopodobnie
+00:18:25:z resztek wczesnych planet wiêc...|wielkoœci budynku lub wiêksze
+00:18:31:Mogê dostaæ sie do fotela, wystrzeliæ|parê dron by oczyœciæ nam przejœcie
+00:18:34:Zasadniczo dobry pomys³, ale fotel|jest teraz poza os³on¹ Nie dotrzemy tam
+00:18:38:Moglibyœmy... nie to nie zadzia³a
+00:18:41:Moglibyœmy...
+00:18:43:Ile osób w bazie ma gen Pradawnych?
+00:18:46:20 czy coœ ko³o tego|Nie, nie...
+00:18:48:To jest z³y pomys³
+00:18:49:A masz lepszy pomys³?|Tak
+00:18:53:Nie mogê, potrzebujê...|potrzebujê trochê wiêcej czasu
+00:18:55:Powiedz wszystkim, którzy maj¹ gen Pradawnych,|¿e spotykamy siê w hangarze skoczków
+00:19:00:Zrób to
+00:19:04:Co oznacza, ¿e nie mo¿emy podnieœæ os³on,|bo nie mamy doœæ energii
+00:19:08:Jeœli nie zrobimy przejœcia dla miasta,
+00:19:10:to zostanie rozerwane na kawa³ki
+00:19:12:WeŸmiemy wszystkie skoczki,
+00:19:15:zrobimy przejœcie przez pas,|strzelaj¹c dronami
+00:19:22:Przepraszam, lecia³em skoczkiem|tylko dwa razy,
+00:19:25:nigdy nie strzela³em dronami
+00:19:27:Mia³eœ to na symulacjach, tak?
+00:19:30:Tak, ale...
+00:19:30:W³aœciwie to to samo
+00:19:32:Jeœli McKey to potrafi,|wy te¿ potraficie
+00:19:35:Tak, w³aœnie, jeœli chodzi o to to w³aœciwie...
+00:19:36:S³uchajcie|Wiem, ¿e to niebezpieczne
+00:19:39:Wiem, ¿e wielu z was nie ma|wielu wylatanych godzin
+00:19:42:Ale teraz...|jest to jedyna rozs¹dna opcja jak¹ mamy,
+00:19:46:albo...
+00:19:47:Umrzeæ
+00:19:51:Ruszajmy
+00:20:13:Dobra, za³adowaæ dane taktyczne
+00:20:15:Zostajecie na wyznaczonych pozycjach,|zdejmujecie wszystko co jest na waszej drodze
+00:20:19:Macie pe³no dron, wiêc brak amunicji|nie powinien byæ problemem
+00:20:23:To jak stara gra komputerowa - Asteroidy
+00:20:25:Jeœli ci to pomaga...
+00:20:27:By³em w to beznadziejny,|zdarza³o siê, ¿e nie zdoby³em ani jednego punktu
+00:20:30:Wiêc gorszego wyniku nie zrobisz
+00:20:34:Dobra wszyscy, ruszamy
+00:20:37:Otworzyæ hangar
+00:20:56:Dalej, utrzymaæ szyk
+00:20:59:Nie mo¿emy nic przeoczyæ
+00:21:02:Zmierzam na pozycjê
+00:21:04:No i proszê
+00:21:05:Nie by³o takie trudne
+00:21:11:Skoczki powinniœcie byæ w zasiêgu za 3
+00:21:15:2
+00:21:17:1
+00:21:18:Strzelaæ bez rozkazu
+00:21:31:NieŸle, ludzie
+00:21:32:Jest ich zbyt wiele i id¹ za szybko|nie uda nam siê zniszczyæ wszystkich
+00:21:35:Podwoiæ ogien,|strzelaæ czterama na raz
+00:21:37:Nie mogê kontrolowaæ 4 dron na raz
+00:21:39:Po prostu siê skoncentruj
+00:21:50:Cholera
+00:21:51:Nie martw siê ni¹
+00:21:52:Mia³eœ racjê nie uda siê str¹ciæ|wszystkiego za pierwszym razem
+00:22:06:Czy zniszczyli wystarczaj¹c¹ iloœæ|asteroid by oczyœciæ tor lotu?
+00:22:09:Wkrótce siê dowiemy
+00:22:15:I co teraz?
+00:22:16:Na mój znak, nasza trójka opuszcza szyk |i wraca do miasta
+00:22:20:Niszczymy wszystko co przepuœciliœmy
+00:22:21:To brzmi wa¿nie, mo¿e|ktoœ inny powinien...
+00:22:23:Teraz!
+00:22:32:McKay, masz du¿¹ z lewej burty
+00:22:35:Widzê
+00:22:36:Uderzy za 10 sekund
+00:22:54:Co to by³o?|Ma³e kawa³ki które przesz³y
+00:23:01:Niektóre najwyraŸniej nie s¹ takie ma³e
+00:23:03:Na razie uszkodzenia s¹|na obrze¿ach miasta
+00:23:06:Mam nadziejê, ¿e tak zostanie
+00:23:14:Dobra przeszliœmy,|wracamy ponownie pozbieraæ resztki
+00:23:39:To koniec, uda³o siê
+00:23:58:Nie moge uwierzyæ, ¿e siê|uda³o, to nie samowite
+00:24:00:By³eœ dobry, Rodney
+00:24:01:Zelenka z zespo³em powinni ju¿ koñczyæ naprawy|wiêc chyba w koñcu wychodzimy na prost¹
+00:24:06:P³k. Sheppard, dr McKay,|proszê siê zg³osiæ na mostek, natychmiast
+00:24:10:Oh, no dajcie spokój!
+00:24:16:Cholera, co siê sta³o?
+00:24:17:Napêd nadprzestrzenny jest wy³¹czony
+00:24:19:By³ gotowy do pracy|By³, ale kilka wiêkszych kawa³ków
+00:24:21:uderzy³o w miasto i uszkodzenia wzros³y
+00:24:24:Nie skoczymy póki tego nie naprawimy
+00:24:26:Mówi³em, ¿e by³em kiepski w asteroidach
+00:24:38:Uszkodzona czêœæ jest|na obrze¿ach miasta,
+00:24:41:co niestety jest poza os³on¹
+00:24:44:Mo¿emy u¿yæ transportera|stamt¹d jest ju¿ bardzo blisko,
+00:24:46:ale to wymaga spaceru w kosmosie
+00:24:48:Nie powinno byæ problemów
+00:24:49:Nie bêdzie, mo¿e poza mikorasteroidami
+00:24:52:Co?
+00:24:53:W³aœnie przeszliœmy przez pas asteroidów,|du¿e s¹ ju¿ za nami ale ma³e wielkoœci pocisku ci¹gle tam s¹
+00:24:58:Ma³e kamienne pociski, wspaniale
+00:25:01:Wszystko bêdzie w porz¹dku
+00:25:01:Wiêc dlaczego ty nie pójdziesz?
+00:25:03:Bo ty ju¿ opracowa³eœ szczegó³y naprawy
+00:25:04:Wiesz, ¿e stracimy kupê|czasu gdybym mia³ teraz nadgoniæ
+00:25:07:Skoro mowa o czasie, ile mamy?
+00:25:08:Jak wejdziecie w|skafander jakieœ 15 minut
+00:25:10:Tylko tyle
+00:25:11:Gdyby nie spowolnienie wycieku energii,|ju¿ byœmy byli martwi
+00:25:21:Mo¿esz to zrobiæ
+00:25:25:Dobra
+00:25:34:McKay, próbowa³am siê z tob¹ skontaktowaæ
+00:25:36:Wiesz, próbowa³em ratowaæ miasto
+00:25:38:Co z Elizabeth|O tym w³aœnie chcia³am porozmawiaæ
+00:25:40:Jest bardzo Ÿle
+00:25:41:Jest tak Ÿle, ¿e ja i mój zespó³|nic nie mo¿emy ju¿ dla niej zrobiæ
+00:25:44:O mój Bo¿e
+00:25:46:Jesteœ pewna|Wyczerpa³am ka¿d¹ medyczn¹ mo¿liwoœæ
+00:25:49:I ¿adna nie zadzia³a³a
+00:25:51:To co, umrze?
+00:25:52:Wiêc... mam jeszcze jeden pomys³,|ale potrzebujê twojej pomocy
+00:25:55:Mnie, a niby po co?
+00:25:58:Widzisz je?|Czym s¹?
+00:26:01:Pamiêtasz jak dr Wierd by³a zaatakowana|przez replikatory, i jak j¹ zainfekowa³y
+00:26:05:Nanity
+00:26:06:Carlson by³ w stanie je|wy³¹czyæ u¿ywaj¹æ EMP
+00:26:10:Ale ci¹gle s¹ w jej organiŸmie
+00:26:12:Jesteœ genialna
+00:26:14:No wiesz, próbujê tylko ratowaæ ¿ycie
+00:26:20:Co chcesz zrobiæ?
+00:26:21:W³¹czyæ ponownie nanity Wierd
+00:26:23:To jest, straszny,|straszny pomys³
+00:26:26:Co?|Przeprogramowa³em je
+00:26:28:John, tracimy j¹, Carla i jej zespó³|wykorzysta³ ka¿d¹ mo¿liw¹ opcjê
+00:26:32:Jesli je przeprogramujê, pomoga w wyleczeniu|i nie przejm¹ kontroli nad mózgiem
+00:26:36:To jest wielkie jeœli
+00:26:39:Jestem prawie pewien, ¿e je przeprogramuje,|by robily tylko to co chcemy
+00:26:43:Prawie pewien
+00:26:45:Co jeœli siê w³¹cz¹ i zaczn¹ siê|porozumiewaæ z innymi replikatorami?
+00:26:49:W tej chwili ostatni¹ rzecz¹ jakiej potrzebujemy
+00:26:51:to ¿eby sie pojawi³ okrêt wojenny replikatorów
+00:26:52:S³ysza³eœ co powiedzia³em?|Powiedzia³em, ¿e mogê je przeprogramowaæ,
+00:26:55:aby by³y kompletnie nieszkodliwe
+00:26:56:Nie bêdê z tob¹ rozmawia³,|a¿ nie bêdziesz pewien
+00:27:01:Tak jak my wszyscy chcê|uratowaæ Elizabeth
+00:27:06:Ale nie zaryzykuje ¿ycia wszystkich|nawet dla niej
+00:27:21:To by³o w³aœciwe
+00:27:23:Miejmy nadziejê
+00:27:33:Jakieœ wieœci z Apollo?
+00:27:34:Nie, jeszcze nie
+00:27:40:Nad czym pracujesz?
+00:27:41:Chcê wymyœliæ, jak|skontaktowaæ siê z Atlantis
+00:27:45:To jasne, ¿e zboczyli z kursu
+00:27:48:Kiedy napêd Atlantis by³ ostatnio u¿ywany?|Milion lat temu?
+00:27:52:Nie wiadomo, co mog³a spowodowaæ|taka bezczynnoœæ
+00:27:54:Myœlê, ¿e bardziej prawdopodobne jest,|¿e wyskoczyli wczeœniej z nadprzestrzeni
+00:27:58:Lecieli tylko z jednym ZPM
+00:28:00:Mo¿e McKay i reszta|Ÿle obliczyli zapotrzebowanie na energie
+00:28:04:Tak czy siak,|wiem jak ich znaleŸæ
+00:28:06:Doprawdy?|Tak, zrobimy WWW
+00:28:09:"Wywo³anie Wszystkich Wrót"
+00:28:10:To jak "Wywo³anie Wszystkich Punktów"|tylko, ¿e z wrotami
+00:28:13:Daj spokój|Nie, nie, serio
+00:28:14:Napiszemy program, który wywo³a wrota|w ca³ej galaktyce Pegaza na raz
+00:28:17:Wtedy spróbujemy nawi¹zaæ|kontakt radiowy z Atlantis
+00:28:20:Ale wrota Atlantis|s¹ poza zasiêgiem
+00:28:22:Ale jeœli s¹ blisko innych wrót...|To ju¿ by siê skontaktowaliby z nami
+00:28:29:No tak
+00:28:31:Wiêc jaki ty masz pomys³?
+00:28:33:Jeszcze nic, ale...
+00:28:35:Ja przynajmniej siê staram,|generujê jakieœ pomys³y...
+00:28:39:Przepraszam
+00:28:44:W³aœciwie to jestem zaskoczony
+00:28:46:Uszkodzenia w tym rejonie s¹ doœæ ma³e
+00:28:52:Oœmielê siê mieæ inne zdanie
+00:28:56:Ojej
+00:29:15:Niech zgadnê...
+00:29:17:Tablica jest tam dalej?
+00:29:20:Obawiam siê, ¿e tak
+00:29:25:Ehm... wspaniale
+00:29:37:Co to do cholery by³o?
+00:29:39:Mikroasteroida
+00:29:41:Oh, dobra
+00:29:44:Dobra... wygl¹da na to,|¿e musimy skoczyæ
+00:29:47:Nie potrafiê skoczyæ|na ponad 30 metrów
+00:29:49:Jesteœmy w kosmosie|tutaj to nie jest daleko
+00:29:53:Pos³uchaj...
+00:29:55:przyczepiê siê do ciebie, ok?
+00:30:01:nastêpnie wy³¹czê magnesy|w twoich butach
+00:30:07:a teraz ciê rzucê
+00:30:08:Czekaj, co? co?
+00:30:09:potem wy³¹czê moje buty|zanim linka si¹ napnie
+00:30:14:a twoja inercja œci¹gnie nas|na drugi koniec korytarza
+00:30:18:£atwizna
+00:30:19:A jak nie trafisz?
+00:30:21:Musisz mi zaufaæ, doktorku
+00:30:23:Zaufaæ mi na tyle, jak daleko mogê tob¹ rzuciæ
+00:30:26:Bardzo zabawne
+00:30:27:Zróbmy to
+00:31:10:To by³o... niesamowite
+00:31:13:Bierzmy siê do roboty
+00:31:15:Dobra
+00:31:25:Jak idzie?
+00:31:27:Wolno
+00:31:29:Wymyœli³eœ jak bezpiecznie|aktywowaæ nanity?
+00:31:32:W skrócie tak,|w szczegó³ach nie
+00:31:35:- Co?|- Jestem w 100% pewny, ¿e mogê w³¹czyæ nanity
+00:31:38:i, ¿e pomog¹ posk³adaæ Elizabeth
+00:31:41:Dobra
+00:31:42:Problem w tym, ¿e zrobi¹ to,|zastêpuj¹c uszkodzone komórki sob¹
+00:31:47:W momencie, gdy je wy³¹czê...|Te komórki przestan¹ dzia³aæ
+00:31:51:I ona umrze|Tak
+00:31:53:Dobr¹ informacj¹ jest to, ¿e zaprogramowa³em je tak,|¿e jej nie skrzywdz¹
+00:31:57:Dodatkowo wy³¹czy³em mo¿liwoœæ kontaktu|z replikatorami przez podprzestrzeñ
+00:32:01:wiêc zarówno ona i my|bêdziemy bezpieczni ale...
+00:32:03:bêdzie czêœciowo|replikatorem do koñca ¿ycia
+00:32:07:Sheppard na to nie pójdzie
+00:32:10:Jest ma³a mo¿liwoœæ,|¿e mo¿e je zmuszê do pomocy
+00:32:13:komórkom organicznym i wy³¹czenia siê,|gdy skoñcz¹, ale...
+00:32:17:potrzebujê wiêcej czasu
+00:32:20:Ok, zostawiê ciê z tym|Powodzenia
+00:32:23:Dziêki
+00:32:27:Przepraszam, to zajmuje wiêcej|ni¿ siê spodziewa³em
+00:32:30:Te rêkawiczki mnie spowalniaj¹
+00:32:38:Nie przejmuj siê tym
+00:32:40:Ci¹gle mamy 4 minuty nim|poziom energii spadnie zbyt nisko
+00:32:43:i nie bêdziemy mogli wykonaæ skoku
+00:32:44:Tak
+00:33:19:Ehm, s³uchaj, ja...
+00:33:22:Nie mo¿esz mnie us³yszeæ,
+00:33:25:ale chcê tylko, chce powiedzieæ...
+00:33:34:Chcê ci podziêkowaæ...
+00:33:38:za to, ¿e pozwoli³aœ mi|zostaæ tutaj dwa lata temu
+00:33:46:Bo nie wiem... nie wiem czy by³bym ci¹gle...
+00:33:57:Dziêkujê Dr Weir
+00:34:04:Co zrobi³em?
+00:34:05:Nic, to nie ty,|ale musisz wyjœæ
+00:34:08:Wymieñ torebkê z kroplówk¹
+00:34:15:Kiedy trafia ciê mikroasteroida,|czy to boli?
+00:34:18:Nie
+00:34:20:Jesteœ w szoku
+00:34:22:Mam dziurê w kombinezonie
+00:34:24:Ok, kombinezon kontroluje ciœnienie|wzywam skoczka
+00:34:27:Musimy dostarczyæ ciê na sale operacyjn¹
+00:34:28:Nie mo¿emy odejœæ
+00:34:30:Muszê skoñczyæ naprawy
+00:34:31:Powiesz mi, co zrobiæ
+00:34:32:Zbyt skomplikowane
+00:34:36:Prawie skoñczy³em
+00:34:45:Dr McKay?|O co chodzi, Kelly?
+00:34:47:Elizabeth ma zapaœæ, jeœli mamy to zrobiæ|to róbmy to teraz
+00:34:51:Potrzebuje wiêcej czasu|Nie mamy wiêcej czasu
+00:34:53:Nie mogê podnieœæ jej ciœnienia krwi|i jeœli ciœnienie wewn¹trzczaszkowe nadal bêdzie wzrastaæ,
+00:34:56:to ju¿ jej nie odzyskamy
+00:35:01:Przesy³am ci teraz ten program
+00:35:05:Idê do ciebie
+00:35:10:Wiesz, naj³atwiejsz¹ droga do ich znalezienia,|jeœli wyskoczyli z nadprzestrzeni wczeœniej,
+00:35:13:to lecieæ z powrotem drog¹ miêdzy|M12578 a Atlantis
+00:35:17:To zajmie z milion lat
+00:35:18:Dlatego mamy napêd nadprzestrzenny
+00:35:20:Mo¿emy u¿yæ czujników|dalekiego zasiêgu z Apollo
+00:35:22:One nie dzia³aj¹ w nadprzestrzeni
+00:35:25:Wiem, ale mo¿emy wykonaæ ma³y skok,|rozejrzeæ siê, kolejny skok itd
+00:35:29:To dobre
+00:35:31:U¿ywaj¹c tych czujników, to zajmie nam|mniej wiêcej 180000 ma³ych skoków
+00:35:40:Kilka lat
+00:35:42:Chyba ¿e mocno wzmocnimy|czujniki dalekiego zasiêgu
+00:35:45:A kto to zrobi?|Nie mamy Asgardczyka na pok³adzie
+00:35:49:Masz ochotê na ma³¹|przeja¿d¿kê do Galaktyki Pegaza?
+00:35:54:To ostatnia poprawka|Wykona³eœ œwietn¹ robotê Radek
+00:35:58:Wzywam skoczka
+00:36:05:Skoñczy³em
+00:36:08:Sterownia, tu Sheppard
+00:36:11:Jak tylko wejdziemy w os³onê,|aktywowaæ napêd nadprzestrzenny
+00:36:15:Przykro mi John, nie mo¿emy
+00:36:16:Dlaczego?|Zelenka w³aœnie skoñczy³ naprawy
+00:36:19:Wiem, ale spadliœmy poni¿ej poziomu
+00:36:23:Nie mamy wystarczaj¹cej mocy
+00:36:41:Bêdzie zdrowy?|Myœlê, ¿e tak, ominê³o g³ówne organy
+00:36:45:Szczêœciarz
+00:36:46:Nie powiedzia³bym tak|utkn¹³ tu, tak jak my wszyscy
+00:36:49:Wiêc to prawda
+00:36:51:Naprawi³ napêd, ale nie mamy|doœæ energii, by siê st¹d ruszyæ
+00:36:54:Mamy 24 godziny,|nim os³ona padnie
+00:36:57:Wiêc jaki jest plan?
+00:36:57:Nie wiem|Muszê znaleŸæ McKay
+00:36:59:Jest tam
+00:37:06:S³ysza³em, ¿e uda³o wam siê zd¹¿yæ
+00:37:08:Co tam robi³eœ?
+00:37:10:S³uchaj, umiera³a...
+00:37:13:Rodney
+00:37:14:Serce by³o s³abe,|uk³ad nerwowy spalony,
+00:37:16:Co ty zrobi³eœ!?
+00:37:21:W³¹czy³em nanity|Cholera
+00:37:23:By³eœ zajêty, to by³a kwestia ¿ycia|lub œmierci, gdybym nie dzia³a³...
+00:37:26:Tak umar³aby, wiem
+00:37:27:Wiem, co sobie myœlisz, ale pomagaj¹c|Elizabeth, niczym nie ryzykowa³em
+00:37:30:W³aœnie w³¹czy³eœ nanity replikatorów
+00:37:33:S¹ nieszkodliwe
+00:37:34:Jestem w 100% pewny, ¿e jej|nie przejm¹ i nie skontaktuj¹ siê z innymi
+00:37:38:Nie, nie mo¿esz tego wiedzieæ na pewno
+00:37:40:Tak, tak, mogê
+00:37:43:Wy³¹cz je
+00:37:46:To j¹ zabije
+00:37:47:Jak myœlisz czego chcia³a by Elizabeth?|Myœlisz, ¿e chcia³aby...
+00:37:49:Tak, to samo zrobi³a dla ciebie
+00:37:52:Widocznie nie zna³em jej za dobrze
+00:37:53:Mo¿e nie, ale daj jej czas,|to sam j¹ zapytasz!
+00:37:56:Nie! To zbyt niebezpieczne|Wy³¹cz to! Natychmiast
+00:38:01:Nie, nie zamierzam
+00:38:09:Mayers, przynieœ generator EMP|do sali operacyjnej
+00:38:13:Pos³uchaj mnie!
+00:38:24:John... Rodney...
+00:38:31:Co siê dzieje?
+00:38:48:Kwarantanna jest niepotrzebna
+00:38:51:Wybacz, ale poczekam na inn¹ opiniê
+00:38:54:To jest g³upie
+00:38:56:Co jest?|To, ¿e walczymy ze sob¹
+00:38:58:Wiem, ¿e nie jesteœ zadowolony ze mnie|mo¿e nawet s³usznie
+00:39:01:Ale to nie ma znaczenia,|jeœli nie wymyœlimy, jak siê st¹d wydostaæ
+00:39:05:Musimy pracowaæ razem, wiêc...
+00:39:07:wiêc...
+00:39:09:wiêc... ja...
+00:39:09:przepraszam
+00:39:17:Przeprosiny przyjête
+00:39:19:Dobrze
+00:39:22:Ktoœ powinien z ni¹ pogadaæ|Teyla jest tam
+00:39:35:Nie powinniœcie byli tego robiæ
+00:39:37:Nikt nie chcia³ ciê straciæ
+00:39:41:A co siê stanie, jeœli nanity|skontaktuj¹ siê z replikatorami
+00:39:44:Rodney nie s¹dzi, ¿e to mo¿liwe
+00:39:48:Nie, to lekkomyœlnoœæ
+00:39:50:Moim zdaniem, to ryzyko jest tego warte
+00:39:59:Nie masz pojêcia,|przez co przesz³am ostatnim razem
+00:40:04:Uwierz mi...
+00:40:06:To bardzo z³y pomys³
+00:40:24:Co ty tutaj robisz?
+00:40:26:Jaki sens le¿eæ w szpitalu|i czekaæ na œmieræ?
+00:40:30:Na czym stoimy?
+00:40:32:Mo¿emy zapomnieæ|o komunikacji podprzestrzennej
+00:40:34:G³ówna tablica kontrolna jest|ca³kowicie uszkodzona przez promieñ
+00:40:38:Ale mam inny pomys³
+00:40:40:Pos³uchajmy
+00:40:41:Powodem, dla którego|nie mo¿emy wykorzystaæ energii,
+00:40:43:która nam zosta³a,|by wykonaæ skok w nadprzestrzeñ
+00:40:45:jest to, ¿e miasto nam nie pozwala
+00:40:48:Protoko³y bezpieczeñstwa
+00:40:50:Ale mo¿e bêdê je móg³ obejœæ
+00:40:51:Co nam to daje?
+00:40:52:Niezbyt wiele
+00:40:54:Nie dotrzemy do Apollo,|ani do najbli¿szych wrót,
+00:40:58:ale mo¿e znajdziemy planetê|nadaj¹c¹ siê do zamieszkania
+00:41:02:Mój zespó³ w³aœnie opracowuje|dane ze skanerów
+00:41:03:Czy nikt nie wpad³ na to,|dlaczego protoko³y bezpieczeñstwa
+00:41:07:w ogóle zosta³y ustanowione?
+00:41:09:Jest mo¿liwe, ¿e miasto siê rozsypie,|gdy wejdziemy w nadprzestrzeñ przy mniejszej mocy
+00:41:14:Jaka szansa?|Pó³ na pó³
+00:41:19:Powiem ci Radek, ¿e ten pomys³|mi siê nie podoba
+00:41:25:Eksperymentalny skoczek
+00:41:28:Pamiêtasz to urz¹dzenie sprzed miesi¹ca?|Jak by³em jeszcze m¹drzejszy ni¿ normalnie?
+00:41:33:To które ciê prawie zabi³o?|Tak
+00:41:35:Nim to wy³¹czy³em, by³em blisko|wyposa¿enia skoczka w napêd nadprzestrzenny
+00:41:38:Mo¿esz to dokoñczyæ?|Tak
+00:41:40:Prawdopodobnie
+00:41:42:Œwietnie, skoczymy do Apollo|i powiemy im, gdzie jesteœmy
+00:41:45:Nie|Dlaczego?
+00:41:47:Napêd skoczka by³by ograniczony
+00:41:48:Nie jesteœmy w stanie skoczyæ tak daleko|Jak daleko zatem?
+00:41:53:Jak myœlisz... dwa...|Tak...
+00:41:55:Dwa z groszami...
+00:41:57:W sumie mo¿e oko³o 2000 lat œwietlnych
+00:42:01:To lista planet w zasiêgu
+00:42:06:Wiêc zrobimy kilka wypraw|na te planety
+00:42:08:I znowu, nie|Dlaczego?
+00:42:11:Napêd nie by³ testowany
+00:42:12:Bêdzie dobrze jak wykonamy ze dwa skoki
+00:42:14:Wrócimy gdzie indziej
+00:42:19:Mo¿emy przynieœæ kilka... zapasowych ZPM
+00:42:22:Wracamy, mamy moc na Atlantis
+00:42:24:Bêdzie wspaniale
+00:42:26:M7R227
+00:42:29:Co to?
+00:42:33:Czy to planeta z ZPM?
+00:42:36:Tak, wiemy, ¿e jest tam kilka ZPM
+00:42:39:Wiêc kto to?
+00:42:42:To ojczysta planeta replikatorów
+00:42:47:Mo¿e ma³a kradzie¿?
+00:42:58:{C:$aaccff}T³umaczenie: Ujemny|Korekta: Tanith
+00:43:00:{C:$aaccff}Napisy: Ujemny
