@@ -26,10 +26,7 @@ import os.path
 import getopt
 import sys
 import re
-
-
-
-             
+          
 # TMP   
 # SubRip
 # Fab
@@ -46,6 +43,12 @@ class Subtitles:
         self.subType = ''
         self.fps = fps
     
+    def getFps(self):
+        return self.fps
+    
+    def setFps(self,fps):
+        self.fps = fps
+        
     def writeToFile(self, out_file_name):
         with open(out_file_name, 'w') as outfile:
             if not self.subtitle == []:
@@ -203,32 +206,6 @@ class Subtitles:
         for l in self.subtitle:
             #sys.stdout.write(l)
             print(l)            
-
-
-
-class Subconverter:
-    
-    
-    def __init__(self,in_file,fps=23.98):
-        self.in_file = in_file
-        self.out_file = in_file.rsplit('.',1)[0]
-        self.out_file +=".sub"
-        self.fps = fps
-    def convert(self):
-        infile = open(self.in_file,'r')
-        outfile = open(self.out_file,'w')
-        for l in infile.readlines():
-            if l.startswith('['):
-                #print('debug',l.split(']',2))
-                #l = l.strip()
-                start,stop,text = l.split(']',2)
-                start = start.lstrip('[')
-                stop = stop.lstrip('[')
-                start = int(int(start)*self.fps/10)
-                stop = int(int(stop)*self.fps/10)
-                outfile.writelines('{{{0}}}{{{1}}}{2}'.format(start,stop,text))
-                #print('{{{0}}}{{{1}}}{2}'.format(start,stop,text))
-    
 
         
 
