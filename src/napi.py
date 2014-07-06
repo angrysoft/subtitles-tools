@@ -61,7 +61,7 @@ class Napi:
         return ''.join(b)
 
 
-    def get (self):
+    def getSubtitles (self):
         """ Function doc """
         #f = open(self.arch_file,"wb")
         f = open(self.text_file,"wb")

@@ -20,7 +20,7 @@
 __author__='Sebastian Zwierzchowski'
 __copyright__='Copyright 20012-2014 Sebastian Zwierzchowski'
 __license__='GPL2'
-__version__='0.2'
+__version__='0.1'
 
 import os.path
 import getopt
@@ -43,18 +43,17 @@ class Subtitles:
         self.subType = ''
         self.fps = fps
     
+    #def detectFps(self):
+    #    """Detect frame rate"""
+    #    pass
+    
     def getFps(self):
         return self.fps
     
     def setFps(self,fps):
         self.fps = fps
         
-    def writeToFile(self, out_file_name):
-        with open(out_file_name, 'w') as outfile:
-            if not self.subtitle == []:
-                for l in self.subtitle:
-                    outfile.write('\n'.join(self.subtitle))
-    
+    # MicroDVD    
     def frameToMs(self,frame):
         return int(frame / self.fps * 100)
     
@@ -71,7 +70,7 @@ class Subtitles:
                 start = start.lstrip('{')
                 stop = stop.lstrip('{')
                 self.subtitle.append([self.frameToMs(int(start)),self.frameToMs(int(stop)),text])
-    
+    #MPL2
     def parseMpl2(self):
         del self.subtitle[:]
         
@@ -82,6 +81,7 @@ class Subtitles:
                 stop = stop.lstrip('[')
                 self.subtitle.append([int(start) * 100, int(stop) * 100, text]) 
     
+    #TMP
     def hhmmssToMs(self,h,m,s):
         return(int(h) * 3600 + int(m) * 60 + int(s))* 1000
     
@@ -98,20 +98,34 @@ class Subtitles:
             h,m,s,text = l.split(':',3)
             self.subtitle.append([self.hhmmssToMs(h,m,s), self.hhmmssToMs(h, m, int(s)+2),text])
             #sys.stdout.write("{0}:{1}:{2}={3}".format(h,m,s,text))
+    
+    #SubRip
     def subRipFormatToMs(self,inTime):
         h,m,s = inTime.split(':')
         s,ms = s.split(',')
         return self.hhmmssToMs(h, m, s) + int(ms)
         
     def parseSubRip(self):
-        inText = False
+        text = ''
+        start = None
+        stop = None
         del self.subtitle[:]
         for l in self.inSub:
-            if re.search('\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d',l):
-                start,stop = re.split(' --> ',l)
-                start = start.strip()
-                stop = stop.strip()
-                print(self.subRipFormatToMs(start),self.subRipFormatToMs(stop))   
+            if re.search('^\d+\s$',l) or re.search('^\s+$',l):continue
+            time = re.match('(\d\d:\d\d:\d\d,\d\d\d)\s*-->\s*(\d\d:\d\d:\d\d,\d\d\d)',l)
+            if time:
+                if start or stop:
+                    self.subtitle.append([start,stop,text])
+                    #print(start,stop,text)
+                    text = ''
+                st = time.group(1)
+                sp = time.group(2)
+                st = st.strip()
+                sp = sp.strip()
+                start = self.subRipFormatToMs(st)
+                stop = self.subRipFormatToMs(sp)
+            else:
+                text += l
     
     def setSubsType(self,subType):
         """docstring for setSubs"""
@@ -205,8 +219,26 @@ class Subtitles:
     def printSub(self ):
         for l in self.subtitle:
             #sys.stdout.write(l)
-            print(l)            
+            sys.stdout.write('{0};{1};{2}'.format(l[0],l[1],l[2]))
+    
+    def writeToFile(self, out_file_name):
+        with open(out_file_name, 'w') as outfile:
+            if not self.subtitle == []:
+                for l in self.subtitle:
+                    outfile.write('\n'.join(self.subtitle))        
 
+    def toMicorDvd(self):
+        """docstring for toMicorDvd"""
+        pass
+    
+    def toMpl2(self):
+        """docstring for toMpl2"""
+        pass
+    
+    def toTmp(self):
+        """docstring for toTmp"""
+        pass
         
-
-        
+    def toSubRip(self):
+        """docstring for toSubRip"""
+        pass

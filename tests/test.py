@@ -12,11 +12,12 @@ def testFile(f):
     print('{0} : {1}'.format(f,s.getSubsType()))
 
 
-testFile('sub.txt')
-s.printSub()
-testFile('mpl2.txt')
-testFile('tmp.txt')
+#testFile('sub.txt')
 #s.printSub()
-#testFile('napisy.srt.txt')
-testFile('unknown.txt')
+#testFile('mpl2.txt')
+#testFile('tmp.txt')
+#s.printSub()
+testFile('srt.txt')
+s.printSub()
+#testFile('unknown.txt')
 
