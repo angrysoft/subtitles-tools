@@ -3,6 +3,6 @@ Moduły pythona do manipulacji napisami do filmów.
 
 ## modules:
 ### subconverter:
-converts between various subtitle formats.
+Konwertowanie między rożnymi formatami.
 ### napi:
-Gets subtitles from www.napiprojekt.pl adapted to film.
+Pobiera napisy z www.napiprojekt.pl dostosowane do filmu.
