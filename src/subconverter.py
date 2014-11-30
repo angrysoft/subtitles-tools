@@ -221,8 +221,8 @@ class Subtitles:
             #sys.stdout.write(l)
             sys.stdout.write('{0};{1};{2}'.format(l[0],l[1],l[2]))
     
-    def writeToFile(self, out_file_name):
-        with open(out_file_name, 'w') as outfile:
+    def writeToFile(self, outFileName):
+        with open(outFileName, 'w') as outfile:
             if not self.subtitle == []:
                 for l in self.subtitle:
                     outfile.write('\n'.join(self.subtitle))        
