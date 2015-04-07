@@ -2,7 +2,7 @@
 Python modlues for manipulating movi subtitles.
 
 ## modules:
-- ### subconverter:
+- ### subconverter: (broken)
 converts between various subtitle formats. 
-- ### napi:
+- ### napi (working):
 Gets subtitles from www.napiprojekt.pl adapted to movie.

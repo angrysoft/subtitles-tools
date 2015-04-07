@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.3
+#!/usr/bin/env python3
 # reversed napi 0.16.3.1
 #
 # by gim,krzynio,dosiu,hash 2oo8.
