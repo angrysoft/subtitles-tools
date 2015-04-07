@@ -1,2 +1,2 @@
-include apps/napi-cli.py README.pl REDME.md
+include apps/napi-cli README.pl REDME.md
 recursive-include src/*
