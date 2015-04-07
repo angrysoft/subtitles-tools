@@ -8,4 +8,5 @@ setup(name='subtitlestools',
       author_email='sebastian.zwierzchowski@gmail.com',
       license='GPL2',
       package_dir={'subtitlestools' : 'src'},
-      packages=['subtitlestools'])
+      packages=['subtitlestools'],
+      sctipts=['apps/napi-cli.py'])
