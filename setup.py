@@ -10,4 +10,4 @@ setup(name='subtitlestools',
       license='GPL2',
       package_dir={'subtitlestools' : 'src'},
       packages=['subtitlestools'],
-      sctipts=['apps/napi-cli.py'])
+      scripts=['apps/napi-cli.py'])
