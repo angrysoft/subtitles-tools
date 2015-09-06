@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # subconverter.py
 # Copyright (C) 2012-2014  Sebastian Zwierzchowski <sebastian.zwierzchowski@gmail.com>
