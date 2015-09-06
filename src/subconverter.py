@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # subconverter.py
-# Copyright (C) 2012-2014  Sebastian Zwierzchowski <sebastian.zwierzchowski@gmail.com>
+# Copyright (C) 2012-2015  Sebastian Zwierzchowski <sebastian.zwierzchowski@gmail.com>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -18,7 +18,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 __author__='Sebastian Zwierzchowski'
-__copyright__='Copyright 20012-2014 Sebastian Zwierzchowski'
+__copyright__='Copyright 20012-2015 Sebastian Zwierzchowski'
 __license__='GPL2'
 __version__='0.1'
 
@@ -33,31 +33,32 @@ import re
 # SubViewer
 # WebVTT
 
+
 class Subtitles:
-    
-    
-    def __init__(self,fps=23.98):
+
+    def __init__(self, fps=23.98):
         self.inSub = []
+        self.outSub = []
         self.subtitle = []
         self.sub = None
         self.subType = ''
         self.fps = fps
     
-    #def detectFps(self):
-    #    """Detect frame rate"""
-    #    pass
+    # def detectFps(self):
+    #     """Detect frame rate"""
+    #     pass
     
     def getFps(self):
         return self.fps
     
-    def setFps(self,fps):
+    def setFps(self, fps):
         self.fps = fps
         
     # MicroDVD    
-    def frameToMs(self,frame):
+    def frameToMs(self, frame):
         return int(frame / self.fps * 100)
     
-    def msToFrame(self,ms):
+    def msToFrame(self, ms):
         return int(ms * self.fps / 100)
     
     def parseMicroDvd(self):
@@ -66,11 +67,12 @@ class Subtitles:
         
         for l in self.inSub:
             if l.startswith('{'):
-                start,stop,text = l.split('}',2)
+                start, stop, text = l.split('}', 2)
                 start = start.lstrip('{')
                 stop = stop.lstrip('{')
-                self.subtitle.append([self.frameToMs(int(start)),self.frameToMs(int(stop)),text])
-    #MPL2
+                self.subtitle.append([self.frameToMs(int(start)), self.frameToMs(int(stop)), text])
+
+    # MPL2
     def parseMpl2(self):
         del self.subtitle[:]
         
@@ -81,28 +83,28 @@ class Subtitles:
                 stop = stop.lstrip('[')
                 self.subtitle.append([int(start) * 100, int(stop) * 100, text]) 
     
-    #TMP
-    def hhmmssToMs(self,h,m,s):
+    # TMP
+    def hhmmssToMs(self, h, m, s):
         return(int(h) * 3600 + int(m) * 60 + int(s))* 1000
     
-    def msToHhmmss(self,ms):
+    def msToHhmmss(self, ms):
         sec = ms/1000
         h = sec/3600
         m = (sec - h * 3600)/60
         s = (sec - h * 3600 - m * 60)
-        return h,m,s 
+        return h, m, s
        
     def parseTmp(self):
         del self.subtitle[:]
         for l in self.inSub:
-            h,m,s,text = l.split(':',3)
-            self.subtitle.append([self.hhmmssToMs(h,m,s), self.hhmmssToMs(h, m, int(s)+2),text])
+            h, m, s, text = l.split(':', 3)
+            self.subtitle.append([self.hhmmssToMs(h, m, s), self.hhmmssToMs(h, m, int(s)+2), text])
             #sys.stdout.write("{0}:{1}:{2}={3}".format(h,m,s,text))
     
-    #SubRip
+    # SubRip
     def subRipFormatToMs(self,inTime):
-        h,m,s = inTime.split(':')
-        s,ms = s.split(',')
+        h, m, s = inTime.split(':')
+        s, ms = s.split(',')
         return self.hhmmssToMs(h, m, s) + int(ms)
         
     def parseSubRip(self):
@@ -115,7 +117,7 @@ class Subtitles:
             time = re.match('(\d\d:\d\d:\d\d,\d\d\d)\s*-->\s*(\d\d:\d\d:\d\d,\d\d\d)',l)
             if time:
                 if start or stop:
-                    self.subtitle.append([start,stop,text])
+                    self.subtitle.append([start, stop, text])
                     #print(start,stop,text)
                     text = ''
                 st = time.group(1)
@@ -127,7 +129,7 @@ class Subtitles:
             else:
                 text += l
     
-    def setSubsType(self,subType):
+    def setSubsType(self, subType):
         """docstring for setSubs"""
         if subType == 'MicroDVD':
             self.subType = subType
@@ -172,60 +174,76 @@ class Subtitles:
         vtt = 0
         fileLines = len(self.inSub)
         for s in self.inSub:
-            if re.search('^\{\d+\}\{\d+\}',s) : microDvd+=1
-            elif re.search('^\[\d+\]\[\d+\]',s) : mpl2+=1
-            elif re.search('^\d\d:\d\d:\d\d:',s) : tmp+=1
-            elif re.search('\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d',s) : subRip+=1
-            elif re.search('^\d\d\d\d : \d\d:\d\d:\d\d:\d\d\s+\d\d:\d\d:\d\d:\d\d',s) : fab+=1
-            elif re.search('^\d\d:\d\d:\d\d:\d\d,\d\d:\d\d:\d\d:\d\d',s) : subViewer+=1
-            elif re.search('\d\d:\d\d.\d\d\d --> \d\d:\d\d.\d\d\d',s) : vtt+=1
-        if microDvd >= (fileLines*0.8) : self.setSubsType('MicroDVD')
-        elif mpl2 >= (fileLines*0.8) : self.setSubsType('Mpl2')
-        elif tmp >= (fileLines*0.8) : self.setSubsType('TMP')
-        elif subRip >= (fileLines*0.2) : self.setSubsType('SubRip')
-        elif fab >= (fileLines*0.8) : self.setSubsType('Fab')
-        elif subViewer >= (fileLines*0.8) : self.setSubsType('SubViewer')
-        elif vtt >= (fileLines*0.2) : self.setSubsType('WebVTT')
-        else : self.setSubsType('unknown')
+            if re.search('^\{\d+\}\{\d+\}', s):
+                microDvd += 1
+            elif re.search('^\[\d+\]\[\d+\]', s):
+                mpl2 += 1
+            elif re.search('^\d\d:\d\d:\d\d:', s):
+                tmp += 1
+            elif re.search('\d\d:\d\d:\d\d,\d\d\d --> \d\d:\d\d:\d\d,\d\d\d', s):
+                subRip += 1
+            elif re.search('^\d\d\d\d : \d\d:\d\d:\d\d:\d\d\s+\d\d:\d\d:\d\d:\d\d', s):
+                fab += 1
+            elif re.search('^\d\d:\d\d:\d\d:\d\d,\d\d:\d\d:\d\d:\d\d', s):
+                subViewer += 1
+            elif re.search('\d\d:\d\d.\d\d\d --> \d\d:\d\d.\d\d\d', s):
+                vtt += 1
+        if microDvd >= (fileLines*0.8):
+            self.setSubsType('MicroDVD')
+        elif mpl2 >= (fileLines*0.8):
+            self.setSubsType('Mpl2')
+        elif tmp >= (fileLines*0.8):
+            self.setSubsType('TMP')
+        elif subRip >= (fileLines*0.2):
+            self.setSubsType('SubRip')
+        elif fab >= (fileLines*0.8):
+            self.setSubsType('Fab')
+        elif subViewer >= (fileLines*0.8):
+            self.setSubsType('SubViewer')
+        elif vtt >= (fileLines*0.2):
+            self.setSubsType('WebVTT')
+        else:
+            self.setSubsType('unknown')
     
-    def loadFromFile(self,inFileName):
+    def loadFromFile(self, inFileName):
         if sys.version_info[0] == 2:
             self.loadFromFileP2(inFileName)
         elif sys.version_info[0] == 3:
             self.loadFromFileP3(inFileName)
     
-    def loadFromFileP2(self,inFileName):
+    def loadFromFileP2(self, inFileName):
         del self.inSub[:]
-        with open(inFileName,'r') as inFile:
+        with open(inFileName, 'r') as inFile:
             for l in inFile:
                 self.inSub.append(l)
         self._detectSubtitleFormat()
     
-    def loadFromFileP3(self,inFileName):
+    def loadFromFileP3(self, inFileName):
         del self.inSub[:]
-        with open(inFileName,'r', errors='ignore') as inFile:
+        with open(inFileName, 'r', errors='ignore') as inFile:
             for l in inFile:
                 self.inSub.append(l)
         self._detectSubtitleFormat()
         
-    def loadFromBuffer(self,buffer):
+    def loadFromBuffer(self, buffer):
         """docstring for loadFromBuffer"""
         del self.inSub[:]
-        if type(buffer) == type([]):
+        #if type(buffer) == type([]):
+        if isinstance(buffer, list):
             self.inSub = buffer[:]
-        self._detectSubtitleFormat()
-        
-    
-    def printSub(self ):
+        # else: raise ....
+            self._detectSubtitleFormat()
+
+    def printSub(self):
         for l in self.subtitle:
             #sys.stdout.write(l)
-            sys.stdout.write('{0};{1};{2}'.format(l[0],l[1],l[2]))
+            sys.stdout.write('{0};{1};{2}'.format(l[0], l[1], l[2]))
     
     def writeToFile(self, outFileName):
         with open(outFileName, 'w') as outfile:
             if not self.subtitle == []:
-                for l in self.subtitle:
-                    outfile.write('\n'.join(self.subtitle))        
+                #for l in self.subtitle:
+                outfile.write('\n'.join(self.subtitle))
 
     def toMicorDvd(self):
         """docstring for toMicorDvd"""
