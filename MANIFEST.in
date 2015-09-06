@@ -1,0 +1,2 @@
+include apps/napi-cli README.pl REDME.md
+recursive-include src/*

@@ -1,4 +1,5 @@
 from distutils.core import setup
+#files=['apps/napi-cli.py', 'README.pl']
 
 setup(name='subtitlestools',
       version='0.1',
@@ -8,4 +9,5 @@ setup(name='subtitlestools',
       author_email='sebastian.zwierzchowski@gmail.com',
       license='GPL2',
       package_dir={'subtitlestools' : 'src'},
-      packages=['subtitlestools'])
+      packages=['subtitlestools'],
+      scripts=['apps/napi-cli.py'])
