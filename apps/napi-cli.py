@@ -7,8 +7,7 @@ from subtitlestools import napi
 
 def get_subtitle(filePath):
     """ Function doc """
-    n = napi.Napi(filePath)
-    n.setDebug(True)
+    n = napi.Napi(filePath,debug=True)
     n.getSubtitles()
     del n
 
